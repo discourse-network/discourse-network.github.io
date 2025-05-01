@@ -1,8 +1,9 @@
-header:
-  navigation:
-    - title: "Home"
-      url: "/"
-    - title: "WorkPackages"
-      url: "/workpackages/"
-    - title: "About"
-      url: "/about/"
+main:
+  - title: "Home"
+    url: "/"
+  - title: "WorkPackages"
+    url: "/workpackages/"
+  - title: "About"
+    url: "/about/"
+  - title: "Contact"
+    url: "/contact/"
