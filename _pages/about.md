@@ -1,7 +1,7 @@
 ---
-layout: default
-title: "about"
+title: "About"
 permalink: /about/
+layout: page
 ---
 
 # DisCouRSE: Developing a Community of Leaders
