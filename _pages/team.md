@@ -8,7 +8,7 @@ classes: wide
 author_profile: false
 ---
 
-Here’s our team of digital research leaders:
+Here’s our DISCOURSE Teams:
 
 {% for member in site.team %}
   <div>
