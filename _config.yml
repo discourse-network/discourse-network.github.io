@@ -70,7 +70,19 @@ footer:
 #      url: "https://instagram.com/"
 
 # Turn off the sidebar completely
-sidebar: false
+sidebar: true
+
+# Sidebar widgets: Add custom content here
+sidebar_widgets:
+  - text:
+      title: "Welcome to DisCouRSE"
+      content: |
+        This is the sidebar where you can include some introductory text.
+        You can also provide more details about the site, upcoming events, 
+        or anything else you'd like visitors to see while navigating the site.
+        
+        Feel free to customize the content to match your theme and goals.
+
 
 # Header navigation links
 header:
