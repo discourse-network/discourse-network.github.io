@@ -1,9 +1,9 @@
 ---
 title: Team
 permalink: /team/
-layout: default
-collection: team
-entries_layout: grid
+layout: single
+collection: project_team
+entries_layout: list
 classes: wide
 author_profile: false
 ---
