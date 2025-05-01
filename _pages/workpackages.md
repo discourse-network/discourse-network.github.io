@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "WorkPackages"
+title: "workpackages"
 permalink: /workpackages/
 ---
 
