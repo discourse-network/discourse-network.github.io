@@ -9,6 +9,10 @@ github:
 minimal_mistakes_skin: dark
 search: true
 
+# Navigation
+navigation:
+  header: main
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -56,18 +60,18 @@ footer:
 #      url: "https://instagram.com/"
 
 # Sidebar enabled and custom content (text widget)
-sidebar: true
+sidebar: false
 
-# Sidebar content for the widgets
-sidebar_widgets:
-  - text:
-      title: "Welcome to DisCouRSE"
-      content: |
-        This is the sidebar where you can include some introductory text.
-        You can also provide more details about the site, upcoming events, 
-        or anything else you'd like visitors to see while navigating the site.
-        
-        Feel free to customize the content to match your theme and goals.
+## Sidebar content for the widgets
+#sidebar_widgets:
+#  - text:
+#      title: "Welcome to DisCouRSE"
+#      content: |
+#        This is the sidebar where you can include some introductory text.
+#        You can also provide more details about the site, upcoming events, 
+#        or anything else you'd like visitors to see while navigating the site.
+#        
+#        Feel free to customize the content to match your theme and goals.
 
 # Page defaults
 defaults:
