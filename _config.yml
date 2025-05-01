@@ -44,7 +44,7 @@ plugins:
 
 author:
   name: "DisCouRSE"
-  avatar: "/assets/images/bio-photo.jpg"
+#  avatar: "/assets/images/bio-photo.jpg"
   bio: "DisCouRSE: Developing a Community of Leaders"
 #  links:
 #    - label: "Website"
