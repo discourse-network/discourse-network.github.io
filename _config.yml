@@ -74,6 +74,7 @@ sidebar: false
 
 # Header navigation links
 header:
+  name: "TEST"
   nav:
     - title: "Home"
       url: "/"
