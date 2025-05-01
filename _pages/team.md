@@ -3,7 +3,7 @@ title: Team
 permalink: /team/
 layout: default
 collection: team
-entries_layout: list
+entries_layout: grid
 classes: wide
 author_profile: false
 ---
