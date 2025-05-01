@@ -1,18 +1,20 @@
 /* Add styles for the navigation bar */
 nav {
-  background-color: #333;
+  background-color: #f9f9f9; /* light background */
   padding: 10px 0;
+  border-bottom: 1px solid #ddd; /* optional subtle border */
 }
 
 nav a {
-  color: white;
+  color: #333; /* dark text */
   padding: 10px 15px;
   text-decoration: none;
   display: inline-block;
 }
 
 nav a:hover {
-  background-color: #555;
+  background-color: #eee; /* light hover effect */
+  color: #000; /* even darker text on hover */
 }
 
 /* Center the links horizontally */
@@ -23,3 +25,4 @@ header nav {
 header nav a {
   margin: 0 10px;
 }
+
