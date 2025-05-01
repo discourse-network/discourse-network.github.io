@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Who?"
-permalink: /about/
+permalink: /who/
 ---
 
 ## Who Can Join?
