@@ -1,7 +1,7 @@
 ---
 title: Team
 permalink: /team/
-layout: single
+layout: default
 collection: team
 entries_layout: list
 classes: wide
