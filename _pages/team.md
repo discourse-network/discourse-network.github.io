@@ -2,7 +2,7 @@
 title: Team
 permalink: /team/
 layout: single
-collection: project_team
+collection: team
 entries_layout: list
 classes: wide
 author_profile: false
