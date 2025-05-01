@@ -72,9 +72,12 @@ footer:
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
 
-# Sidebar settings (optional — hides nav panel)
 sidebar:
-  nav: null
+  nav:
+    - title: "WorkPackages"
+      url: "/workpackages/"
+    - title: "About"
+      url: "/about/"
 
 defaults:
   # _posts
