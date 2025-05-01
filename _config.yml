@@ -1,4 +1,4 @@
-title: "DisCouRSE: Developing a Community of Leaders"
+title: "DisCouRSE: Developing a Community of Leaders TOP"
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 # twitter_username: username
 # github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -54,12 +54,6 @@ author:
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://instagram.com/"
 
 footer:
 #  links:
@@ -73,13 +67,23 @@ footer:
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
 
+# Turn off the sidebar (no sidebar navigation)
 sidebar:
+  nav: null
+
+# Add links to the header for easy navigation
+header:
   nav:
-    - title: "workpackages"
-      url: "/workpackages/"  # Link to the WorkPackages page
+    - title: "Home"
+      url: "/"
+    - title: "WorkPackages"
+      url: "/workpackages/"
     - title: "About"
       url: "/about/"
+    - title: "Contact"
+      url: "/contact/" # You can add any other page here as well
 
+# Page defaults
 defaults:
   # Pages
   - scope:
