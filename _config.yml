@@ -7,8 +7,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 # twitter_username: username
 # github_username: username
 github:
-    is_project_page: false
-minimal_mistakes_skin: dark
+  is_project_page: false
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
@@ -16,25 +16,13 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 
 # Outputting
-#permalink: /:categories/:title/
-#paginate: 5 # amount of posts to show
-#paginate_path: /page:num/
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
 
 # Plugins (previously gems:):
 plugins:
@@ -69,10 +57,10 @@ footer:
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
 
-# Turn off the sidebar completely
+# Sidebar enabled and custom content (text widget)
 sidebar: true
 
-# Sidebar widgets: Add custom content here
+# Sidebar content for the widgets
 sidebar_widgets:
   - text:
       title: "Welcome to DisCouRSE"
@@ -82,11 +70,16 @@ sidebar_widgets:
         or anything else you'd like visitors to see while navigating the site.
         
         Feel free to customize the content to match your theme and goals.
-
+  - text:
+      title: "Quick Links"
+      content: |
+        - [WorkPackages](/workpackages/)
+        - [About](/about/)
+        - [Contact](/contact/)
 
 # Header navigation links
 header:
-  name: "TEST"
+  logo: "TEST"  # Optional logo (ensure you have an image in the correct directory if you choose to use it)
   nav:
     - title: "Home"
       url: "/"
@@ -95,7 +88,7 @@ header:
     - title: "About"
       url: "/about/"
     - title: "Contact"
-      url: "/contact/" # You can add any other page here as well
+      url: "/contact/"
 
 # Page defaults
 defaults:
