@@ -1,9 +1,8 @@
 ---
 layout: page
-title: WorkPackages
-order: 1
+title: "WorkPackages"
 permalink: /workpackages/
 ---
 
-
-Add text about Work Packages
+# WorkPackages
+This page outlines the various work packages.
