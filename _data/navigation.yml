@@ -1,0 +1,8 @@
+header:
+  navigation:
+    - title: "Home"
+      url: "/"
+    - title: "WorkPackages"
+      url: "/workpackages/"
+    - title: "About"
+      url: "/about/"
