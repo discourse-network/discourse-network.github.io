@@ -13,6 +13,11 @@ search: true
 navigation:
   header: main
 
+collections:
+  team:
+    output: true
+    permalink: /team/:name/
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
