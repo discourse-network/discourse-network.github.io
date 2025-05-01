@@ -1,36 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    {% include head.html %}
+  </head>
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title | default: site.title }}</title>
-  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-  {% include head.html %}
-</head>
+  <body class="{{ page.classes | join: ' ' }}">
+    {% include skip-links.html %}
 
-<body>
-  <!-- Header section -->
-  <header>
-    {% include navigation.html %}
-  </header>
+    <div class="page-wrap">
+      {% include masthead.html %}
 
-  <!-- Sidebar -->
-  {% if page.sidebar %}
-    <aside class="sidebar">
-      {% include sidebar.html %}
-    </aside>
-  {% endif %}
+      <!-- Custom navigation bar -->
+      <nav class="custom-navbar" role="navigation" aria-label="Main Navigation">
+        <ul class="custom-nav">
+          {% for item in site.data.navigation.header.navigation %}
+            <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
 
-  <!-- Main Content -->
-  <main>
-    {{ content }}
-  </main>
+      <main id="main" class="main-content" aria-label="Content">
+        {{ content }}
+      </main>
 
-  <!-- Footer section -->
-  <footer>
-    {% include footer.html %}
-  </footer>
-</body>
+      {% include footer.html %}
+    </div>
 
+    {% include scripts.html %}
+  </body>
 </html>
