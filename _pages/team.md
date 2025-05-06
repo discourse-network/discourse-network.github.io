@@ -13,12 +13,12 @@ Here’s our DISCOURSE Teams:
 <br/>
 <br/>
 
-{% for project_team_member in site.project_team %}
+{% for project_team_member in site.team %}
   <div>
     {% if project_team_member.profile_image and project_team_member.profile_image != "" %}
-    <img  src="{{ site.baseurl }}{{ project_team_member.profile_image }}"
+      <img src="{{ site.baseurl }}/assets/images/team/{{ project_team_member.profile_image }}"
     {% else %}
-    <img  src="{{ site.baseurl }}/assets/images/team/profile_placeholder.png"
+      <img src="{{ site.baseurl }}/assets/images/team/profile_placeholder.png"
     {% endif %}
           style="border-radius: 50%;
                  float: left;
@@ -42,7 +42,7 @@ Here’s our DISCOURSE Teams:
       <p style="font-size: 0.7em;"><strong>UNIVERSE-HPC Roles: </strong>{{ project_team_member.project_role }}</p>
     {% endif %}
   </div>
-  
+
   <div style="font-size: 0.7em; clear: both;">
     <p>{{ project_team_member.content | markdownify }}</p>
   </div>
