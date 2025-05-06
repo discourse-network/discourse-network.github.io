@@ -1,6 +1,6 @@
 ---
 name: Dr. Kirsty Pringle
-position: WP2 Lead
+position: 1
 affiliation: University of Edinburgh
 project_role: WP2 Lead
 profile_image: assets/images/team/kirsty-pringle.jpg
