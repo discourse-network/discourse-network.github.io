@@ -13,6 +13,9 @@ search: true
 navigation:
   header: main
 
+sidebar:
+  disable: true
+  
 collections:
   team:
     output: true
