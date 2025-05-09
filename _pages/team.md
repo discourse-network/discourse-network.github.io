@@ -13,7 +13,8 @@ Here’s our DISCOURSE Teams:
 <br/>
 <br/>
 
-{% for project_team_member in site.team %}
+{% assign sorted_team = site.team | sort: "position" %}
+{% for project_team_member in sorted_team %}
   <div>
     {% if project_team_member.profile_image and project_team_member.profile_image != "" %}
       <img src="{{ site.baseurl }}/assets/images/team/{{ project_team_member.profile_image }}"
@@ -36,8 +37,7 @@ Here’s our DISCOURSE Teams:
         {% endif %}
       </strong>
     </p>
-    <p style="font-size: 0.7em; margin-bottom: 0;">{{ project_team_member.position }}</p>
-    <p style="font-size: 0.7em; margin-bottom: 8px;">{{ project_team_member.affiliation }}</p>
+    <p style="font-size: 0.7em; margin-bottom: 0;">{{ project_team_member.affiliation }}</p>
     {% if project_team_member.project_role and project_team_member.project_role != "" %}
       <p style="font-size: 0.7em;"><strong>UNIVERSE-HPC Roles: </strong>{{ project_team_member.project_role }}</p>
     {% endif %}
