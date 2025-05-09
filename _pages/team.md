@@ -8,11 +8,6 @@ classes: wide
 author_profile: false
 ---
 
-Here’s our DISCOURSE Teams:
-
-<br/>
-<br/>
-
 {% assign sorted_team = site.team | sort: "position" %}
 {% for project_team_member in sorted_team %}
   <div>
