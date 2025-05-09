@@ -1,6 +1,5 @@
 ---
 name: Jonathan Cooper
-position: 2
 affiliation: University Colledge London
 project_role: PI and WP2 Lead
 profile_image: jonathan-cooper.jpg
