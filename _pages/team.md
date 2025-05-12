@@ -8,9 +8,8 @@ classes: wide
 author_profile: false
 ---
 
-{% assign sorted_team = site.team | sort: "position" %}
 {% for project_team_member in sorted_team %}
-  <div>
+  <div class="team-member" style="overflow: auto; margin-bottom: 2em;">
     {% if project_team_member.profile_image and project_team_member.profile_image != "" %}
       <img src="{{ site.baseurl }}/assets/images/team/{{ project_team_member.profile_image }}"
     {% else %}
@@ -36,10 +35,9 @@ author_profile: false
     {% if project_team_member.project_role and project_team_member.project_role != "" %}
       <p style="font-size: 0.7em;"><strong>UNIVERSE-HPC Roles: </strong>{{ project_team_member.project_role }}</p>
     {% endif %}
-  </div>
-
-  <div style="font-size: 0.7em; clear: both;">
-    <p>{{ project_team_member.content | markdownify }}</p>
+    <div style="font-size: 0.7em; clear: both;">
+      <p>{{ project_team_member.content | markdownify }}</p>
+    </div>
   </div>
   <hr/>
 {% endfor %}
