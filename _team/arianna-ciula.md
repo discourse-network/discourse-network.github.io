@@ -3,6 +3,7 @@ name: Arianna Ciula
 affiliation: University Colledge London
 project_role: WP3 Lead
 profile_image: arianna-ciula.jpg
+position: 2
 ---
 
 As Director leading King’s Digital Lab (KDL), Arianna leads an RSE team of 12 people, composed of a variety of digital RTPs roles including lab and project managers, analysts, RSEs, UI/UX designers, and systems manager plus occasional interns and visiting fellows. The team contribute via research services or in co-leading roles to high quality grant-funded projects with significant technical requirements from concept development and requirements elicitation to delivery and sustainability plans. 
