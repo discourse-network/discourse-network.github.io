@@ -26,3 +26,15 @@ header nav a {
   margin: 0 10px;
 }
 
+/* Remove unwanted padding and max-width from page content */
+.page__content {
+  max-width: 100% !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  margin: 0 auto;
+}
+
+/* Override layout container margin if needed */
+.layout--single {
+  margin: 0 !important;
+}
