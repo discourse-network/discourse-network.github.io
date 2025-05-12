@@ -3,6 +3,7 @@ name: Dr. Kirsty Pringle
 affiliation: University of Edinburgh
 project_role: WP2 Lead
 profile_image: kirsty-pringle.jpg
+position: 5
 ---
 
 Kirsty is the Project Manager for the Software Sustainability Institute (https://www.software.ac.uk/) which works to advocate for the importance of people and software in research.  She is based in EPCC within the University of Edinburgh.   
