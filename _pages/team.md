@@ -8,6 +8,8 @@ classes: wide
 author_profile: false
 ---
 
+{% assign sorted_team = site.team | sort: "position" %}
+
 {% for project_team_member in sorted_team %}
   <div class="team-member" style="overflow: auto; margin-bottom: 2em;">
     {% if project_team_member.profile_image and project_team_member.profile_image != "" %}
