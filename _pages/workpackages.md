@@ -9,9 +9,9 @@ permalink: /workpackages/
 
 ## WP1: Network Management
 
-**Led by University College London (UCL)**
+**Led by Jonathan Cooper, University College London (UCL)**
 
-This work package ensures the project’s strategic coherence, robust governance, and effective delivery. It is responsible for overall coordination, including managing risks, milestones, and reporting mechanisms. A key component is the administration of the project’s flexible fund, which supports community-led initiatives. WP1 ensures all other work packages align with the project's goals and values.
+This management focused work package keeps the project on track, well-managed, and aligned with its goals. It is responsible for overall coordination, including managing risks, milestones, and reporting mechanisms. A key component is the administration of the project’s flexible fund, which supports community-led initiatives. WP1 ensures all other work packages align with the project's goals and values.
 
 ---
 
