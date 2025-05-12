@@ -68,3 +68,9 @@ body {
 .layout--single {
   margin: 0 !important;
 }
+
+
+.page__content {
+  background: lightblue;
+}
+
