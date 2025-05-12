@@ -1,7 +1,7 @@
 ---
 name: Arianna Ciula
 affiliation: University Colledge London
-project_role: WP Lead
+project_role: Project Co-Lead
 profile_image: arianna-ciula.jpg
 position: 2
 ---
