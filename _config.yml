@@ -97,3 +97,16 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+# In _config.yml
+minimal_mistakes_skin: default
+sass:
+  style: compressed
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      css: "/assets/css/main.css"
