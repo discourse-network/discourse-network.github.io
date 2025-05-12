@@ -25,6 +25,9 @@ collections:
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 
+include:
+  - _includes/head_custom.html
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
