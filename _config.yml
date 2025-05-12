@@ -113,3 +113,9 @@ defaults:
       type: "pages"
     values:
       css: "/assets/css/main.css"
+
+
+
+.page__content {
+  background: lightblue;
+}
