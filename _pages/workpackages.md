@@ -25,9 +25,9 @@ WP2 focuses on building a community to deepen engagement across the broad spectr
 
 ## WP3: Advanced Skills
 
-**Led by The University of Manchester, with Newcastle University heading the competencies framework strand**
+**Led by Adrian Harwood (University of Manchester) and Dave Horsfall (Univeristy of Newcastle)**
 
-WP3 strengthens the skills base of the dRTP community by developing a shared competencies framework and an associated web tool for self-assessment. These will align with existing standards such as SFIA and the UK Government's DDaT framework. The package also delivers advanced leadership and project management training, using a cohort-based model to encourage peer learning and cross-institutional support networks. Training initiatives developed here will feed into institutional offerings and sector-wide capability development.
+The University of Manchester leads this work package, with Newcastle University heading the competencies framework strand. WP3 strengthens the skills base of the dRTP community by developing a shared competencies framework and an associated web tool for self-assessment. These will align with existing digital and IT skills framework standards such as Skills Framework for the Information Age (SFIA) and the UK Government's Digital, Data and Technology (DDaT) framework. The package also delivers advanced leadership and project management training, a universal skill across dRTP professions. Using a cohort-based model to encourage peer learning and cross-institutional support networks, training and workshops delivered will draw on existing institutional offerings and make use of the flexible fund to support community-driven training initiatives. It will also feed into the work of the STEP-UP project, and other regional repositories and training catalogues. 
 
 ---
 
