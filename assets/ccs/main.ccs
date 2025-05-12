@@ -34,6 +34,36 @@ header nav a {
   margin: 0 auto;
 }
 
+
+
+/* Remove horizontal overflow */
+body {
+  overflow-x: hidden;
+}
+
+/* Ensure full-width layout */
+.page,
+.wrapper,
+.page__content {
+  max-width: 100% !important;
+  padding: 0 !important;
+  margin: 0 auto !important;
+}
+
+/* Contain floats properly */
+.team-member {
+  overflow: hidden; /* instead of auto */
+  clear: both;
+}
+
+/* Make images responsive */
+.team-member img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+
 /* Override layout container margin if needed */
 .layout--single {
   margin: 0 !important;
