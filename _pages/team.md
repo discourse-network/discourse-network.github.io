@@ -35,7 +35,7 @@ author_profile: false
     </p>
     <p style="font-size: 0.7em; margin-bottom: 0;">{{ project_team_member.affiliation }}</p>
     {% if project_team_member.project_role and project_team_member.project_role != "" %}
-      <p style="font-size: 0.7em;"><strong>UNIVERSE-HPC Roles: </strong>{{ project_team_member.project_role }}</p>
+      <p style="font-size: 0.7em;"><strong>DisCouRSE Roles: </strong>{{ project_team_member.project_role }}</p>
     {% endif %}
     <div style="font-size: 0.7em; clear: both;">
       <p>{{ project_team_member.content | markdownify }}</p>
