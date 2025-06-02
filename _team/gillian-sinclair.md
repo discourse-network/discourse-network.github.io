@@ -1,0 +1,13 @@
+---
+name: Gillian Sinclair
+affiliation: University of Manchester
+project_role: WP1, WP2, WP5
+profile_image: gillian-sinclair.jpg
+position: 4
+---
+
+Gillian is a Relationship Manager within Research IT at the University of Manchester, one of the largest Research IT groups in the country. Her role is far-ranging and includes strategy formation and implementation, community building, user engagement and promotion of Research IT activities across the University.  
+
+Gillian has a proven track record in coordinating regional and nationwide initiatives, most recently as Programme Manager for the N8 Centre of Excellence for Computationally Intensive Research (N8 CIR).   
+
+In DisCouRSE, Gillian will have managerial responsibility for the running of the network, drawing together various threads of activity and playing a key role in community engagement in WP2 as well as leading WP5 supported by PRISM staff at UCL. 

@@ -1,6 +1,6 @@
 ---
 name: Arianna Ciula
-affiliation: University Colledge London
+affiliation: King’s College London
 project_role: Project Co-Lead
 profile_image: arianna-ciula.jpg
 position: 2
