@@ -2,7 +2,7 @@
 name: Jodie Jackson
 affiliation: UCL
 project_role: Professional Research Investment & Strategy Manager  
-profile_image: jodie-jackson.jpg
+profile_image: jodie-jackson.png
 position: 8
 ---
 
