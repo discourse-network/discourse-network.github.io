@@ -1,6 +1,7 @@
 ---
 name: Dr. Kirsty Pringle
 affiliation: University of Edinburgh
+homepage: https://www.epcc.ed.ac.uk/about-us/our-team/dr-kirsty-pringle
 project_role: WP2 Lead
 profile_image: kirsty-pringle.jpg
 position: 5
