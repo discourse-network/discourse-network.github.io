@@ -1,6 +1,7 @@
 ---
 name: Dave Horsfall
 affiliation: Newcastle University
+homepage: https://horsfall.dev/
 project_role: WP3 Co-Lead
 profile_image: Dave-Horsfall.jpeg
 position: 6
