@@ -1,6 +1,7 @@
 ---
 name: Gillian Sinclair
 affiliation: University of Manchester
+homepage: https://society-rse.org/about/governance/gillian-sinclair/
 project_role: WP1, WP2, WP5
 profile_image: gillian-sinclair.jpg
 position: 4
