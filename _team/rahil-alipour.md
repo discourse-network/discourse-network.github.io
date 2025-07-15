@@ -1,8 +1,8 @@
 ---
 name: Rahil Alipour
 affiliation: UCL
-project_role:Professional Research Investment & Strategy Manager
-profile_image: https://rps.ucl.ac.uk/objectimage?cid=7&id=32325&usage=2
+project_role: Professional Research Investment & Strategy Manager
+profile_image: Rahil-Alipour.jpg
 position: 9
 ---
 
