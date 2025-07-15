@@ -2,7 +2,7 @@
 name: Antonia Coote
 affiliation: UCL
 project_role: Flexible fund administration
-profile_image: 
+profile_image: antonia-coote.jpg
 position: 7
 ---
 
