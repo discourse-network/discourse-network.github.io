@@ -25,9 +25,18 @@ WP2 focuses on building a community to deepen engagement across the broad spectr
 
 ## WP3: Advanced Skills
 
-**Led by Adrian Harwood (University of Manchester) and Dave Horsfall (Univeristy of Newcastle)**
+**Led by Adrian Harwood (University of Manchester) and Dave Horsfall (University of Newcastle)**
 
-The University of Manchester leads this work package, with Newcastle University heading the competencies framework strand. WP3 strengthens the skills base of the dRTP community by developing a shared competencies framework and an associated web tool for self-assessment. These will align with existing digital and IT skills framework standards such as Skills Framework for the Information Age (SFIA) and the UK Government's Digital, Data and Technology (DDaT) framework. The package also delivers advanced leadership and project management training, a universal skill across dRTP professions. Using a cohort-based model to encourage peer learning and cross-institutional support networks, training and workshops delivered will draw on existing institutional offerings and make use of the flexible fund to support community-driven training initiatives. It will also feed into the work of the STEP-UP project, and other regional repositories and training catalogues. 
+WP3 has two main work streams: Advanced Training and supporting a community-developed Competency Framework.
+The former is led by The University of Manchester with Newcastle heading up the latter.
+
+The competency framework ([DIRECT](https://github.com/direct-framework)) will be a general framework for supporting the development of a wide range of dRTP careers.
+This work stream will also continue to develop and release a web tool for users to track their progress and develop a personal “skill wheel”.
+The competencies will align with existing digital and IT skills framework standards such as Skills Framework for the Information Age ([SFIA](https://sfia-online.org/en)) and the UK Government’s Digital, Data and Technology ([DDaT](https://ddat-capability-framework.service.gov.uk/)) framework.
+
+The work package also delivers advanced leadership and management training courses, where learning outcomes align to a selected set of key competencies from the DIRECT framework.
+Using a cohort-based model to encourage peer learning and cross-institutional support networks, the training and workshops delivered will draw on existing institutional offerings and make use of the flexible fund to support community-driven training initiatives.
+This work package connects with a wide number of stakeholders including the [SSI](https://www.software.ac.uk/training/training-hub) and other regional and national projects operating to establish training catalogues or programmes.
 
 ---
 
