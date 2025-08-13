@@ -1,6 +1,7 @@
 ---
 name: Arianna Ciula
 affiliation: King’s College London
+homepage: https://kdl.kcl.ac.uk/about/people/arianna-ciula/
 project_role: Project Co-Lead
 profile_image: arianna-ciula.jpg
 position: 2

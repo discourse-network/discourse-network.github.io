@@ -1,6 +1,7 @@
 ---
 name: Jonathan Cooper
 affiliation: UCL
+homepage: https://profiles.ucl.ac.uk/59377
 project_role: PI and WP4 Lead
 profile_image: jonathan-cooper.jpg
 position: 1

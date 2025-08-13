@@ -1,6 +1,7 @@
 ---
 name: Adrian Harwood
 affiliation: University of Manchester
+homepage: https://research.manchester.ac.uk/en/persons/adrian.harwood
 project_role: WP3 Lead
 profile_image: adrian-harwood.jpg
 position: 3
