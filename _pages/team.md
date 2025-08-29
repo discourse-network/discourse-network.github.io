@@ -1,7 +1,7 @@
 ---
 title: Team
 permalink: /team/
-layout: single
+layout: splash
 collection: team
 entries_layout: list
 classes: wide
