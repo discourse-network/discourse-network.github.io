@@ -44,7 +44,10 @@ This work package connects with a wide number of stakeholders including the [SSI
 
 **Led by UCL with contributions from King's Digital Lab and the KCL central RSE team**
 
-This careers-focused work package tackles the systemic barriers to career progression faced by dRTPs. It begins with an in-depth analysis of the diverse structures and promotion processes in use across UK institutions and R&D organisations. Through comparative case studies and structured interviews, WP4 will identify and document successful models for dRTP career development. The aim is to co-produce sector-wide guidance and adaptable frameworks that institutions can adopt. These efforts will culminate in a set of recommendations designed to broaden access to leadership roles without requiring transitions into management or out of academia.
+This careers-focused work package tackles the systemic barriers to career progression faced by dRTPs. It begins with an in-depth analysis of the diverse structures and promotion processes in use across UK institutions and R&D organisations. Through comparative case studies and [structured interviews](/wp4-interviews), WP4 will identify and document successful models for dRTP career development. The aim is to co-produce sector-wide guidance and adaptable frameworks that institutions can adopt. These efforts will culminate in a set of recommendations designed to broaden access to leadership roles without requiring transitions into management or out of academia.
+
+**If you lead a group of digital RTPs, we would love to hear from you!**
+[Find out more about our interview study](/wp4-interviews) and [contact us](mailto:arc.discourse@ucl.ac.uk) to get involved.
 
 ---
 
