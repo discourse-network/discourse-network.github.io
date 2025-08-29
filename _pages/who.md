@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Who?"
+title: "Who is DisCouRSE for?"
 permalink: /who/
 ---
 

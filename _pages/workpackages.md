@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "workpackages"
+title: "DisCouRSE Work Packages"
 permalink: /workpackages/
 ---
 

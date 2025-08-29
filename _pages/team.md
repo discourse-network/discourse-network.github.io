@@ -1,5 +1,5 @@
 ---
-title: Team
+title: DisCouRSE Team
 permalink: /team/
 layout: splash
 collection: team
@@ -7,6 +7,9 @@ entries_layout: list
 classes: wide
 author_profile: false
 ---
+
+
+<h1>DisCouRSE Project Team</h1>
 
 {% assign sorted_team = site.team | sort: "position" %}
 
