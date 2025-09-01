@@ -49,11 +49,12 @@ This careers-focused work package tackles the systemic barriers to career progre
 **If you lead a group of digital RTPs, we would love to hear from you!**
 [Find out more about our interview study](/wp4-interviews) and [contact us](mailto:arc.discourse@ucl.ac.uk) to get involved.
 
-We will also be running focus groups about processes used within digital RTP groups.
+We will also be running focus groups about processes and practices used within digital RTP groups.
 Are there any specific processes you or your group initiated or adapted you find particularly useful and potentially relevant for the wider RTP community?
 These could be processes around leadership and strategy (e.g. team structures and roles) as well as Software Development Life Cycle (SDLC) processes (e.g. requirements elicitation, project templates, incubation of experimental work) and technical approaches (e.g. development approach, web accessibility) generalisable beyond single research domains.
 If so, do you have a link to any documentation to share, and/or would you (or someone else from your group) be willing to present it/them at a DisCouRSE focus group?
 [Get in touch](mailto:arc.discourse@ucl.ac.uk) to tell us all about it.
+The first focus group will be held at King's College London in January 2026 on the topic of team culture.
 
 ---
 
