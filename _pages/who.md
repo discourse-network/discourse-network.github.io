@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Who?"
+title: "Who is DisCouRSE for?"
 permalink: /who/
 ---
 
@@ -35,7 +35,7 @@ DisCouRSE is designed to support leadership and career development across these 
 
 > Whether you’re looking to move into a leadership role in the future, already an experienced leader, or somewhere in between, you’re welcome to join, contribute to, and benefit from the network.
 
-**Are we missing a dRTP role from the list above? Please let any of the DisCouRSE team know!**
+**Are we missing a dRTP role from the list above? Please <a href="mailto:arc.discourse@ucl.ac.uk">let the DisCouRSE team know</a>!**
 
 ---
 

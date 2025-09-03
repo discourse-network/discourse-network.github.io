@@ -1,5 +1,5 @@
 ---
-title: "Events"
+title: "DisCouRSE Events"
 permalink: /events/
 layout: default
 ---
