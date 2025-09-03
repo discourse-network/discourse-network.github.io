@@ -58,9 +58,6 @@ author_profile: false
     <li>James McLaughlin, Professor of Biomedical Engineering, Ulster University</li>
     <li>Saul Cozens, Head of Delivery for Research and Innovation IT, Sheffield (and Chair of RUGRIT)</li>
     <li>Fleur Hughes, PRISM Manager, York</li>
-    <li>
-      TBC, perhaps a bioinformatician or bioimaging expert, or James Smithies (international rep), ideally an early career person
-    </li>
   </ul>
 
   <p><strong>Observer:</strong> Charlotte Clarke – NERC UKRI</p>
