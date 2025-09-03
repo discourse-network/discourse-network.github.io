@@ -8,8 +8,16 @@ classes: wide
 author_profile: false
 ---
 
-
 <h1>DisCouRSE Project Team</h1>
+
+<section style="margin: 2em 0; padding: 1em; background-color: #f5f5f5; border-radius: 8px;">
+  <h2>Advisory Board</h2>
+  <p>
+    The <strong>DisCouRSE Advisory Board</strong> provides independent oversight and strategic guidance to the project.
+    You can read the <a href="{{ site.baseurl }}/adboard/">Terms of Reference and membership details here</a>.
+  </p>
+</section>
+
 
 {% assign sorted_team = site.team | sort: "position" %}
 
