@@ -10,9 +10,9 @@ author_profile: false
 
 <h1>DisCouRSE Project Team</h1>
 
-<section style="margin: 1em 0; padding: 1em; background-color: #f5f5f5; border-radius: 8px;">
-  <h2>Advisory Board</h2>
-  <p>
+<section style="margin: 0.5em 0; padding: 0.75em; background-color: #e0e0e0; border-radius: 6px;">
+  <h2 style="font-size: 1.2em; margin-top: 0;">Advisory Board</h2>
+  <p style="margin: 0.5em 0;">
     The <strong>DisCouRSE Advisory Board</strong> provides independent oversight and strategic guidance to the project.
     More information on the <a href="{{ site.baseurl }}/adboard/">Advisory Board is here</a>.
   </p>
