@@ -53,10 +53,10 @@ author_profile: false
   <ul>
     <li>Eirini Goudarouli, Head of Research, National Archives</li>
     <li>Stephen Larson, CEO, Metacell</li>
-    <li>Martyn Guest, Director of ARC, Cardiff (and SHARING AI Skills Hub co-lead)</li>
-    <li>Caroline Ang, Director of Operations, IMI, Bath (and MInDS Network+ co-lead)</li>
+    <li>Martyn Guest, Director of ARC, Cardiff</li>
+    <li>Caroline Ang, Director of Operations, IMI, Bath</li>
     <li>James McLaughlin, Professor of Biomedical Engineering, Ulster University</li>
-    <li>Saul Cozens, Head of Delivery for Research and Innovation IT, Sheffield (and Chair of RUGRIT)</li>
+    <li>Saul Cozens, Head of Delivery for Research and Innovation IT, Sheffield</li>
     <li>Fleur Hughes, PRISM Manager, York</li>
   </ul>
 
