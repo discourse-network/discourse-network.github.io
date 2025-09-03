@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Background to DisCouRSE"
-permalink: /background/
+permalink: /background
 ---
 
 # Background to DisCouRSE

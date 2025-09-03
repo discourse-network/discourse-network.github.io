@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Who is DisCouRSE for?"
-permalink: /who/
+permalink: /who
 ---
 
 ## Who is the Network For?

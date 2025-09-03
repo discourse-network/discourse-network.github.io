@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "DisCouRSE RTP Group Leader Interviews"
-permalink: /wp4-interviews/
+permalink: /wp4-interviews
 ---
 
 # Digital RTP Group Leader Interviews

@@ -1,6 +1,6 @@
 ---
 title: "DisCouRSE Events"
-permalink: /events/
+permalink: /events
 layout: default
 ---
 
