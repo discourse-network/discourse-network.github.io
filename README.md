@@ -1,24 +1,30 @@
-# Minimal Mistakes remote theme starter
+# DisCouRSE Network Project Website
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+Please do submit pull requests to update or improve content as needed.
 
-Contains basic configuration to get you a site with:
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+## Building locally
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+For testing more substantial changes, it's helpful to be able to view the site locally rather than just looking at the sources.
+Here I describe in brief how I got this working on my Mac.
 
----
+1. Install Ruby, e.g. `brew install ruby`
 
-## Troubleshooting
+2. Delete any old `Gemfile.lock` file to avoid potential conflicts
+
+3. Install Jekyll and dependencies using `bundle`, e.g. `/opt/homebrew/opt/ruby/bin/bundle install`
+
+4. Use `bundle` to build the site too: `/opt/homebrew/opt/ruby/bin/bundle exec jekyll serve --baseurl=""`
+
+It will automatically re-build whenever changes to the website files are saved,
+and by default makes the site available at http://127.0.0.1:4000/
+
+
+## Minimal Mistakes theme troubleshooting
+
+This is made with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+
+[Theme documentation is available](https://mmistakes.github.io/minimal-mistakes/docs/).
 
 If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
 
