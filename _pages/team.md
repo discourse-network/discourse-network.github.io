@@ -14,7 +14,7 @@ author_profile: false
   <h2 style="font-size: 1.2em; margin-top: 0;">Advisory Board</h2>
   <p style="margin: 0.5em 0;">
     The <strong>DisCouRSE Advisory Board</strong> provides independent oversight and strategic guidance to the project.
-    More information on the <a href="{{ site.baseurl }}/adboard/">Advisory Board is here</a>.
+    <a href="/advisory-board/">More information on the Advisory Board is here</a>.
   </p>
 </section>
 
