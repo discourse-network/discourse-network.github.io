@@ -9,9 +9,9 @@ author_profile: false
 ---
 
 <section>
+  <h2>Independent Advisory Board</h2>
   <p>
-    An independent Advisory Board will provide external oversight and steering
-    for DisCouRSE. 
+    An independent Advisory Board will provide external oversight and steering for DisCouRSE. 
   </p>
 </section>
 
