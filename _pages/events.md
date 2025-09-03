@@ -15,4 +15,4 @@ Further workshops, webinars, and community-led events will follow later in the y
 ## Future Events
 
 - **Collaborations Workshop 2025** – DisCouRSE lightning talk (Jonathan Cooper)
-- **RSECon25**
+- **RSECon25** - An overview of the DisCouRSE Network+ grant: Developing a Community of Leaders in RSE and related professions (Jonathan Cooper)
