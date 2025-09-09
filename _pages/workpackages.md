@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "DisCouRSE Work Packages"
-permalink: /workpackages/
+permalink: /workpackages
 ---
 
 # Work Packages

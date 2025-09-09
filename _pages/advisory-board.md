@@ -1,6 +1,6 @@
 ---
 title: "DisCouRSE Advisory Board"
-permalink: /advisory-board/
+permalink: /advisory-board
 layout: splash
 collection: adboard
 entries_layout: list
