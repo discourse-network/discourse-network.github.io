@@ -126,7 +126,7 @@ To apply:
 6. Once you have completed all the mandatory application questions, you can submit your application. You will receive an email notification confirming receipt.
 7. You can continue to edit your application after it has been submitted, up until the deadline, and the latest version saved will be the one reviewed.
 
-The project lead is responsible for completing the application process but we expect all team members and project partners to contribute to the application. Please note that some information that you provide in your application will be shared publicly – please refer to the Terms and Conditions for further information. Information you provide will also be used by the DisCouRSE project team and our external Advisory Board to evaluate the funding scheme and inform the design of future calls. We will handle personal data in line with UK data protection legislation and manage it securely. Except for published information, all data will be deleted by the end of the DisCouRSE project (30<sup>th</sup> September 2028).
+The project lead is responsible for completing the application process but we expect all team members and project partners to contribute to the application. Please note that some information that you provide in your application will be shared publicly – please refer to the Terms and Conditions (coming soon!) for further information. Information you provide will also be used by the DisCouRSE project team and our external Advisory Board to evaluate the funding scheme and inform the design of future calls. We will handle personal data in line with UK data protection legislation and manage it securely. Except for published information, all data will be deleted by the end of the DisCouRSE project (30<sup>th</sup> September 2028).
 
 You can download a full list of the application questions from the submission system on the “Start here” tab. You can also download a copy of your submitted application, or withdraw it by choosing the “Delete” action.
 
@@ -148,7 +148,7 @@ The DisCouRSE Management Board will then take a portfolio view of ‘fundable’
 
 # Expectations for funded projects
 
-Projects will be required to agree to standard Terms and Conditions based on UCL’s standard terms for grant sub-contracts, with modifications to ensure that intellectual property remains owned by the applicants. The complete template Grant Agreement and associated T&C documents are available on our website. If you have specific concerns about the terms and conditions you are advised to contact us well in advance of the submission deadline.
+Projects will be required to agree to standard Terms and Conditions based on UCL’s standard terms for grant sub-contracts, with modifications to ensure that intellectual property remains owned by the applicants. The complete template Grant Agreement and associated T&C documents will be available soon on this website. If you have specific concerns about the terms and conditions you are advised to contact us well in advance of the submission deadline.
 
 Summaries of funded projects will be published on our website once contracts are signed.
 
