@@ -45,9 +45,9 @@ You must adhere to [UKRI open research policy](https://www.ukri.org/manage-your-
 
 ## Funding and duration
 
-- We anticipate funding 10-20 projects in this round of the flexible fund.
-- Individual projects can budget up to £10k funding at 100% full economic cost (fEC) level. (If there is an exceptional reason to request a larger budget that absolutely **cannot** wait until the second funding call in spring 2026, please contact us in advance of the submission deadline to discuss.)
-- Except where noted above, applicants will be awarded 80% of the full cost, and the institution receiving the award is responsible for the remaining 20%. (Note that estates costs and indirects associated with staff posts are eligible to include in the budget except as described above.) When invoices are submitted they should be for 80% of the full cost and a statement should also be submitted showing the full cost.
+- We anticipate funding **10-20 projects** in this round of the flexible fund.
+- Individual projects can budget **up to £10k funding at 100% full economic cost** (fEC) level. (If there is an exceptional reason to request a larger budget that absolutely **cannot** wait until the second funding call in spring 2026, please contact us in advance of the submission deadline to discuss.)
+- Except where noted above, applicants will be awarded 80% of the full cost, and the institution receiving the award is responsible for the remaining 20%. (Note that estates costs and indirects associated with staff posts **are eligible** to include in the budget except as described below.) When invoices are submitted they should be for 80% of the full cost and a statement should also be submitted showing the full cost.
 - Projects should start between 01/01/2026 and 01/04/2026.
 - Projects must last no more than 12 months.
 
