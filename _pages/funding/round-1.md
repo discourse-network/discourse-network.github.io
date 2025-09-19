@@ -10,6 +10,8 @@ The first round of the DisCouRSE Network's Flexible Funding scheme is accepting 
 
 [Submit your application](https://discourse.grantplatform.com){:.btn .btn--primary}
 
+If you decide not to apply in this round, we need **reviewers for applications**, giving you an excellent insight into the process to inform a future application. Please volunteer at https://forms.office.com/e/KB10mVSAZZ.
+
 # Key Dates
 
 | Date | Event |
@@ -165,3 +167,5 @@ Funded projects will need to submit a final report summarising their achievement
 For questions related to this funding opportunity please contact [arc.discourse@ucl.ac.uk](mailto:arc.discourse@ucl.ac.uk).
 
 We also welcome feedback from all applicants on the funding process to inform our subsequent calls.
+
+If you decide not to apply in this round, we need **reviewers for applications**, giving you an excellent insight into the process to inform a future application. Please volunteer at https://forms.office.com/e/KB10mVSAZZ.
