@@ -10,7 +10,7 @@ The first round of the DisCouRSE Network's Flexible Funding scheme is accepting 
 
 [Submit your application](https://discourse.grantplatform.com){:.btn .btn--primary}
 
-If you decide not to apply in this round, we need **reviewers for applications**, giving you an excellent insight into the process to inform a future application. Please volunteer at https://forms.office.com/e/KB10mVSAZZ.
+If you decide not to apply in this round, we need **reviewers for applications**, giving you an excellent insight into the process to inform a future application. Please volunteer at <https://forms.office.com/e/KB10mVSAZZ>.
 
 # Key Dates
 
@@ -162,10 +162,24 @@ Project outputs must be provided to be disseminated through DisCouRSE’s channe
 
 Funded projects will need to submit a final report summarising their achievements and plans for follow-on work. They will also be interviewed by their DisCouRSE contact 6 months after project completion to assess the impact the work has had.
 
+# Call for reviewers
+
+If you decide not to apply in this round, we need **reviewers for applications**, giving you an excellent insight into the process to inform a future application.
+
+[Volunteer to review](https://forms.office.com/e/KB10mVSAZZ){: .btn .btn--primary}
+
+There are also [other networks and similar projects](https://www.cake.ac.uk/landscape/rtp) within the UK Digital Research Infrastructure landscape at present that will have funding calls during the next few years, and we are seeking to share reviewers.
+So, even if you can't help us in this round, please [share your details with us](https://forms.office.com/e/KB10mVSAZZ) if you might be willing to review for another round or another project.
+
+Reviewing for this round will take place between 17<sup>th</sup> November and 5<sup>th</sup> December 2025,
+with a one day panel meeting on Teams on **Monday 8<sup>th</sup> December 2025**.
+
+We anticipate that reviewers would need to score up to 10 applications each against the criteria given in the call.
+Each application will be scored by 3 reviewers, and the reviewer panel will then agree consensus scores collectively.
+
 # Contact us
 
 For questions related to this funding opportunity please contact [arc.discourse@ucl.ac.uk](mailto:arc.discourse@ucl.ac.uk).
 
 We also welcome feedback from all applicants on the funding process to inform our subsequent calls.
 
-If you decide not to apply in this round, we need **reviewers for applications**, giving you an excellent insight into the process to inform a future application. Please volunteer at https://forms.office.com/e/KB10mVSAZZ.
