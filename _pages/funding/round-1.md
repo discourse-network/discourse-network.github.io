@@ -6,6 +6,25 @@ toc: true
 toc_sticky: true
 ---
 
+The first round of the DisCouRSE Network's Flexible Funding scheme is accepting applications from 22<sup>nd</sup> September 2025 until **16:00 GMT on 14<sup>th</sup> November 2025**.
+
+[Submit your application](https://discourse.grantplatform.com){:.btn .btn--primary}
+
+# Key Dates
+
+| Date | Event |
+| --- | --- |
+| Monday 22<sup>nd</sup> September 2025 | Call formally opens, submission system live |
+| Friday 3<sup>rd</sup> October 2025 | Informative webinar with Q&A |
+| Friday 14<sup>th</sup> November 2025, 16:00 GMT | Submission deadline |
+| Friday 19<sup>th</sup> December 2025 | Decisions notified to applicants |
+| 1<sup>st</sup> January 2026 | Earliest possible project start date |
+| 1<sup>st</sup> April 2026 | Latest possible project start date |
+| 31<sup>st</sup> March 2027 | Latest project completion date |
+| September 2027 | Follow up interviews by DisCouRSE team |
+
+# Summary
+
 The DisCouRSE Network+ project aims to encourage and support the **development of leaders** of all kinds across all **digital Research Technical Professional** (dRTP) roles, primarily within the UK, resulting in an empowered and connected community equipped to shape the future of digital research. We have a twin focus on **leadership training** and **dRTP career pathways** – preparing the next generation of leaders and ensuring roles exist for them to lead within.
 
 Our flexible fund supports community-led projects aligned with this goal, enabling aspiring leaders to trial approaches to enhancing skills and career opportunities within their local contexts, build new connections through joint initiatives, and strategically assess options for future investment and activity.
@@ -140,19 +159,6 @@ A named member of the DisCouRSE Management Board will be allocated to each proje
 Project outputs must be provided to be disseminated through DisCouRSE’s channels, including our [Zotero library](https://www.zotero.org/groups/6063965/discourse_network).
 
 Funded projects will need to submit a final report summarising their achievements and plans for follow-on work. They will also be interviewed by their DisCouRSE contact 6 months after project completion to assess the impact the work has had.
-
-# Key Dates
-
-| Date | Event |
-| --- | --- |
-| Monday 22<sup>nd</sup> September 2025 | Call formally opens, submission system live |
-| Friday 3<sup>rd</sup> October 2025 | Informative webinar with Q&A |
-| Friday 14<sup>th</sup> November 2025, 16:00 GMT | Submission deadline |
-| Friday 19<sup>th</sup> December 2025 | Decisions notified to applicants |
-| 1<sup>st</sup> January 2026 | Earliest possible project start date |
-| 1<sup>st</sup> April 2026 | Latest possible project start date |
-| 31<sup>st</sup> March 2027 | Latest project completion date |
-| September 2027 | Follow up interviews by DisCouRSE team |
 
 # Contact us
 
