@@ -9,7 +9,7 @@ permalink: /who
 We are trying to build a network of people working in or alongside digital Research Technical Professional (dRTP) roles. We aim to work with a wide range of professionals whose work supports, enables, or advances research through digital tools, data, infrastructure, or expertise.  If this sounds like something you are interested in, please sign up to our mailing list.
 
 <a href="https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=DISCOURSE-NETWORK&A=1"
-   style="background-color:#28a745; color:white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; font-weight: bold;">
+   class="btn btn--large btn--success">
   📬 Sign up to our newsletter to stay in touch!
 </a>
 
