@@ -155,7 +155,7 @@ Projects will be required to agree to standard Terms and Conditions based on UCL
 
 Summaries of funded projects will be published on our website once contracts are signed.
 
-Funded projects must provide short monthly reports to the DisCouRSE Management Board [via a quick form](https://forms.office.com/e/jFTujubhZt). Financial invoices must be provided quarterly to UCL, with timesheets for all directly incurred staff as required by UKRI.
+Funded projects must provide short monthly reports to the DisCouRSE Management Board [via a quick form](https://forms.office.com/e/jFTujubhZt). Financial invoices must be provided quarterly to UCL.
 
 A named member of the DisCouRSE Management Board will be allocated to each project as the primary point of contact.
 
