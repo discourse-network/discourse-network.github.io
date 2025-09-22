@@ -131,6 +131,7 @@ To apply:
 The project lead is responsible for completing the application process but we expect all team members and project partners to contribute to the application. Please note that some information that you provide in your application will be shared publicly – please refer to the Terms and Conditions (coming soon!) for further information. Information you provide will also be used by the DisCouRSE project team and our external Advisory Board to evaluate the funding scheme and inform the design of future calls. We will handle personal data in line with UK data protection legislation and manage it securely. Except for published information, all data will be deleted by the end of the DisCouRSE project (30<sup>th</sup> September 2028).
 
 You can download a full list of the application questions from the submission system on the “Start here” tab. You can also download a copy of your submitted application, or withdraw it by choosing the “Delete” action.
+More [guidance on using the platform in general is available from GoodGrants](https://help.goodgrants.com/hc/en-gb/articles/4405817472271-Ultimate-guide-for-applicants).
 
 # How we will assess your application
 
