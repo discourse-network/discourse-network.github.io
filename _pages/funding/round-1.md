@@ -31,7 +31,7 @@ The DisCouRSE Network+ project aims to encourage and support the **development o
 
 Our flexible fund supports community-led projects aligned with this goal, enabling aspiring leaders to trial approaches to enhancing skills and career opportunities within their local contexts, build new connections through joint initiatives, and strategically assess options for future investment and activity.
 
-Funding calls will be released approximately every 6 months between autumn 2025 and autumn 2027. Later calls may be more targeted based on lessons learned from earlier projects and core DisCouRSE activities. They may also allow for longer or larger proposals than this initial ‘pathfinder’ call.
+Funding calls will be released approximately every 6 months between autumn 2025 and autumn 2027. Later calls may be more targeted based on lessons learned from earlier projects and core DisCouRSE activities. They will also allow for longer or larger proposals than this initial ‘pathfinder’ call.
 
 # What we’re looking for
 
@@ -49,7 +49,7 @@ You must adhere to [UKRI open research policy](https://www.ukri.org/manage-your-
 
 - We anticipate funding **10-20 projects** in this round of the flexible fund.
 - Individual projects can budget **up to £10k funding at 100% full economic cost** (fEC) level. (If there is an exceptional reason to request a larger budget that absolutely **cannot** wait until the second funding call in spring 2026, please contact us in advance of the submission deadline to discuss.)
-- Except where noted above, applicants will be awarded 80% of the full cost, and the institution receiving the award is responsible for the remaining 20%. (Note that estates costs and indirects associated with staff posts **are eligible** to include in the budget except as described below.) When invoices are submitted they should be for 80% of the full cost and a statement should also be submitted showing the full cost.
+- Except where noted below, applicants will be awarded 80% of the full cost, and the institution receiving the award is responsible for the remaining 20%. (Note that estates costs and indirects associated with staff posts **are eligible** to include in the budget except as described below.) When invoices are submitted they should be for 80% of the full cost and a statement should also be submitted showing the full cost.
 - Projects should start between 01/01/2026 and 01/04/2026.
 - Projects must last no more than 12 months.
 
@@ -110,7 +110,7 @@ Applications which include co-leads from the UK business sector or from third se
 
 ## International collaborations
 
-Joint applicants based in non-UK applications can be included as project co-leads (International). They may not be project leads and are not eligible to take over leadership of the project. The total costs claimed for international collaborators must not exceed 30% of the total full economic costs of the project.
+Joint applicants based in non-UK organisations can be included as project co-leads (International). They may not be project leads and are not eligible to take over leadership of the project. The total costs claimed for international collaborators must not exceed 30% of the total full economic costs of the project.
 
 In general, we will fund 100% of eligible costs, where these have been sufficiently justified. For non-UK research organisation, overheads will be paid at 20% of the international research organisation’s directly incurred staff salary costs. Indirect costs may not be charged on non-staff related direct costs (for example, equipment, consultancies and conferences as well as travel and subsistence). For non-UK business or third sector organisations, the eligible costs follow the same criteria as for UK business or third sector guidance above.
 
