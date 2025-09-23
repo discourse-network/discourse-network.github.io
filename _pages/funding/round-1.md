@@ -6,7 +6,7 @@ toc: true
 toc_sticky: true
 ---
 
-The first round of the DisCouRSE Network's Flexible Funding scheme is accepting applications from 22<sup>nd</sup> September 2025 until **16:00 GMT on 14<sup>th</sup> November 2025**.
+The first round of the DisCouRSE Network's Flexible Funding scheme is now accepting applications until **16:00 GMT on 14<sup>th</sup> November 2025**.
 
 [Submit your application](https://discourse.grantplatform.com){:.btn .btn--primary}
 
