@@ -37,7 +37,7 @@ Funding calls will be released approximately every 6 months between autumn 2025 
 
 This first call has **no specific focus areas**. Any proposals relevant to DisCouRSE’s aims above are allowed. The intent is to be open to ideas from the community, enabling the Network to learn what is already happening and could be expanded with our support, and enabling you to do “proof of concept” work to support future larger proposals. We welcome applications that seek to expand on existing work, or to kick-start activities that you are already thinking about.
 
-The following examples are therefore merely illustrative. Proposals might seek to generalise or adapt existing training material such that it could form part of our planned DisCouRSE “dRTP Leadership Training Programme”. Proposals to develop new material should clearly evidence how it is differentiated from existing offerings and why it is needed. Pilot projects under this call could focus on data collection and analysis to evidence an unmet need, for instance, or bring together existing training providers to do joint activities and produce a common catalogue of available leadership and management training for dRTPs. Applications could propose to deliver existing courses for a cohort of (aspiring) dRTP leaders, run workshops to improve the DIRECT competencies framework and its utility for community members, or further develop the associated tooling. Pump-priming projects could seek to expand career opportunities for senior dRTPs within an institution or network, or work on a business case to senior management to do so. Pathfinder projects could create, test, or disseminate innovative leadership practices using appropriate inclusive approaches such as hackathons, unconferences, quick prototyping, participatory design, or open feedback.
+The following examples are therefore merely illustrative. Proposals might seek to generalise or adapt existing training material such that it could form part of our planned DisCouRSE “dRTP Leadership Training Programme”. Proposals to develop new material should clearly evidence how it is differentiated from existing offerings and why it is needed. Pilot projects under this call could focus on data collection and analysis to evidence an unmet need, for instance, or bring together existing training providers to do joint activities and produce a common catalogue of available leadership and management training for dRTPs. Applications could propose to deliver existing courses for a cohort of (aspiring) dRTP leaders, run workshops to improve [the DIRECT competencies framework](https://directframework.com/) and its utility for community members, or further develop the associated tooling. Pump-priming projects could seek to expand career opportunities for senior dRTPs within an institution or network, or work on a business case to senior management to do so. Pathfinder projects could create, test, or disseminate innovative leadership practices using appropriate inclusive approaches such as hackathons, unconferences, quick prototyping, participatory design, or open feedback.
 
 Proposals must demonstrate how the relevant dRTP community will be involved in their activities and a range of participation ensured, meeting EDI requirements. To meet our community building aims and avoid insularity, joint submissions are strongly encouraged. The involvement of expertise in co-production approaches is advised where appropriate.
 
@@ -61,7 +61,7 @@ We will fund:
 - networking activities
 - workshops, conferences and other events
 - travel and subsistence
-- equipment to support networking, events and communication, for example to support the software and licencing costs of digital platforms to host events. This is not meant to be used for standard laptops and other standard IT equipment, and must be fully justified. Such equipment will funded at 50% FEC.
+- equipment to support networking, events and communication, for example to support the software and licencing costs of digital platforms to host events. This is not meant to be used for standard laptops and other standard IT equipment, and must be fully justified. Such equipment will be funded at 50% FEC.
 - associated estates and indirects
 
 We will not fund:
@@ -145,7 +145,7 @@ The DisCouRSE Management Board will perform an initial review of the application
 
 Applications that are within remit will then be reviewed by an expert review panel convened especially for the call, composed of a mix of members of the Network team and volunteers from a range of dRTP roles, to ensure fairness and balance. Panellists will be required to abide by the [Nolan Principles](https://www.gov.uk/government/publications/the-7-principles-of-public-life). Conflicts of interest will be declared and managed to ensure reviewers are not involved in the scoring or discussion of proposals with which they have a conflict.
 
-Each proposal will be independently scored by 3 members of the panel using UKRI’s scoring system against the criteria given in the submission form (the bullet point lists labelled “What the assessors are looking for in your response”). Panel discussion will then determine a consensus score for each proposal and hence which are considered fundable, and produce brief feedback for applicants.
+Each proposal will be independently scored by 3 members of the panel using UKRI’s scoring system against the criteria given in the submission form (the bullet point lists labelled “**What the assessors are looking for in your response**”). Panel discussion will then determine a consensus score for each proposal and hence which are considered fundable, and produce brief feedback for applicants.
 
 The DisCouRSE Management Board will then take a portfolio view of ‘fundable’ applications to decide on the final allocations of funds, to ensure fair distribution across types of activity, profession, geography, and discipline. Where applications are considered too similar, higher scoring ones in the set will be preferred. Management board members will not discuss applications at this stage with which they have a conflict of interest. The process will be reviewed by our independent Advisory Board to ensure fairness.
 
@@ -159,9 +159,9 @@ Funded projects must provide short monthly reports to the DisCouRSE Management B
 
 A named member of the DisCouRSE Management Board will be allocated to each project as the primary point of contact.
 
-Project outputs must be provided to be disseminated through DisCouRSE’s channels, including our [Zotero library](https://www.zotero.org/groups/6063965/discourse_network).
+Project outputs must be disseminated through DisCouRSE’s channels, including our [Zotero library](https://www.zotero.org/groups/6063965/discourse_network).
 
-Funded projects will need to submit a final report summarising their achievements and plans for follow-on work. They will also be interviewed by their DisCouRSE contact 6 months after project completion to assess the impact the work has had.
+Funded projects will need to submit a final report summarising their achievements and plans for follow-on work. They will also be interviewed by their DisCouRSE contact 6 months after project completion to assess the impact the work has had, and any support the network can offer going forward.
 
 # Call for reviewers
 
