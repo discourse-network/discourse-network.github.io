@@ -79,7 +79,7 @@ Standard [UKRI eligibility rules apply](https://www.ukri.org/councils/stfc/guida
 4. public sector research establishments;
 5. NHS bodies with research capacity.
 
-In addition, projects **must** be dRTP-led. For a non-exhaustive list of dRTP roles, see <https://discourse-network.github.io/who/>. Projects that cross profession or discipline, or are led by an aspiring leader with a more experienced mentor, are particularly welcomed.
+In addition, projects **must** be dRTP-led. For a non-exhaustive list of dRTP roles, see <https://discourse-network.github.io/who>. Projects that cross profession or discipline, or are led by an aspiring leader with a more experienced mentor, are particularly welcomed.
 
 You may not submit more than one application to this call as project lead. However, you may be named as a co-lead on any number of applications.
 
