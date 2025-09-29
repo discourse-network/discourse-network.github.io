@@ -71,7 +71,7 @@ We will not fund:
 
 # Who can apply
 
-Standard [UKRI eligibility rules apply](https://www.ukri.org/councils/stfc/guidance-for-applicants/check-if-youre-eligible-for-funding/eligibility-of-applicants/). Your application must be led by an eligible project lead based at [eligible UK based organisations](https://www.ukri.org/apply-for-funding/how-to-apply/check-if-you-are-eligible-for-research-and-innovation-funding/eligibility-as-an-organisation/#contents-list) in accordance with standard UKRI practice. Eligible organisations are:
+Standard [UKRI eligibility rules apply](https://www.ukri.org/councils/stfc/guidance-for-applicants/check-if-youre-eligible-for-funding/eligibility-of-applicants/), except that project leads and co-leads **do not need to be academic members of staff**. Your application must be led by an employed member of staff based at an [eligible UK based organisation](https://www.ukri.org/apply-for-funding/how-to-apply/check-if-you-are-eligible-for-research-and-innovation-funding/eligibility-as-an-organisation/#contents-list). Eligible organisations are:
 
 1. UK higher education institutions;
 2. research council institutes;
@@ -79,7 +79,7 @@ Standard [UKRI eligibility rules apply](https://www.ukri.org/councils/stfc/guida
 4. public sector research establishments;
 5. NHS bodies with research capacity.
 
-In addition, projects **must** be dRTP-led. For a non-exhaustive list of dRTP roles, see <https://discourse-network.github.io/who>. Projects that cross profession or discipline, or are led by an aspiring leader with a more experienced mentor, are particularly welcomed.
+In addition, projects **must be dRTP-led**. For a non-exhaustive list of dRTP roles, see <https://discourse-network.github.io/who>. Projects that cross profession or discipline, or are led by an aspiring leader with a more experienced mentor, are particularly welcomed.
 
 You may not submit more than one application to this call as project lead. However, you may be named as a co-lead on any number of applications.
 
