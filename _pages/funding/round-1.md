@@ -147,7 +147,7 @@ Applications that are within remit will then be reviewed by an expert review pan
 
 Each proposal will be independently scored by 3 members of the panel using UKRI’s scoring system against the criteria given in the submission form (the bullet point lists labelled “**What the assessors are looking for in your response**”). Panel discussion will then determine a consensus score for each proposal and hence which are considered fundable, and produce brief feedback for applicants.
 
-# Stage 3: Funding allocation by DisCouRSE Management Board
+## Stage 3: Funding allocation by DisCouRSE Management Board
 
 The DisCouRSE Management Board will then take a portfolio view of ‘fundable’ applications to decide on the final allocations of funds, to ensure fair distribution across types of activity, profession, geography, and discipline. Where applications are considered too similar, higher scoring ones in the set will be preferred. Management board members will not discuss applications at this stage with which they have a conflict of interest. The process will be reviewed by our independent Advisory Board to ensure fairness.
 
