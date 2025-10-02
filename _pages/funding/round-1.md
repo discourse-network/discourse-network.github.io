@@ -171,6 +171,16 @@ If you decide not to apply in this round, we need **reviewers for applications**
 
 [Volunteer to review](https://forms.office.com/e/KB10mVSAZZ){: .btn .btn--primary}
 
+Reviewing is a chance to:
+
+- Influence the direction of the Network by helping select impactful projects.
+- Gain insight into the breadth of activities happening across the dRTP space.
+- Develop your own leadership skills by contributing to community decision-making.
+- Strengthen your CV with recognised service to a national UKRI-supported network.
+
+We especially welcome reviewers from diverse backgrounds and disciplines, and those at different career stages.
+If you’ve never reviewed before, don’t worry: guidance will be provided.
+
 There are also [other networks and similar projects](https://www.cake.ac.uk/landscape/rtp) within the UK Digital Research Infrastructure landscape at present that will have funding calls during the next few years, and we are seeking to share reviewers.
 So, even if you can't help us in this round, please [share your details with us](https://forms.office.com/e/KB10mVSAZZ) if you might be willing to review for another round or another project.
 
