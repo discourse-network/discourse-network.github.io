@@ -17,7 +17,7 @@ If you decide not to apply in this round, we need **reviewers for applications**
 | Date | Event |
 | --- | --- |
 | Monday 22<sup>nd</sup> September 2025 | Call formally opens, submission system live |
-| Monday 6<sup>th</sup> October 2025,<br> 10:00 BST | [Informative webinar with Q&A](https://ucl.zoom.us/j/97673797801) |
+| Monday 6<sup>th</sup> October 2025,<br> 10:00 BST | Informative webinar with Q&A ([video](https://liveuclac-my.sharepoint.com/:v:/g/personal/cceacoo_ucl_ac_uk/EVYwH5xDIYJIr1JhHIZeYeoBSuenze9em_p8_MSHVx1gmg?e=xuP0P9)) |
 | Friday 14<sup>th</sup> November 2025,<br> 16:00 GMT | Submission deadline |
 | Friday 19<sup>th</sup> December 2025 | Decisions notified to applicants |
 | 1<sup>st</sup> January 2026 | Earliest possible project start date |
