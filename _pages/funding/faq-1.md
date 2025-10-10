@@ -6,7 +6,7 @@ toc: true
 toc_sticky: true
 ---
 
-The [first round of the DisCouRSE Network's Flexible Funding scheme](../round-1) is accepting applications until **16:00 GMT on 14<sup>th</sup> November 2025**.
+The [first round of the DisCouRSE Network's Flexible Funding scheme](/funding/round-1) is accepting applications until **16:00 GMT on 14<sup>th</sup> November 2025**.
 This page records answers to common questions we have received about the fund.
 
 # Scope
@@ -27,7 +27,7 @@ For an institution without central RSE facilities, is it within scope to work wi
 : Yes.  The project needs to be led by a dRTP but that doesn't necessarily mean your job title needs to be an RSE, data scientist etc.  You might be a research fellow or an academic but if the bulk of your work falls within the research technical professional umbrella, then you would be eligible to be a project lead.
 
 Can this funding be used to pay for external consulting to help progress an idea/programme?
-: Yes but with some constraints.  We’ve referred to this in the [costing principles section](../round-1#costing-principles).  The amount of money going outside of the research sector (i.e. academia, research labs) must not exceed 50% of the total budget for the project.
+: Yes but with some constraints.  We’ve referred to this in the [costing principles section](/funding/round-1#costing-principles).  The amount of money going outside of the research sector (i.e. academia, research labs) must not exceed 50% of the total budget for the project.
 
 For projects that involve training, must the training be about leadership and careers for RTPs? Or could an RTP network apply for a project that coordinates the development of training material that the RTPs are responsible for providing?
 : From [our background](/background) "Note that we do not directly address researchers who might need or possess dRTP skills, except in so far as they join the community. However, our training of dRTPs will enhance their ability to support and train researchers, so they benefit indirectly. Training the trainers in this way will achieve much greater impact from a limited budget. Thereby the UK in general will acquire a greater data-intensive research capability." So the focus has to be on training dRTPs rather than researchers who are not dRTPs. Of course, training aimed at dRTPs may also be relevant for researchers!
@@ -72,7 +72,7 @@ Does applying to lead a project in this round exclude us from applying as projec
 : No. We’re expecting people who lead projects in the first round to then reapply for more funds to continue to develop their projects.
 
 How can international associations become involved in applications? Can only staff costs be covered for those?
-: The [specific rules for this are detailed on our funding page](../round-1#international-collaborations).  Collaborations, joint applications, etc. with international partners are welcome.  The projects need to be led by a UK based organisation but international co-leads are welcome.  Costs for international collaborators must be no more than 30% of the total project budget.
+: The [specific rules for this are detailed on our funding page](/funding/round-1#international-collaborations).  Collaborations, joint applications, etc. with international partners are welcome.  The projects need to be led by a UK based organisation but international co-leads are welcome.  Costs for international collaborators must be no more than 30% of the total project budget.
 
 Can people based at a company, charity, or similar lead an application?
 : Unfortunately not in this round; projects must be led employed member of staff at a UK research organisation as stated in our guidance. We will look at whether we can relax this restriction in future rounds. You are encouraged to collaborate in an application led by an eligible institution.

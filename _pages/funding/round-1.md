@@ -12,7 +12,7 @@ The first round of the DisCouRSE Network's Flexible Funding scheme is now accept
 
 If you decide not to apply in this round, we need **reviewers for applications**, giving you an excellent insight into the process to inform a future application. Please volunteer at <https://forms.office.com/e/KB10mVSAZZ>.
 
-[Slides](https://liveuclac-my.sharepoint.com/:b:/g/personal/cceacoo_ucl_ac_uk/ETbPuqlEhI5PseDyX9GVyqgBAgZnqfjlNPtdazYFZwNqlw?e=SQy3up) and the [video](https://liveuclac-my.sharepoint.com/:v:/g/personal/cceacoo_ucl_ac_uk/EVYwH5xDIYJIr1JhHIZeYeoBSuenze9em_p8_MSHVx1gmg?e=xuP0P9) from our webinar are now available, along with [answers to common questions](faq).
+[Slides](https://liveuclac-my.sharepoint.com/:b:/g/personal/cceacoo_ucl_ac_uk/ETbPuqlEhI5PseDyX9GVyqgBAgZnqfjlNPtdazYFZwNqlw?e=SQy3up) and the [video](https://liveuclac-my.sharepoint.com/:v:/g/personal/cceacoo_ucl_ac_uk/EVYwH5xDIYJIr1JhHIZeYeoBSuenze9em_p8_MSHVx1gmg?e=xuP0P9) from our webinar are now available, along with [answers to common questions](/funding/round-1/faq).
 
 # Key Dates
 
