@@ -27,7 +27,7 @@ Network members might identify as any of the following, although this is not an 
 - Digital Librarian or Archivist
 - Technical Research Support Officer
 - Software Maintainer or Open-Source Contributor
-- Project or Community Manager or Coordinator in a technical research context
+- Project or Community Manager, Coordinator or [PRISM](https://www.pris-managers.ac.uk/aboutprism) in a technical research context
 
 This wide scope is intentional. The dRTP community is diverse, and many people work across disciplines or don’t fit neatly into one role. By keeping our network inclusive, we can better reflect the realities of digital research, where collaboration across skill sets is essential.
 
