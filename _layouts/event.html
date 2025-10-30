@@ -1,0 +1,71 @@
+---
+layout: default
+---
+
+{% if page.start-date %}
+  {% assign from_date = page.start-date | date: "%e %B %Y" %}
+  {% assign to_date = page.date | date: "%e %B %Y" %}
+{% else %}
+  {% assign from_date = page.date | date: "%H:%M %e %B %Y" %}
+{% endif %}
+
+{% if page.image %}
+    {% assign image_to_show = page.image %}
+{% elsif page.summary-image %}
+    {% assign image_to_show = page.summary-image %}
+{% endif %}
+
+<main id="main" class="main-content layout--single wide" aria-label="Content">
+  <div class="sidebar sticky">
+    <div>
+        {% assign entry_image = image_to_show %}
+        {% unless entry_image contains '://' %}
+          {% assign entry_image = entry_image | relative_url %}
+        {% endunless %}
+        {% assign entry_image = entry_image | escape %}
+        {% if entry_image %}
+          <img src="{{ entry_image }}" alt="Event summary image" itemprop="image" class="u-photo">
+        {% endif %}
+    </div>
+    {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+    <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i>
+      {{ site.data.ui-text[site.locale].date_label | default: "" }}</strong>
+      {% if page.start-date %}
+        <time class="dt-published" datetime="{{ page.start-date | date_to_xmlschema }}">{{ page.start-date | date: date_format }}</time> to <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: date_format }}</time>
+      {% else %}
+        <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: date_format }}</time>
+      {% endif %}
+    </p>
+
+    {% if page.location %}
+         <p class="page__date"><strong><i class="fas fa-fw fa-map-marker" aria-hidden="true"></i></strong>
+            {% if page.location-link %}
+                <a href="{{ page.location-link }}" target="_blank">
+            {% endif %}
+            {{ page.location }}
+            {% if page.location-link %}</a>{% endif %}
+         </p>
+    {% endif %}
+
+    {% if page.web-page %}
+        <p class="page__date"><strong><i class="fas fa-fw fa-laptop" aria-hidden="true"></i></strong>
+            <a href="{{ page.web-page }}" target="_blank" rel="noopener noreferrer">Event website</a>
+        </p>
+    {% endif %}
+  </div>
+
+  <article class="page">
+    <div class="page__inner-wrap">
+      <header class="page-header">
+        {% assign title = page.title | markdownify | strip_html %}
+        <h1 id="page-title" class="page__title">{{ title }}</h1>
+      </header>
+
+      <div class="page__content">
+        <div class="e-content">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </article>
+</main>

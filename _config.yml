@@ -20,6 +20,14 @@ collections:
   team:
     output: true
     permalink: /team/:name/
+  events:
+    output: true
+    permalink: /:collection/:path/
+
+# TODO: Get the events included in the feed
+
+# This is needed or pages for future events are not generated!
+future: true
 
 # Build settings
 markdown: kramdown
