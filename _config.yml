@@ -24,7 +24,12 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-# TODO: Get the events included in the feed
+feed:
+  posts_limit: 20
+  collections:
+    - events
+atom_feed:
+  path: "/feed/events.xml"
 
 # This is needed or pages for future events are not generated!
 future: true
