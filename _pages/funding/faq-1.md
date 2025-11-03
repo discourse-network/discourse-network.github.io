@@ -112,3 +112,6 @@ My understanding is that there will be a second round of funding and applying ag
 
 Should reviewers be based in the UK?
 : Reviewers can be based anywhere. Please [apply to be a reviewer via this form](https://forms.office.com/pages/responsepage.aspx?id=_oivH5ipW0yTySEKEdmlwpofFxJMT1lCmEeJoickqdhURTFLUjE5NVc5WVdVSjI0OEk0NlY4RldFUSQlQCN0PWcu&route=shorturl) if interested.
+
+What do we do if we've had an idea but can't fit it within the £10k budget ceiling?
+: Consider waiting for a subsequent round, which will allow for larger projects. If waiting would jeapardise the impact of your project [talk to us](arc.discourse@ucl.ac.uk) about the situation before submitting. We _may_, depending on demand, have scope to run one or two slightly larger projects if a compelling case is made. Make it clear in your application what could still be delivered for £10k, if anything, and what additional benefit would be provided by further funding. Final approval would depend on your application's ranking in peer review and would be determined by the full management board.
