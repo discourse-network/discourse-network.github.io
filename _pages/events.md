@@ -1,19 +1,25 @@
 ---
 title: "DisCouRSE Events"
-permalink: /events
+permalink: /events/
 layout: default
+collection: events
+entries_layout: grid
+sort_by: date
+sort_order: normal
+classes: wide
 ---
 
 # Events and Activities
 
-The DisCouRSE project started on 1 April 2025, and we're currently laying the groundwork for an active and inclusive programme of events.
-
-We’re looking forward to attending RSECon25, where we’ll introduce the project, share our plans, and begin engaging directly with the wider dRTP community. This event will mark the start of our public-facing activities and provide opportunities to connect with the team, hear from early contributors, and learn how to get involved.
-
+We're currently laying the groundwork for an active and inclusive programme of events.
 Further workshops, webinars, and community-led events will follow later in the year, shaped by feedback and priorities identified through our early engagement. These activities will support leadership development, skills sharing, and peer connection across the UK and beyond. Stay tuned for updates!
 
-## Future Events
+<div class="events-block-group">
+  <div class="events-block-group__inner-container">
+    {% include events-collection.html collection="events" sort_by=page.sort_by sort_order=page.sort_order archive=false %}
+  </div>
+</div>
 
-- **RSECon25** - An overview of the DisCouRSE Network+ grant: Developing a Community of Leaders in RSE and related professions (Jonathan Cooper)
-- Date TBC: online webinar introducing our first funding call
-- 19 Jan 2026: [focus group on team culture](/workpackages#wp4-careers)
+-----
+
+[View past events](/events-archive/)
