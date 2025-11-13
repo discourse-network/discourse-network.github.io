@@ -1,14 +1,48 @@
 ---
-title: "DisCouRSE Focus Group: Team Culture"
+title: "DisCouRSE Focus Group: Team Culture and Leadership in dRTP contexts"
 date: 2026-01-19
 layout: event
 location: King's College London
 summary: >
-  This first focus group session about processes and practices used within digital RTP groups will discuss the topic of team culture.
+  Participants in this DisCouRSE first focus group are gathered to explore how leadership can influence a healthy team culture in a dRTP context, with the aim of exchanging ideas and practices.
+  The format will begin with a provocation by a researcher and leadership coach drawing on selected leadership studies followed by a dRTP leader response.
+  The day will include presentations on practices from the community with time to reflect on their applicability.
 ---
 
-This is the first of our ['processes and practices' focus groups](/workpackages#wp4-careers), studying aspects of how digital RTP groups operate in depth.
-These events bring together members of different groups to discuss and compare ways of working, learning from each other and producing guidance for the wider community.
+Participants in this DisCouRSE first [focus group](/workpackages#wp4-careers)[^focus-group] are gathered to explore how leadership can influence a healthy team[^team] culture in a dRTP context, with the aim of exchanging ideas and practices.
+The format will begin with a provocation by a researcher and leadership coach drawing on selected leadership studies[^studies] followed by a dRTP leader response[^response].
+The day will include presentations on practices from the community with time to reflect on their applicability. Ultimately, the objectives of the day are to:
 
-This session will focus on team culture.
+- settle on a shared language to reflect on leadership and team culture,
+- document valuable practices and models which align with the dRTP community values and, last but not least,
+- propose some directions to refine the DIRECT competencies framework[^DIRECT] and plan future training activities.
+
 More details and a registration form will follow shortly.
+
+## Schedule
+
+| Time | Description |
+| :-- | :-- |
+| 9.15-9.30 | Arrival |
+| 9.30-9.45 | Welcome and introduction |
+| 9.45-10.10 | Provocation by Kate Best - Business School, King’s College London |
+| 10.10-10.35 | Response by Emma Karoune - Principal Researcher, Alan Turing Institute |
+| 10.35-11.05 | Discussion on terminology and key reflections |
+| 11.05-11.20 | Break |
+| 11.20-12:35 | Leadership models – presentations by the community |
+| 12.35-13.20 | Lunch |
+| 13.20-13.50 | Breakout sessions on practices and challenges |
+| 15.20-15.20 | Competencies and Training: DIRECT framework and beyond |
+| 13.50-14.20 | Closure and follow up |
+
+## References
+
+[^focus-group]: We use *focus group* in the business analysis sense as a technique bringing together a selected group of experts in a structured and facilitated setting to gain multiple perspectives on the same topic rather than necessarily gain consensus or produce a specific output. ([Paul et al. 2020](https://shop.bcs.org/page/detail/?k=9781780175102))
+
+[^team]: By team we intend a highly interdependent group who “plan work, solve problems, make decisions, and review progress in service of a specific project. Team members need one another to get work done.” (<https://rework.withgoogle.com/intl/en/guides/understanding-team-effectiveness>)
+
+[^studies]: Not necessary but you might want to find out more about [Project Aristotle](https://rework.withgoogle.com/intl/en/guides/understanding-team-effectiveness) and the [Four I's of Transformational Leadership](https://www.businessballs.com/leadership-styles/four-is-transformational-leadership/) prior to the focus group.
+
+[^response]: Not necessary but you might want to find more about the concept of emergent strategy in [this book by Adrienne Maree Brown](https://adriennemareebrown.net/book/emergent-strategy/) and browse these resources from The Turing Way: [Emergence as The Turing Way’s Strategy](https://book.the-turing-way.org/foreword/emergent-strategy/); [Important Features of Leadership](https://book.the-turing-way.org/collaboration/leadership/leadership-features/).
+
+[^DIRECT]: You can find out more about the DIRECT framework draft at <https://directframework.com/>
