@@ -54,7 +54,7 @@ Are there any specific processes you or your group initiated or adapted you find
 These could be processes around leadership and strategy (e.g. team structures and roles) as well as Software Development Life Cycle (SDLC) processes (e.g. requirements elicitation, project templates, incubation of experimental work) and technical approaches (e.g. development approach, web accessibility) generalisable beyond single research domains.
 If so, do you have a link to any documentation to share, and/or would you (or someone else from your group) be willing to present it/them at a DisCouRSE focus group?
 [Get in touch](mailto:arc.discourse@ucl.ac.uk) to tell us all about it.
-The first focus group will be held at King's College London on 19<sup>th</sup> January 2026 on the topic of team culture.
+The [first focus group will be held at King's College London on 19<sup>th</sup> January 2026 on the topic of team culture](/events/202601-focus-group-culture/).
 
 ---
 
