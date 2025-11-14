@@ -31,9 +31,9 @@ More details and a registration form will follow shortly.
 | 11.05-11.20 | Break |
 | 11.20-12:35 | Leadership models – presentations by the community |
 | 12.35-13.20 | Lunch |
-| 13.20-13.50 | Breakout sessions on practices and challenges |
-| 15.20-15.20 | Competencies and Training: DIRECT framework and beyond |
-| 13.50-14.20 | Closure and follow up |
+| 13.20-14.20 | Breakout sessions on practices and challenges |
+| 14.20-15.20 | Competencies and Training: DIRECT framework and beyond |
+| 15.20-15.30 | Closure and follow up |
 
 ## References
 
