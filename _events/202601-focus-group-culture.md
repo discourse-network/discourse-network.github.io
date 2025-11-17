@@ -17,7 +17,10 @@ The day will include presentations on practices from the community with time to 
 - document valuable practices and models which align with the dRTP community values and, last but not least,
 - propose some directions to refine the DIRECT competencies framework[^DIRECT] and plan future training activities.
 
-More details and a registration form will follow shortly.
+Note that this event is **in-person only** with no hybrid option.
+
+To register your interest in attending, fill in our [registration form](https://forms.office.com/e/6XNPZVpB4g).
+If we are over-subscribed, places will be allocated to ensure that we have a diverse range of dRTP roles represented.
 
 ## Schedule
 

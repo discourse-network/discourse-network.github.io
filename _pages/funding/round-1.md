@@ -6,13 +6,14 @@ toc: true
 toc_sticky: true
 ---
 
-The first round of the DisCouRSE Network's Flexible Funding scheme is now accepting applications until **16:00 GMT on 14<sup>th</sup> November 2025**.
+The first round of the DisCouRSE Network's Flexible Funding scheme closed at **16:00 GMT on 14<sup>th</sup> November 2025**.
+The next round is expected in **spring 2026**.
 
-[Submit your application](https://discourse.grantplatform.com){:.btn .btn--primary}
+<!-- [Submit your application](https://discourse.grantplatform.com){:.btn .btn--primary} -->
 
-If you decide not to apply in this round, we need **reviewers for applications**, giving you an excellent insight into the process to inform a future application. Please volunteer at <https://forms.office.com/e/KB10mVSAZZ>.
+We still welcome volunteers to review applications in future rounds, giving you an excellent insight into the process. Please fill in your details at <https://forms.office.com/e/KB10mVSAZZ>.
 
-[Slides](https://liveuclac-my.sharepoint.com/:b:/g/personal/cceacoo_ucl_ac_uk/ETbPuqlEhI5PseDyX9GVyqgBAgZnqfjlNPtdazYFZwNqlw?e=SQy3up) and the [video](https://liveuclac-my.sharepoint.com/:v:/g/personal/cceacoo_ucl_ac_uk/EVYwH5xDIYJIr1JhHIZeYeoBSuenze9em_p8_MSHVx1gmg?e=xuP0P9) from our webinar are now available, along with [answers to common questions](/funding/round-1/faq).
+[Slides](https://liveuclac-my.sharepoint.com/:b:/g/personal/cceacoo_ucl_ac_uk/ETbPuqlEhI5PseDyX9GVyqgBAgZnqfjlNPtdazYFZwNqlw?e=SQy3up) and the [video](https://liveuclac-my.sharepoint.com/:v:/g/personal/cceacoo_ucl_ac_uk/EVYwH5xDIYJIr1JhHIZeYeoBSuenze9em_p8_MSHVx1gmg?e=xuP0P9) from our funding webinar are available, along with [answers to common questions](/funding/round-1/faq).
 
 # Key Dates
 
