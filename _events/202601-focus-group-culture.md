@@ -25,7 +25,7 @@ If we are over-subscribed, places will be allocated to ensure that we have a div
 
 Limited travel bursaries will be available for this event, to enhance the diversity of participants.
 Decisions to all successful applicants will be announced by Fri 9th Jan 2026.
-If you would like to apply for a bursary please email arc.discourse@ucl.ac.uk setting out the level of support necessary to enable you to attend.
+If you would like to apply for a bursary please email <arc.discourse@ucl.ac.uk> setting out the level of support necessary to enable you to attend.
 
 ## Schedule
 
