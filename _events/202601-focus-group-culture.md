@@ -23,6 +23,10 @@ Note that this event is **in-person only** with no hybrid option.
 To register your interest in attending, fill in our [registration form](https://forms.office.com/e/6XNPZVpB4g).
 If we are over-subscribed, places will be allocated to ensure that we have a diverse range of dRTP roles represented.
 
+Limited travel bursaries will be available for this event, to enhance the diversity of participants.
+Decisions to all successful applicants will be announced by Fri 9th Jan 2026.
+If you would like to apply for a bursary please email arc.discourse@ucl.ac.uk setting out the level of support necessary to enable you to attend.
+
 ## Schedule
 
 | Time | Description |
