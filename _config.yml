@@ -74,7 +74,11 @@ author:
 copyright: "DisCouRSE, which has received funding through the UKRI Digital Research Infrastructure Programme"
 
 footer:
-#  links:
+  since: "2025"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/company/discourse-network"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
