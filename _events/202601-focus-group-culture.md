@@ -3,7 +3,7 @@ title: "DisCouRSE Focus Group: Team Culture and Leadership in dRTP contexts"
 date: 2026-01-19
 layout: event
 location: "King's College London, Strand Building Room S3.05"
-location-link: https://www.kcl.ac.uk/visit/strand-campus
+location-link: https://www.kcl.ac.uk/visit/strand-building
 summary: >
   Participants in this DisCouRSE first focus group are gathered to explore how leadership can influence a healthy team culture in a dRTP context, with the aim of exchanging ideas and practices.
   The format will begin with a provocation by a researcher and leadership coach drawing on selected leadership studies followed by a dRTP leader response.
