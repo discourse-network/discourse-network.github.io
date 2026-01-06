@@ -9,5 +9,7 @@ main:
     url: "/who"
   - title: "Team"
     url: "/team"
+  - title: "Code of Conduct"
+    url: "/code-of-conduct"
   - title: "Contact"
     url: "/contact"
