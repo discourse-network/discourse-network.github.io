@@ -45,7 +45,7 @@ If you would like to apply for a bursary please email <arc.discourse@ucl.ac.uk> 
 | :-- | :-- |
 | 9.15-9.30 | _Arrival_ |
 | 9.30-9.45 | Welcome and introduction - chaired by Arianna |
-| 9.45-10.10 | Provocation "_Maybe you're not actually a good team leader_" by Kate Best - Visiting Senior Research Fellow, Business School, King’s College London, Leadership Consultant & Coach |
+| 9.45-10.10 | Provocation "_Maybe you're not actually a good team leader_" by Katie Best - Visiting Senior Research Fellow, Business School, King’s College London, Leadership Consultant & Coach |
 | 10.10-10.35 | Response "_Enabling Community Leadership_" by Emma Karoune - Principal Researcher, Alan Turing Institute |
 | 10.35-11.05 | Discussion on terminology and key reflections - facilitated by Jonathan |
 | 11.05-11.20 | _Break_ |
