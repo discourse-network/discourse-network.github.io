@@ -1,4 +1,4 @@
-in---
+---
 title: "DisCouRSE Focus Group: Team Culture and Leadership in dRTP contexts"
 date: 2026-01-19
 layout: event
