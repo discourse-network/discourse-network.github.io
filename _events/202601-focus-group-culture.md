@@ -1,4 +1,4 @@
----
+in---
 title: "DisCouRSE Focus Group: Team Culture and Leadership in dRTP contexts"
 date: 2026-01-19
 layout: event
@@ -52,7 +52,7 @@ If you would like to apply for a bursary please email <arc.discourse@ucl.ac.uk> 
 | 11.20-12:35 | Leadership models – presentations by the community - chaired by Mark |
 | | 1. _Creating Mentally Healthy Teams: a Practical 3-Tier Model for dRTP Leadership_ – Dave Horsfall (Head of Biomedical Research Software, University of Newcastle) |
 | | 2. _A dRTP Team as a Service Provider_ - Chris Fullerton (Deputy Head of RSE, University of Manchester) |
-| | 3. _The distributed RSE team of the DiRAC facility_ - Ilektra Christidi (Senior Research Software Developer, DiRAC, ARC, University College London) |
+| | 3. _The distributed RSE team of the DiRAC facility_ - Ilektra Christidi (Senior Research Software Engineer, ARC, DiRAC team co-lead, University College London) |
 | | 4. _Reflections on identity and culture in a new group: emergence vs design_ - James Graham (Head of RSE, e-Research, King’s College London) |
 | | 5. _Systems leadership in research communities_ - Sara Villa (Community and Training Lead, OLS/The Turing Way) |
 | 12.35-13.20 | _Lunch_ |
