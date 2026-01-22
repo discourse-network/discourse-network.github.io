@@ -1,0 +1,35 @@
+{% assign projects = site[include.collection] %}
+{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
+
+{% if projects %}
+  {% assign projects = projects | sort: 'date' %}
+  {% if include.archive == 'true' %}
+    {% assign projects = projects | reverse %}
+  {% endif %}
+
+  <table>
+    <thead>
+      <tr>
+        <th>Project title</th>
+        <th>Overall lead</th>
+        <th>Dates</th>
+      </tr>
+    </thead>
+    <tbody>
+      {%- for project in projects -%}
+        {% capture date %}{{project.date | date: '%s' | plus: 0 }}{% endcapture %}
+        {% if include.archive %}
+          {% if date < now %}
+            {% include project-info.html %}
+          {% endif %}
+        {% else %}
+          {% if date >= now %}
+            {% include project-info.html %}
+          {% endif %}
+        {% endif %}
+      {%- endfor -%}
+    </tbody>
+  </table>
+{% else %}
+  <p>No projects found in collection: {{ include.collection }}</p>
+{% endif %}
