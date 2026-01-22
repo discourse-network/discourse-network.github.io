@@ -15,6 +15,15 @@ layout: default
 
     <p><strong>Project lead:</strong> {{ page.lead }}, {{ page.lead-org }}</p>
 
+    {% if page.co-leads %}
+      <p><strong>Co-leads:</strong></p>
+      <ul>
+      {% for person in page.co-leads %}
+        <li>{{ person.name }}, {{ person.org }}</li>
+      {% endfor %}
+      </ul>
+    {% endif %}
+
     {% if page.web-page %}
         <p class="page__date"><strong><i class="fas fa-fw fa-laptop" aria-hidden="true"></i></strong>
             <a href="{{ page.web-page }}" target="_blank" rel="noopener noreferrer">Project website</a>

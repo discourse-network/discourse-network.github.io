@@ -5,6 +5,9 @@ date: 2026-08-31
 layout: project
 lead: Adrian K. T. Ng
 lead-org: University of Bristol
+co-leads:
+  - name: Jon Higgins
+    org: University of Bristol
 #web-page: optional URL
 ---
 
