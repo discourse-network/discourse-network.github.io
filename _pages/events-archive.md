@@ -4,7 +4,7 @@ layout: default
 permalink: /events-archive/
 collection: events
 entries_layout: grid
-sort_by: order
+sort_by: date
 sort_order: reverse
 classes: wide
 ---

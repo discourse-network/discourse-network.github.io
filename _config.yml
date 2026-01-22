@@ -1,7 +1,7 @@
 title: "DisCouRSE: Developing a Community of Leaders"
 logo: "assets/images/DisCouRSE-Logo-Light.svg"
 email: 
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until "github:"
    DisCouRSE is a UKRI-funded Network+ project that will encourage and support the development of leaders
    across all digital Research Technical Professional (dRTP) roles, resulting in an empowered and connected
    community equipped to shape the future of digital research. 
@@ -120,8 +120,6 @@ tag_archive:
   type: liquid
   path: /tags/
 
-
-# In _config.yml
 minimal_mistakes_skin: default
 sass:
   style: compressed
