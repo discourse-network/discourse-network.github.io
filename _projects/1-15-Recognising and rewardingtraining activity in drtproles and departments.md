@@ -23,4 +23,4 @@ co-leads:
 
 The second phase is to work with **DRTP leaders** to raise awareness about the pathway, and to advocate for it'sadoption in their departments. The aim is that there would be a parity of esteem for both technical and training activities with regards for recognition and reward, in particular with regards to promotions processes.
 
-This will both raise the profile of training and it's importance to UK research landscape, and develop a meaningfulpathway including leadership opportunities for those that engage in those activities.
+This will both raise the profile of training and its importance to UK research landscape, and develop a meaningful pathway including leadership opportunities for those that engage in those activities.
