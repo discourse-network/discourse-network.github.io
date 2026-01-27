@@ -16,7 +16,7 @@ co-leads:
 ---
 
 
-**Many DRTPs undertaking training** and in some cases formal teaching as part of there roles. However, many do nothave any formal training in this role or clear pathways to develop as educators. In addition, there may be limitedrecognition and reward for these efforts within DRTP teams, potentially hindering development if these activities arenot valued equally alongside their main technical role.
+**Many DRTPs undertaking training** and in some cases formal teaching as part of their roles. However, many do not have any formal training in this role or clear pathways to develop as educators. In addition, there may be limited recognition and reward for these efforts within DRTP teams, potentially hindering development if these activities are not valued equally alongside their main technical role.
 
 **UCL’s [Centre for Advanced Research Computing](https://www.ucl.ac.uk/advanced-research-computing)** have developed an Educator development pathway that this project aims to build upon. The initial phase is to work with those delivering, developing and supporting the infrastructure of training across the UK DRTP landscape to expand the examples and development opportunities to meet their needs.
 
