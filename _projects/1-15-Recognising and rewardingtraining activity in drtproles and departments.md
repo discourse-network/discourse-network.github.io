@@ -15,7 +15,6 @@ co-leads:
 #web-page: optional URL
 ---
 
-**Recognising and rewarding training activity in drtp roles and departments** 
 
 **Many DRTPs undertaking training** and in some cases formal teaching as part of there roles. However, many do nothave any formal training in this role or clear pathways to develop as educators. In addition, there may be limitedrecognition and reward for these efforts within DRTP teams, potentially hindering development if these activities arenot valued equally alongside their main technical role.
 
