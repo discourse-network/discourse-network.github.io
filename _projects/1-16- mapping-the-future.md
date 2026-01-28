@@ -1,5 +1,5 @@
 ---
-title: "Mapping the Future: Understanding the Needs of DRTPS Across Core Research Facilities"
+title: "Mapping the future: Understanding the needs of dRTPs across core research facilities."
 start-date: 2026-01-12
 date: 2027-01-11
 layout: project
@@ -9,7 +9,7 @@ lead-org: University of Manchester
 #web-page: optional URL
 ---
 
-**Many DRTPS** already demonstrate strong leadership in their daily work, supporting research projects, teams, and the wider research environment. However, their contributions are often overlooked or undervalued.
+**Many dRTPs** already demonstrate strong leadership in their daily work, supporting research projects, teams, and the wider research environment. However, their contributions are often overlooked or undervalued.
 
 **This project aims to highlight and build on dRTPs existing strengths**. Through a participatory approach this project will explore how dRTPs lead, collaborate, and influence research, while identifying ways institutions can better recognise and support their work.
 
