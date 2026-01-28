@@ -15,11 +15,11 @@ co-leads:
 #web-page: optional URL
 ---
 
+**Many DRTPs undertake training** and, in some cases, formal teaching as part of their roles. However, many do not receive formal preparation for these activities, nor have clear pathways to develop as educators. In addition, there is often limited recognition and reward for training and teaching contributions within DRTP teams, which may hinder professional development if these activities are not valued equally alongside core technical responsibilities.
 
-**Many DRTPs undertaking training** and in some cases formal teaching as part of their roles. However, many do not have any formal training in this role or clear pathways to develop as educators. In addition, there may be limited recognition and reward for these efforts within DRTP teams, potentially hindering development if these activities are not valued equally alongside their main technical role.
+**UCL’s [Centre for Advanced Research Computing](https://www.ucl.ac.uk/advanced-research-computing)** has developed an educator development pathway, which this project aims to build upon. The initial phase will work with those who deliver, develop, and support training infrastructure across the UK DRTP landscape to expand existing examples and development opportunities so that they better meet sector needs.
 
-**UCL’s [Centre for Advanced Research Computing](https://www.ucl.ac.uk/advanced-research-computing)** have developed an Educator development pathway that this project aims to build upon. The initial phase is to work with those delivering, developing and supporting the infrastructure of training across the UK DRTP landscape to expand the examples and development opportunities to meet their needs.
+The second phase will work with **DRTP leaders** to raise awareness of the pathway and advocate for its adoption within their departments. The aim is to promote parity of esteem between technical and training activities in terms of recognition and reward, particularly within promotions processes.
 
-The second phase is to work with **DRTP leaders** to raise awareness about the pathway, and to advocate for its adoption in their departments. The aim is that there would be a parity of esteem for both technical and training activities with regards for recognition and reward, in particular with regards to promotions processes.
-
-This will both raise the profile of training and its importance to UK research landscape, and develop a meaningful pathway including leadership opportunities for those that engage in those activities.
+This work will raise the profile of training and its importance within the **UK research landscape,** while also developing a meaningful development pathway including **leadership opportunities** for those who engage in these activities.
+.
