@@ -15,12 +15,11 @@ co-leads:
 ---
 
 
-**Across the UK, many digital RTP groups** are led by individuals who’ve stepped into the role without formal training or via a clear development path. This often leads to inconsistent service delivery and management practices, with leaders under pressure to show impact, make data-informed decisions, and gain recognition for their teams. Unfortunately, differences in how groups are set up; and varying policies across institutions; make it hard to share knowledge or adopt common tools. 
+**Across the UK, many dRTP groups are led by individuals who have stepped into leadership roles without formal training or a clear development pathway.** This can result in inconsistent service delivery and management practices, with leaders under pressure to demonstrate impact, make data-informed decisions, and secure recognition for their teams. At the same time, differences in organisational structures and institutional policies make it difficult to share knowledge or adopt common approaches and tools. 
 
 **We’re building a community of leaders** who are early adopters of a new tool called **Capacity eXtended (CapX),** developed by **[The University of Manchester](https://www.manchester.ac.uk/)**.
 
 **CapX** helps teams plan resources, manage operations, and report on impact using integrated data models. It’s already generating interest after being showcased at **[RSECon25](https://rsecon25.society-rse.org/)**. 
 We’ll be rolling out **CapX** at two **N8 partner institutions**, offering hands-on training and support to help leaders improve operational management. 
 
-**This pilot will lay the groundwork for expanding to more groups across the UK in future funding rounds**. 
-The work undertaken will be making the software more flexible to meet the varying needs of different institutions security and access management, staff charging models etc. while still providing a consistent general approach.
+**This pilot will lay the groundwork for expansion to additional groups across the UK in future funding rounds.** The work undertaken will focus on making the software more flexible, enabling it to accommodate the varying needs of different institutions such as security and access management requirements and staff charging models—while still maintaining a consistent, general approach.
