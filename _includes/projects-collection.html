@@ -2,7 +2,7 @@
 {% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
 
 {% if projects %}
-  {% assign projects = projects | sort: 'date' %}
+  {% assign projects = projects | sort: 'start-date' %}
   {% if include.archive == 'true' %}
     {% assign projects = projects | reverse %}
   {% endif %}
