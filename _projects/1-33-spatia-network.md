@@ -1,7 +1,7 @@
 ---
 title: "Spatia London Network"
 start-date: 2026-02-02
-date: 2026-01-30
+date: 2027-01-30
 layout: project
 lead: Alessandra Vigilante
 lead-org: King's College London
