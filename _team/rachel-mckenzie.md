@@ -2,7 +2,7 @@
 name: Rachel McKenzie
 affiliation: UCL
 project_role: Professional Research Investment & Strategy Manager
-profile_image: rachel-mckenzie.png
+profile_image: rachel-mckenzie.jpg
 position: 8
 ---
 
