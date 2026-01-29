@@ -14,20 +14,21 @@ We are trying to build a network of people working in or alongside digital Resea
 </a>
 
 Network members might identify as any of the following, although this is not an exhaustive list!
-- Research Software Engineer (RSE)
-- Data Steward or Data Manager
-- Data Scientist, Analyst, AI or Machine Learning Specialist
-- Data Engineer
-- Systems Administrator or Infrastructure Specialist
-- DevOps Engineer or Cloud Architect
-- MLOps Engineer
-- HPC or Research Computing Specialist
 - Bioinformatician or Computational Scientist
+- Data Engineer
+- Data Scientist, Analyst, AI or Machine Learning Specialist
+- Data Steward or Data Manager
+- DevOps Engineer or Cloud Architect
 - Digital Humanities Technologist
 - Digital Librarian or Archivist
-- Technical Research Support Officer
-- Software Maintainer or Open-Source Contributor
+- HPC or Research Computing Specialist
+- MLOps Engineer
 - Project or Community Manager, Coordinator or [PRISM](https://www.pris-managers.ac.uk/aboutprism) in a technical research context
+- Research Computing Facilitator
+- Research Software Engineer (RSE)
+- Software Maintainer or Open-Source Contributor
+- Systems Administrator or Infrastructure Specialist, Research Infrastructure Engineer (RIE)
+- Technical Research Support Officer
 
 This wide scope is intentional. The dRTP community is diverse, and many people work across disciplines or don’t fit neatly into one role. By keeping our network inclusive, we can better reflect the realities of digital research, where collaboration across skill sets is essential.
 
