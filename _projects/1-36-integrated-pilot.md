@@ -23,16 +23,11 @@ co-leads:
 #web-page: optional URL
 ---
 
+This project addresses a recognised gap in Agile leadership training for digital Research Technical Professionals(dRTPs) across University College, London (UCL) and N8 institutions. 
 
-**The project aims to equip dRTPs** with practical agile leadership skills and to develop an evidence-informed model for professional development, addressing a recognised training gap across UCL and N8 institutions. By combining already existing and locally tested in-person, discussion-based, and online tooling modules, the program provides flexible, role-specific learning pathways.
+The collaborative pilot integrates three complementary approaches from two partners. The University of Manchester (UoM) provides two courses: **Agile Fundamentals**, for all dRTPs to build foundational Agile knowledge through gamified, hands-on exercises; and **GitHub Tooling for Agile**, offering practical experience in Agile workflows and project management, particularly for technical dRTPs. UCL delivers research-project-focused workshops, helping participants explore Agile principles and apply them in their own teams.
 
-**Intended outcomes include:**
-- Participants apply Agile principles, frameworks, and tools effectively in their research teams.
-- Cross-institutional collaboration and team workflows are strengthened.
-- Evaluation captures participant learning preferences, unmet training needs, and practical impact.
-- Flexible, role-specific learning pathways are explored and refined.
-- A hybrid, open-access training model is developed for scalable adoption beyond UCL and N8 institutions.
+Participants can select modules according to role, experience, and learning preferences. Training will be launched via UCL and N8CIR, supporting professional development across member institutions. An embedded evaluation will assess delivery effectiveness and gather participant feedback. Both partners will feed this evidence to the DRIFT project who are developing a curriculum for managing research software projects. DRIFT will use it to refine the agile methodologies module, ensuring it is role-sensitive and informed by tested, real-world training materials for the dRTP community.
 
-**Feedback from the pilot,** linked to DRIFT-WP2, will inform national-level curriculum development, ensuring practical applicability, better integration with related efforts, improved sustainability, and relevance for the wider **dRTP community**.
+By addressing a known skills gap, this project will strengthen RTP leadership, foster collaboration, and produce scalable, openly shared outcomes for the wider dRTP community.
 
-This vision aligns with the **DisCouRSE network’s objectives** by fostering technical leadership, inclusive participation, and the generation of practical evidence to guide future funding and training strategies. Leveraging the expertise and networks of UCL and **[N8 Centre of Excellence in Computationally Intensive Research](https://n8cir.org.uk/)** (N8 CIR) ensures broad engagement, uptake, and a meaningful response to unmet professional development needs across member institutions.
