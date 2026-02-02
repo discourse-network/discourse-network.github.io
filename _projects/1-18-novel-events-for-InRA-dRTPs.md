@@ -1,5 +1,5 @@
 ---
-title: "Novel event organisation for InRA dRTPs."
+title: "Novel event organisation for InRA dRTPs"
 start-date: 2026-03-01
 date: 2026-10-01
 layout: project
