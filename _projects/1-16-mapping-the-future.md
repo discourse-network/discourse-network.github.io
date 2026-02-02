@@ -1,5 +1,5 @@
 ---
-title: "Mapping the future: Understanding the needs of dRTPs across core research facilities."
+title: "Mapping the future: Understanding the needs of dRTPs across core research facilities"
 start-date: 2026-01-12
 date: 2027-01-11
 layout: project
