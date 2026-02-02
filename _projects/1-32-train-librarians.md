@@ -16,9 +16,7 @@ lead-org: UKDS/ UKDA, University of Essex
 The project aims to:
 
 - **Enhance librarians’ digital research data skills and teaching capabilities**
-
 - **Foster professional development and leadership in data education**
-
 - **Create scalable, reusable training resources for UK HE and FE institutions**
 
 
