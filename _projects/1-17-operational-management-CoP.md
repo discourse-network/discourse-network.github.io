@@ -17,7 +17,7 @@ co-leads:
 
 **Across the UK, many dRTP groups are led by individuals who have stepped into leadership roles without formal training or a clear development pathway.** This can result in inconsistent service delivery and management practices, with leaders under pressure to demonstrate impact, make data-informed decisions, and secure recognition for their teams. At the same time, differences in organisational structures and institutional policies make it difficult to share knowledge or adopt common approaches and tools. 
 
-**We’re building a community of leaders** who are early adopters of a new tool called **Capacity eXtended (CapX),** developed by **[The University of Manchester](https://www.manchester.ac.uk/)**.
+We’re building a community of leaders who are early adopters of a new tool called **Capacity eXtended (CapX),** developed by [The University of Manchester](https://www.manchester.ac.uk/).
 
 **CapX** helps teams plan resources, manage operations, and report on impact using integrated data models. It’s already generating interest after being showcased at **[RSECon25](https://rsecon25.society-rse.org/)**. 
 We’ll be rolling out **CapX** at two **N8 partner institutions**, offering hands-on training and support to help leaders improve operational management. 
