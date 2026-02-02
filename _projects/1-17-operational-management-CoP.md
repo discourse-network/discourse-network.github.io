@@ -1,5 +1,5 @@
 ---
-title: "Establishing an operational management community of practice for dRTP leaders."
+title: "Establishing an operational management community of practice for dRTP leaders"
 start-date: 2026-01-05
 date: 2026-04-03
 layout: project
