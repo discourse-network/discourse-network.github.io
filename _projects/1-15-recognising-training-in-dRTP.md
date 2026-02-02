@@ -1,5 +1,5 @@
 ---
-title: "Recognising and rewarding training activity in drtp roles and departments"
+title: "Recognising and rewarding training activity in dRTP roles and departments"
 start-date: 2026-01-01
 date: 2026-12-31
 layout: project
