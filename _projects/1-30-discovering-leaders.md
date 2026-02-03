@@ -10,9 +10,9 @@ co-leads:
     org: RCM Cooperative
   - name: Emma Karoune
   - org: RCM Cooperative
- 
 #web-page: optional URL
 ---
+
 Across the UK’s Research Technical Professional (RTP) landscape many individuals informally undertake Research Community Management (RCM) activities---such as coordinating open-source contributions and sustaining communities of practice---without formal recognition, institutional support, or inclusion in job descriptions. This lack of visibility and backing creates a fragile and uneven foundation for community leadership, limiting incentives and career development opportunities for those performing this vital work.
 
 This project seeks to build a deeper understanding of the scope, value, and impact of RCM within the research ecosystem. Through qualitative interviews with RTPs engaged in RCM activities, the project will identify key competencies and explore how the absence of formalisation affects leadership and career progression. These findings will extend the DIRECT DisCouRSE Framework, particularly its Community and Outreach competencies, and will inform the design of a statistically robust, construct-validated survey targeting the wider UK RTP community.

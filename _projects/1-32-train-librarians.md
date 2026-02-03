@@ -4,8 +4,7 @@ start-date: 2026-04-01
 date: 2027-03-31
 layout: project
 lead: Beate Lichtwardt
-lead-org: UKDS/ UKDA, University of Essex
-
+lead-org: UKDS/UKDA, University of Essex
 #web-page: optional URL
 ---
 
