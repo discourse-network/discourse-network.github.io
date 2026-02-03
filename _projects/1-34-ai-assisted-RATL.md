@@ -1,14 +1,13 @@
 ---
 title: "Responsible AI-Assisted Technical Leadership (RATL)"
 start-date: 2026-01-01
-end date: 2026-12-31
+date: 2026-12-31
 layout: project
 lead: Kamilla Kopec-Harding
 lead-org: University of Birmingham
 co-lead:
   - name: Adrian Garcia
     org: University of Birmingham
- 
 #web-page: optional URL
 ---
 
