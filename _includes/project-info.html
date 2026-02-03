@@ -1,0 +1,5 @@
+<tr>
+  <td><a href="{{ project.url | relative_url }}">{{ project.title | markdownify | strip_html }}</a></td>
+  <td>{{ project.lead }}, {{ project.lead-org }}</td>
+  <td>{{ project.start-date | date: "%d %b %Y" }} - {{ project.date | date: "%d %b %Y" }}</td>
+</tr>
