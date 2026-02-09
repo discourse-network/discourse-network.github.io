@@ -1,9 +1,11 @@
-# Championing Green Digital Research Workshop  
-## Day 0 of ARCHER2 Celebration of Science 2026
-
-**Date:** 18 March 2026  
-**Location:** Sydney Smith – Doorway 1, Medical School, Teviot Place, The University of Edinburgh, Edinburgh, EH8 9AG  
-
+---
+title: "Championing Green Digital Research Workshop --- Day 0 of ARCHER2 Celebration of Science 2026"
+date: 2026-03-18
+location: Sydney Smith – Doorway 1, Medical School, Teviot Place, The University of Edinburgh, Edinburgh, EH8 9AG
+layout: event
+web-page: https://www.archer2.ac.uk/community/events/celebration-of-science-2026/day0
+summary: >
+  This workshop will provide insight into recent efforts to understand the skills required to empower researchers and digital research technical professionals to both implement and advocate for positive environmental impact when using DRI for research.
 ---
 
 We are pleased to announce that the **Championing Green Digital Research Workshop** will take place on **Wednesday, 18 March 2026**, as **Day 0 of the ARCHER2 Celebration of Science 2026**.
@@ -28,7 +30,7 @@ This workshop will provide insight into recent efforts to understand the skills 
 
 ## Registration
 
-Registration is now open.
+[Registration](https://forms.office.com/e/bYHMcP8KLc?origin=lprLink) is now open.
 
 ---
 
@@ -48,7 +50,7 @@ Participants are welcome to register for:
 This workshop is organised by **EPCC** and supported by:
 
 - ARCHER2 National Service  
-- UKRI Research Infrastructure Network+ programmes  
+- UKRI Digital Research Infrastructure Network+ programmes
   - CHARTED  
   - DisCouRSE  
   - NetDRIVE  
