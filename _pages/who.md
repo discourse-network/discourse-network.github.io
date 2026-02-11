@@ -10,7 +10,7 @@ We are trying to build a network of people working in or alongside digital Resea
 
 <a href="https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=DISCOURSE-NETWORK&A=1"
    class="btn btn--large btn--success">
-  📬 Sign up to our newsletter to stay in touch!
+  📬 Sign up to our mailing list to stay in touch!
 </a>
 
 Network members might identify as any of the following, although this is not an exhaustive list!
