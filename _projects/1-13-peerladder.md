@@ -7,11 +7,11 @@ lead: Saskia Lawson-Tovey
 lead-org: University of Manchester/ELIXIR-UK 
 co-leads:
   - name: Xenia Perez-Sitja
-    org: University of Bristol
+    org: Earlham Institute/ELIXIR-UK
   - name: Carole Goble
     org: University of Manchester/ELIXIR-UK
   - name: Sara Villa
-    org: OLS
+    org: OLS/ELIXIR-UK
 #web-page: optional URL
 ---
 
