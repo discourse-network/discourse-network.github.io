@@ -15,5 +15,7 @@ main:
     url: "/funding/round-1"
   - title: "Code of Conduct"
     url: "/code-of-conduct"
+  - title: "Expenses Policy"
+    url: "/expenses-policy"
   - title: "Contact"
     url: "/contact"
