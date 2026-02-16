@@ -107,13 +107,22 @@ sidebar: false
 
 # Page defaults
 defaults:
-  # Pages
+  # Static pages
   - scope:
       path: "_pages"
       type: pages
     values:
-      layout: page  # Set layout for pages
+      layout: default  # Set layout for pages
       author_profile: false
+  # News posts in _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      sidebar: true
 
 category_archive:
   type: liquid
