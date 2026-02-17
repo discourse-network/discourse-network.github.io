@@ -7,6 +7,8 @@ permalink: /expenses-policy
 # DisCouRSE Travel Bursary Policy
 
 This policy sets out what travel and accommodation expenses may be claimed by individuals awarded a travel bursary to attend DisCouRSE events.
+Details of how to apply will be included in the relevant event page.
+If you have any questions, please do [contact us](mailto:arc.discourse@ucl.ac.uk).
 
 ## 1. Assessment of Bursary Applications
 
