@@ -11,7 +11,7 @@ co-leads:
   - name: Carole Goble
     org: University of Manchester/ELIXIR-UK
   - name: Sara Villa
-    org: OLS/ELIXIR-UK
+    org: OLS
 #web-page: optional URL
 ---
 
