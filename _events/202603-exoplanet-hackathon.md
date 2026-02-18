@@ -4,7 +4,7 @@ start-date: 2026-03-21
 date: 2026-03-21
 location: King's College London
 layout: event
-web-page: https://www.eventbrite.co.uk/e/exoplanet-hackathon-series-episode-iii-london-edition-tickets-1980367400204#location
+web-page: https://www.ariel-datachallenge.space/exohack-london/
 summary: >
   Join us in London for the Exoplanet Hackathon Series a fun in-person AI coding event to explore new worlds.
 ---
