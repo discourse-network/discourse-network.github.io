@@ -16,7 +16,7 @@ You will collaborate in cross institution teams, experiment on authentic dataset
 Digital Research Technical Professionals (dRTPs) this is a chance for you to build and practice your leadership, teamwork, and communication skills under time pressure. Whether you are early career or an established professional, you will leave with new techniques, new collaborators, and fresh ideas you can take back to your home institution.
 Step into the ExoHack universe and put your digital research skills to work on real exoplanet challenges! 
 
-Places are limited, so if you want hands on experience at the interface of AI, astronomy, and digital research practice and to help shape the future of dRTP led hackathons register now.
+Places are limited, so if you want hands on experience at the interface of AI, astronomy, and digital research practice and to help shape the future of dRTP led hackathons [register now](https://www.eventbrite.co.uk/e/exoplanet-hackathon-series-episode-iii-london-edition-tickets-1980367400204#location).
 
 
 
