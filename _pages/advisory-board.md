@@ -31,9 +31,9 @@ The current list of Advisory Board members is:
 - Caroline Ang, Director of Operations, IMI, Bath
 - Eirini Goudarouli, Head of Research, National Archives
 - Fleur Hughes, PRISM Manager, York
+- Gemma Ives, Team Lead - Data Visualisation and Analysis, Sheffield
 - James McLaughlin, Professor of Biomedical Engineering, Ulster University
 - Martyn Guest, Director of ARC, Cardiff
-- Saul Cozens, Head of Delivery for Research and Innovation IT, Sheffield
 - Stefania Marcotti, BioImage Analysis Trainer, Francis Crick Institute
 - Stephen Larson, CEO, Metacell
 
