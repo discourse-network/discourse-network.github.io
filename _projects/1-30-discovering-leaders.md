@@ -4,7 +4,7 @@ start-date: 2026-02-01
 date: 2026-07-31
 layout: project
 lead: Lyndsey Ballantyne
-lead-org: University of Southampton
+lead-org: Software Sustainability Institute
 co-leads:
   - name: Cassandra Gould van Praag
     org: RCM Cooperative
