@@ -10,8 +10,8 @@ co-leads:
     org: University of Exeter
   - name: Aleksadra Nenadic
     org: University of Manchester
-  - name: Sara Villa
-    org: OLS
+    
+    
 #web-page: optional URL
 ---
 
