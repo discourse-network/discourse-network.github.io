@@ -10,6 +10,8 @@ co-leads:
     org: RCM Cooperative
   - name: Emma Karoune
   - org: RCM Cooperative
+  - name: Oscar Seip
+  - org: RCM Cooperative
 #web-page: optional URL
 ---
 
