@@ -35,7 +35,7 @@ Our flexible fund supports community-led projects aligned with this goal, enabli
 
 This second call has **three strands**: two main categories, with a third strand open to existing training providers only.
 
-1. **Pilot projects** of up to £15k total budget in any area relevant to DisCouRSE’s aims. This category is focused on enabling and exploring new ideas, so **those who received funding in round 1 as lead or co-lead are not eligble to apply**. We are particularly seeking applications from organisations that were not represented in [round 1 projects](/projects).
+1. **Pilot projects** of up to £15k total budget in any area relevant to DisCouRSE’s aims. This category is focused on enabling and exploring new ideas, so **those who received funding in round 1 as lead or co-lead are not eligible to apply**. We are particularly seeking applications from organisations that were not represented in [round 1 projects](/projects).
 2. **Growth projects** contributing to **existing community initiatives**, again aligned to DisCouRSE's aims and with a £15k total budget limit. Starting something new is not allowed in this category. Showing how your idea builds on existing engagement and complements what is already happening will be particularly important.
 3. **Cohort training**: we invite training providers to bid to run a pilot leadership training programme, aligned to [Work Package 3](/workpackages#wp3-advanced-skills), for a dedicated cohort of dRTPs.
    *TODO: more details on this strand!*
