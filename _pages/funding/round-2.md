@@ -191,9 +191,8 @@ If you’ve never reviewed before, don’t worry: guidance will be provided.
 There are also [other networks and similar projects](https://www.cake.ac.uk/landscape/rtp) within the UK Digital Research Infrastructure landscape at present that will have funding calls during the next few years, and we are seeking to share reviewers.
 So, even if you can't help us in this round, please [share your details with us](https://forms.office.com/e/KB10mVSAZZ) if you might be willing to review for another round or another project.
 
-*TODO: update dates*
-Reviewing for this round will take place between 17<sup>th</sup> November and 5<sup>th</sup> December 2025,
-with a one day panel meeting on Teams on **Monday 8<sup>th</sup> December 2025**.
+Reviewing for this round will take place between **10<sup>th</sup> and 25<sup>th</sup> June 2026**,
+with a panel meeting on Teams during the week commencing **Monday 29<sup>th</sup> June 2026**.
 
 We anticipate that reviewers would need to score up to 10 applications each against the criteria given in the call.
 Each application will be scored by 3 reviewers, and the reviewer panel will then agree consensus scores collectively.
