@@ -4,7 +4,7 @@ start-date: 2026-04-28
 date: 2026-04-30
 location: ICC Belfast
 layout: event
-web-page: https://www.software.ac.uk/collaborations-workshop-2026
+web-page: https://www.software.ac.uk/workshop/collaborations-workshop-2026-cw26
 summary: >
   Collaborations Workshop 2026 (CW26) will focus on strengthening the Research Software Community.
 ---
