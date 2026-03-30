@@ -9,6 +9,9 @@ description: >- # this means to ignore newlines until "github:"
 github:
   is_project_page: false
 search: true
+locale: "en-GB"
+timezone: "Europe/London"
+date_format: "%-d %B %Y"
 
 # Navigation
 navigation:
@@ -43,15 +46,6 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 
 include:
-  - _includes/head_custom.html
-
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-include:
   - _pages
 
 # Plugins (previously gems:):
@@ -83,6 +77,10 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/company/discourse-network"
+    - label: "Code of Conduct"
+      url: "/code-of-conduct"
+    - label: "Contact us"
+      url: "/contact"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
@@ -109,13 +107,22 @@ sidebar: false
 
 # Page defaults
 defaults:
-  # Pages
+  # Static pages
   - scope:
       path: "_pages"
       type: pages
     values:
-      layout: page  # Set layout for pages
+      layout: default  # Set layout for pages
       author_profile: false
+  # News posts in _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      sidebar: true
 
 category_archive:
   type: liquid
@@ -127,10 +134,3 @@ tag_archive:
 minimal_mistakes_skin: default
 sass:
   style: compressed
-
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      css: "/assets/css/main.css"
