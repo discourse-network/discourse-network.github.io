@@ -2,6 +2,7 @@
 layout: single
 title: "DisCouRSE Flexible Fund - Round 2"
 permalink: /funding/round-2
+sidebar: []
 toc: true
 toc_sticky: true
 ---
