@@ -2,6 +2,14 @@
 layout: single
 title: "Flexible Funding Scheme"
 permalink: /funding
+classes: wide
+sidebar:
+  - title: Round 1
+    text: The [first round](round-1) closed in November 2025. Explore the [funded projects](/projects).
+  - title: Round 2
+    text: Our [second funding round](round-2) is open for applications from 13 April until 5 June 2026.
+  - title: Volunteer to review
+    text: Fill in your details at <https://forms.office.com/e/KB10mVSAZZ>
 ---
 
 The DisCouRSE Network+ project aims to encourage and support the **development of leaders** of all kinds across all **digital Research Technical Professional** (dRTP) roles, primarily within the UK, resulting in an empowered and connected community equipped to shape the future of digital research. We have a twin focus on **leadership training** and **dRTP career pathways** – preparing the next generation of leaders and ensuring roles exist for them to lead within.
