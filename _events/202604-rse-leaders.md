@@ -3,7 +3,7 @@ title: "RSE Leaders & Aspiring Leaders Meeting"
 date: 2026-06-15
 location: Durham University (in-person) & online
 layout: event
-web-page: https://www.society-rse.org/events/rse-leaders-2026
+web-page: https://luma.com/0w6u5u47
 summary: >
   This event will focus on the policy and funding landscape for RSEs. 
   
