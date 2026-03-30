@@ -17,9 +17,7 @@ Information here is subject to change until then.
 
 <!-- [Submit your application](https://discourse.grantplatform.com){:.btn .btn--primary} -->
 
-TODO: Allow unnamed costed roles in the application form.
-
-TODO: Add a PDF download of the blank application form?
+TODO: Add a PDF download of the blank application form (in the sidebar too)?
 
 # Key Dates
 

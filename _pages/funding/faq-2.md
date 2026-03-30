@@ -90,7 +90,7 @@ Can we reach out to DISCOURSE co-leads for feedback on our ideas?
 : Yes.  You can contact the Management team through the [generic project email address](mailto:arc.discourse@ucl.ac.uk) or if your project relates particularly to one of the [work packages](/workpackages), you can contact that co-lead directly.
 
 If the project is centred around software development conducted by a team but not all members have been decided, do they all need to be named, or is just the people who will leading that should be included in the application?
-: You can name other contributors other than lead and co-lead but this is not compulsory.  A good sense of competences/roles needed to deliver the project even if unnamed would strengthen your proposal.  TODO: update this!
+: Leads and co-leads must always be named, but other project team members can be listed as a generic 'role description' in the application form in this case.
 
 For researching our idea, is there anything we can read that outlines the common challenges faced by dRTPs in pursuing leadership roles and career progression?
 : The [background page on the DisCouRSE website](/background) cites various articles and we are [collating more in our Zotero library](https://www.zotero.org/groups/6063965/discourse_network/collections/AS27J7T8/collection).  Contributions are welcome!  We can also recommend looking at <https://step-up.ac.uk/support/> and <https://step-up.ac.uk/blog/>.  It is worth exploring funders' websites but it is acknowledged that there are a lack of resources in this area.
