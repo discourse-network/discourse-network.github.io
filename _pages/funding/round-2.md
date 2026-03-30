@@ -5,8 +5,10 @@ permalink: /funding/round-2
 sidebar:
   - title: Key dates
     text: "<ul><li>Call opens Monday 13 April 2026.</li><li>Submission deadline Friday 5 June 2026 at 16:00 BST.</li></ul>"
-  - title: Frequently Asked Questions
+  - title: FAQs
     text: "[Answers to common questions](/funding/round-2/faq) are available and will be added to over time."
+  # - title: Apply now
+  #   text: "[Submit your application](https://discourse.grantplatform.com){:.btn .btn--primary}"
 toc: true
 toc_sticky: true
 ---
