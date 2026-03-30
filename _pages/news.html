@@ -1,0 +1,30 @@
+---
+title: "News"
+permalink: "/news/"
+layout: splash
+collection: posts
+entries_layout: grid
+classes: wide
+---
+
+<h1>News</h1>
+
+{% capture now %}{{'now' | date: '%s' | plus: 0 }}{% endcapture %}
+
+<div class="project-grid">
+{% for post in site.posts -%}
+  {% capture date %}{{ post.date | date: '%s' | plus: 0 }}{% endcapture %}
+  {% if date <= now %}
+
+    <article class="project">
+      <a href="{{ post.url | relative_url }}" rel="bookmark" style="text-decoration: none;">
+        <img class="project-image u-photo" src="{{ post.summary-image }}" alt="{{ post.summary-image-desc }}">
+        <strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i></strong>
+        {{ post.date | date: site.date_format }}
+        <h3 class="project-title p-name" style="margin: 0em;">{{ post.title }}</h3>
+      </a>
+    </article>
+
+  {% endif %}
+{% endfor %}
+</div>
