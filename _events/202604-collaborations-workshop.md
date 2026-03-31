@@ -16,4 +16,4 @@ CW26 will focus on strengthening the research software community, fostering nati
 CW26 will be held as a hybrid event, with both in-person and online participation options.
 Registration via [Eventbrite](https://www.eventbrite.co.uk/e/collaborations-workshop-2026-cw26-collabw26-tickets-1590550201469?aff=oddtdtcreator) closes on 31st March.
 
-DisCouRSE will be contributing through a [workshop on the DIRECT framework](https://www.software.ac.uk/news/cw26-mini-workshops-have-now-been-announced), and project lead Jonathan Cooper taking part in a [fireside chat](https://www.software.ac.uk/news/cw26-fireside-chat-professionalising-roles-research-software) on professionalising roles and strengthening recognition in Research Software.
+DisCouRSE will be contributing through [multiple workshops including on dRTP career pathways and the DIRECT framework](https://www.software.ac.uk/news/cw26-mini-workshops-have-now-been-announced), and project lead Jonathan Cooper will take part in a [fireside chat](https://www.software.ac.uk/news/cw26-fireside-chat-professionalising-roles-research-software) on professionalising roles and strengthening recognition in Research Software.
