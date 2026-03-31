@@ -20,7 +20,7 @@ Our conduits support DisCouRSE by:
 <h2 style="font-size: 1.2em; margin-top: 0;">Meet Our Conduits </h2>
 
 
- **Ric Campbell, Data Manger (The University of Sheffield)  [Profile](https://profiles.ucl.ac.uk/72749-alessandro-felder)**
+ **Ric Campbell, Data Manger (The University of Sheffield)  [Profile](https://orda.shef.ac.uk/authors/Richard_Campbell/2798959)**
 
 Ric Campbell works in research data management, supporting researchers in organising, maintaining, and enabling effective use of research data. 
 
