@@ -39,11 +39,12 @@ Louise Saul works as a data steward, supporting researchers in the responsible m
  <hr/>
 
  
-**Chris Langridge, Head of Operations and Strategy for Centre for Advanced Research Computing (ARC) (University College London)  [Profile](https://profiles.ucl.ac.uk/9900-chris-langridge)**
+### Chris Langridge, Head of Operations and Strategy for Centre for Advanced Research Computing (ARC) (University College London)
+![Chris Langridge](/assets/images/conduits/chris-langridge.jpg){:.align-left}
 
-Chris is the Head of Operations and Strategy for for Centre for Advanced Research Computing (ARC), overseeing a wide range of operational and strategic objectives to support delivery of a range of services and research. He is responsible for overseeing Departmental processes surrounding core operational activities, such as Finance, HR, IT and Estates as well as Education and Research, ensuring support of the strategic vision of the Department.
+[Chris](https://profiles.ucl.ac.uk/9900-chris-langridge) is the Head of Operations and Strategy for for Centre for Advanced Research Computing (ARC), overseeing a wide range of operational and strategic objectives to support delivery of a range of services and research. He is responsible for overseeing Departmental processes surrounding core operational activities, such as Finance, HR, IT and Estates as well as Education and Research, ensuring support of the strategic vision of the Department.
 
- <hr/>
+ <hr class="cf"/>
 
  **Zoe Payne, Systems Administrator (EPCC)  [Profile](https://www.epcc.ed.ac.uk/about-us/our-team/zoe-payne )**
 
