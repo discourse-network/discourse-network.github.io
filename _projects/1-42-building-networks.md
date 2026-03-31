@@ -23,4 +23,4 @@ These sessions will also highlight emerging community leaders, giving them struc
 
 From this core hub, we aim to support existing groups and enable new initiatives to form where gaps are identified. Members will be encouraged to start Special Interest clubs, supported by openly available resources such as “Club-in-a-Box” templates, facilitation guides, and a shared events calendar.
 
-Finally, a **co-design workshop** with dRTPs will help finalise the framework for sustaining communication and leadership across the community.
+Finally, a **co-design workshop** with dRTPs will help finalise the framework for sustaining communication and leadership across the community. Find out more about the [Research Coding Community](https://coding-for-reproducible-research.github.io/Research_Coding_Community/home_page.html).
