@@ -145,7 +145,7 @@ To apply:
 7. You can continue to edit your application after it has been submitted, up until the deadline, and the latest version saved will be the one reviewed.
 
 The project lead is responsible for completing the application process but we expect all team members and project partners to contribute to the application. Please note that some information that you provide in your application will be shared publicly as noted in the form, or with UKRI as stated in [the call Terms and Conditions](/assets/docs/Flexible-Fund-Terms-Template-20250925.pdf). Information you provide will also be used by the DisCouRSE project team and our external Advisory Board to evaluate the funding scheme and inform the design of future calls. We will handle personal data in line with UK data protection legislation and manage it securely. Except for published information, all data will be deleted by the end of the DisCouRSE project (30<sup>th</sup> September 2028).
-*TODO: update T&C link if new version approved*
+<!-- TODO: update T&C link if new version approved -->
 
 You can download a full list of the application questions from the submission system on the “Start here” tab. You can also download a copy of your submitted application, or withdraw it by choosing the “Delete” action.
 More [guidance on using the platform in general is available from GoodGrants](https://help.goodgrants.com/hc/en-gb/articles/4405817472271-Ultimate-guide-for-applicants).
@@ -174,7 +174,9 @@ The DisCouRSE Management Board will then take a portfolio view of ‘fundable’
 # Expectations for funded projects
 
 Projects will be required to agree to [standard Terms and Conditions](/assets/docs/Flexible-Fund-Terms-Template-20250925.pdf) based on UCL’s standard terms for grant sub-contracts, with modifications to ensure that intellectual property remains owned by the applicants. The [template Grant Agreement is available here for you to review](/assets/docs/Flexible-Fund-Terms-Template-20250925.pdf). If you have specific concerns about its contents you are advised to contact us well in advance of the submission deadline.
-*TODO: Update contract link*
+
+Note that we are working to improve this contract slightly based on feedback received from some round 1 projects, and hope to have this ready shortly. The changes will not be substantial and will only affect clauses 4, 5 and 8.
+<!-- TODO: Update contract links when ready -->
 
 Summaries of funded projects will be published on our website once contracts are signed.
 
