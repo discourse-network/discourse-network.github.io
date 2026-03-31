@@ -51,11 +51,12 @@ Zoe Payne is a systems administrator at EPCC, the supercomputing centre at the U
 
  <hr/>
 
- **Alessandro Felder, BioImaging (ULC and BioImaging Groups)  [Profile](https://profiles.ucl.ac.uk/72749-alessandro-felder)**
+### Alessandro Felder, BioImaging (ULC and BioImaging Groups)
+![Alessandro Felder](https://profiles.ucl.ac.uk/72749-alessandro-felder/thumbnail){:.align-left}
 
-Alessandro Felder works in the BioImaging research community, supporting advanced imaging technologies and computational image analysis. His work bridges experimental imaging and digital research methods. 
+[Alessandro Felder](https://profiles.ucl.ac.uk/72749-alessandro-felder) works in the BioImaging research community, supporting advanced imaging technologies and computational image analysis. His work bridges experimental imaging and digital research methods.
 
- <hr/>
+<hr class="cf" />
 
  **David Young, Astrophysics (Queen University Belfast)  [Profile]( https://pure.qub.ac.uk/en/persons/david-young/)**
 
