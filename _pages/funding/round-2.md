@@ -63,8 +63,8 @@ You must adhere to [UKRI open research policy](https://www.ukri.org/manage-your-
 
 ## Funding and duration
 
-- We anticipate funding **10-15 projects** across categories 1 and 2 in this round of the flexible fund.
-- Individual projects can budget **up to £15k funding at 100% full economic cost** (fEC) level.
+- We anticipate funding **10-15 projects** across categories 1 and 2 in this round of the flexible fund, and **1 cohort training project**.
+- Individual projects can budget **up to £15k funding at 100% full economic cost** (fEC) level. _TODO: More for strand 3?_
 - Except where noted below, applicants will be awarded 80% of the full cost, and the institution receiving the award is responsible for the remaining 20%. (Note that estates costs and indirects associated with staff posts **are eligible** to include in the budget except as described below.) When invoices are submitted they should be for 80% of the full cost and a statement should also be submitted showing the full cost.
 - Projects should start between 01/09/2026 and 01/12/2026.
 - Projects must complete by 30/11/2027.
@@ -104,8 +104,7 @@ You may not submit more than one application to this call as either project lead
 
 UK research organisations will be funded at 80% of the full economic cost (fEC). This includes Directly Allocated and Indirect costs.
 
-On a single application, the combined costs of all collaborating organisations from UK business, third sector, government organisations and any international partners must not exceed 50% of the total fEC of the grant application (at 100% fEC). In addition, no more than 75% of the number of leads and co-leads can be from such organisations.
-*TODO: This point will be different for strand 3!*
+On a single application to strand 1 or 2 (pilot or growth projects), the combined costs of all collaborating organisations from UK business, third sector, government organisations and any international partners must not exceed 50% of the total fEC of the grant application (at 100% fEC). In addition, no more than 75% of the number of leads and co-leads can be from such organisations. These constraints do not apply to a cohort training proposal.
 
 It is the responsibility of the project lead to ensure that all collaborators are from an organisation eligible to receive, and with appropriate systems in place to manage, the funding provided.
 
