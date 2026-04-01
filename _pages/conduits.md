@@ -28,11 +28,15 @@ Our conduits support DisCouRSE by:
 
 **Martin O'Reilly, Data Scientist Analyst AI and Machine Learning Specialist (Alan Turning Institute)**
 
+![Martin O'Reilly](/assets/images/conduits/martin-o'reilly.jpg){:.align-left}
+
 [Martin O'Reilly](https://www.turing.ac.uk/people/researchers/martin-oreilly) is a data scientist and researcher in artificial intelligence and machine learning. His work focuses on applying data science and advanced analytics to real-world research challenges. 
 
  <hr/>
 
  **Louise Saul, Data Steward (University of Southampton)**
+ 
+ ![Louise Saul](/assets/images/conduits/louise-saul.jpg){:.align-left}
 
 [Louise](https://www.linkedin.com/in/louisemsaul339824/?originalSubdomain=uk) works as a data steward, supporting researchers in the responsible management, sharing, and reuse of research data. She promotes best practices in data governance and FAIR data principles.   
 
@@ -59,6 +63,8 @@ Our conduits support DisCouRSE by:
 <hr class="cf" />
 
  **David Young, Astrophysics (Queen University Belfast)**
+
+![David Young](/assets/images/conduits/david-young.jpg){:.align-left}
 
 [David](https://pure.qub.ac.uk/en/persons/david-young/) is an astrophysics researcher at Queen’s University Belfast. His work contributes to the astrophysics research community and broader digital research infrastructure networks. 
 
