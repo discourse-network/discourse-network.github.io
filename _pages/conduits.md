@@ -34,7 +34,7 @@ Our conduits support DisCouRSE by:
 
 [Martin O'Reilly](https://www.turing.ac.uk/people/researchers/martin-oreilly) is a data scientist and researcher in artificial intelligence and machine learning. His work focuses on applying data science and advanced analytics to real-world research challenges. 
 
- <hr/>
+<hr class="cf"/>
 
  **Louise Saul, Data Steward (University of Southampton)**
  
