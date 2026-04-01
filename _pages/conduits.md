@@ -16,8 +16,10 @@ Our conduits support DisCouRSE by:
 - **Sharing communications** - including funding calls, events, and opportunities - within their networks (Teams/Slack channels, mailing lists, or community meetings).
 - **Signposting communities** - helping identify groups or individuals not yet engaged with DisCouRSE.
 - **Providing light-touch feedback** - sharing insights from their communities to help shape DisCouRSE activities and priorities.
- <hr/>
-<h2 style="font-size: 1.2em; margin-top: 0;">Meet Our Conduits </h2>
+
+-----
+
+## Meet Our Conduits
 
 
  **Ric Campbell, Data Manger (The University of Sheffield)**
