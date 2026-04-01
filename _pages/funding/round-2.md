@@ -133,6 +133,9 @@ In general, we will fund 100% of eligible costs, where these have been sufficien
 
 Applications must be made via the GoodGrants platform at <https://discourse.grantplatform.com>. You will be required to register on the platform to submit your application.
 
+You will need to seek institutional approval for your application, and this process often takes several weeks. Ensure you start early enough!
+{: .notice--warning}
+
 To apply:
 
 1. Go to the DisCouRSE submission website: <https://discourse.grantplatform.com/>{: .btn .btn--primary}
