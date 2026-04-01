@@ -81,7 +81,6 @@ Help us connect and strengthen dRTP communities! Conduits share information, sig
 We're especially looking for experience in:
 
 - Digital research
-- Research software engineering
 - Data management
 - Research infrastructure
 - Research technology leadership
