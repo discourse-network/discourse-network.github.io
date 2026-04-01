@@ -3,8 +3,7 @@ layout: default
 title: "Conduits"
 permalink: /conduits
 ---
- <hr/>
-<h1>DisCouRSE Community Conduits</h1>
+# DisCouRSE Community Conduits
 
 To maximise the reach and impact of **DisCouRSE**, we work with individuals who act as **community conduits**, bridging multiple **digital research technical professional (dRTP)** communities. Conduits help share information through trusted networks that may not be accessible via standard channels, ensuring opportunities, events, and activities reach those who could benefit most.
  <hr/>
