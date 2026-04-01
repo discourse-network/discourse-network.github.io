@@ -20,24 +20,23 @@ Our conduits support DisCouRSE by:
 <h2 style="font-size: 1.2em; margin-top: 0;">Meet Our Conduits </h2>
 
 
- **Ric Campbell, Data Manger (The University of Sheffield)  [Profile](https://orda.shef.ac.uk/authors/Richard_Campbell/2798959)**
+ **Ric Campbell, Data Manger (The University of Sheffield)**
 
-Ric Campbell works in research data management, supporting researchers in organising, maintaining, and enabling effective use of research data. 
-
- <hr/>
-
-**Martin O'Reilly, Data Scientist Analyst AI and Machine Learning Specialist (Alan Turning Institute) [Profile](https://www.turing.ac.uk/people/researchers/martin-oreilly)**
-
-Martin O'Reilly is a data scientist and researcher in artificial intelligence and machine learning. His work focuses on applying data science and advanced analytics to real-world research challenges. 
+[Ric Campbell](https://orda.shef.ac.uk/authors/Richard_Campbell/2798959) works in research data management, supporting researchers in organising, maintaining, and enabling effective use of research data. 
 
  <hr/>
 
- **Louise Saul, Data Steward (University of Southampton)  [Profile](https://www.linkedin.com/in/louisemsaul339824/?originalSubdomain=uk)**
+**Martin O'Reilly, Data Scientist Analyst AI and Machine Learning Specialist (Alan Turning Institute)**
 
-Louise Saul works as a data steward, supporting researchers in the responsible management, sharing, and reuse of research data. She promotes best practices in data governance and FAIR data principles.   
+[Martin O'Reilly](https://www.turing.ac.uk/people/researchers/martin-oreilly) is a data scientist and researcher in artificial intelligence and machine learning. His work focuses on applying data science and advanced analytics to real-world research challenges. 
 
  <hr/>
 
+ **Louise Saul, Data Steward (University of Southampton)**
+
+[Louise](https://www.linkedin.com/in/louisemsaul339824/?originalSubdomain=uk) works as a data steward, supporting researchers in the responsible management, sharing, and reuse of research data. She promotes best practices in data governance and FAIR data principles.   
+
+ <hr/>
  
 ### Chris Langridge, Head of Operations and Strategy for Centre for Advanced Research Computing (ARC) (University College London)
 ![Chris Langridge](/assets/images/conduits/chris-langridge.jpg){:.align-left}
@@ -46,9 +45,9 @@ Louise Saul works as a data steward, supporting researchers in the responsible m
 
  <hr class="cf"/>
 
- **Zoe Payne, Systems Administrator (EPCC)  [Profile](https://www.epcc.ed.ac.uk/about-us/our-team/zoe-payne )**
+ **Zoe Payne, Systems Administrator (EPCC)**
 
-Zoe Payne is a systems administrator at EPCC, the supercomputing centre at the University of Edinburgh. She supports high-performance computing and research infrastructure used by a wide range of research communities. 
+[Zoe](https://www.epcc.ed.ac.uk/about-us/our-team/zoe-payne ) is a systems administrator at EPCC, the supercomputing centre at the University of Edinburgh. She supports high-performance computing and research infrastructure used by a wide range of research communities. 
 
  <hr/>
 
@@ -59,9 +58,9 @@ Zoe Payne is a systems administrator at EPCC, the supercomputing centre at the U
 
 <hr class="cf" />
 
- **David Young, Astrophysics (Queen University Belfast)  [Profile]( https://pure.qub.ac.uk/en/persons/david-young/)**
+ **David Young, Astrophysics (Queen University Belfast)**
 
-David Young is an astrophysics researcher at Queen’s University Belfast. His work contributes to the astrophysics research community and broader digital research infrastructure networks. 
+[David](https://pure.qub.ac.uk/en/persons/david-young/) is an astrophysics researcher at Queen’s University Belfast. His work contributes to the astrophysics research community and broader digital research infrastructure networks. 
 
 <hr/>
 
