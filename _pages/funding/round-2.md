@@ -49,9 +49,24 @@ This second call has **three strands**: two main categories, with a third strand
 1. **Pilot projects** of up to £15k total budget in any area relevant to DisCouRSE’s aims. This category is focused on enabling and exploring new ideas, so **those who received funding in round 1 as lead or co-lead are not eligible to apply**. We are particularly seeking applications from organisations that were not represented in [round 1 projects](/projects).
 2. **Growth projects** contributing to **existing community initiatives**, again aligned to DisCouRSE's aims and with a £15k total budget limit. Starting something new is not allowed in this category. Showing how your idea builds on existing engagement and complements what is already happening will be particularly important.
 3. **Cohort training**: we invite training providers to bid to run a pilot leadership training programme, aligned to [Work Package 3](/workpackages#wp3-advanced-skills), for a dedicated cohort of dRTPs.
-   *TODO: more details on this strand!*
 
-Categories 1 and 2 invite a wide range of proposals relevant to DisCouRSE’s aims, with the intent to be open to ideas from the community. The following examples are therefore merely illustrative. Proposals might seek to generalise or adapt existing training material such that it could form part of our planned DisCouRSE “dRTP Leadership Training Programme”. Proposals to develop new material should clearly evidence how it is differentiated from existing offerings and why it is needed. Pilot projects under this call could focus on data collection and analysis to evidence an unmet need, for instance, or bring together existing training providers to do joint activities and produce a common catalogue of available leadership and management training for dRTPs. Applications could propose to deliver existing courses for a cohort of (aspiring) dRTP leaders, run workshops to improve [the DIRECT competencies framework](https://directframework.com/) and its utility for community members, or further develop the associated tooling. Pump-priming projects could seek to expand career opportunities for senior dRTPs within an institution or network, or work on a business case to senior management to do so. Pathfinder projects could create, test, or disseminate innovative leadership practices using appropriate inclusive approaches such as hackathons, unconferences, quick prototyping, participatory design, or open feedback.
+## Pilot and growth projects
+
+Strands 1 and 2 invite a wide range of proposals relevant to DisCouRSE’s aims, with the intent to be open to ideas from the community. The following examples are therefore merely illustrative. Proposals might seek to generalise or adapt existing training material such that it could form part of our planned DisCouRSE “dRTP Leadership Training Programme”. Proposals to develop new material should clearly evidence how it is differentiated from existing offerings and why it is needed. Pilot projects under this call could focus on data collection and analysis to evidence an unmet need, for instance, or bring together existing training providers to do joint activities and produce a common catalogue of available leadership and management training for dRTPs. Applications could propose to deliver existing courses for a cohort of (aspiring) dRTP leaders, run workshops to improve [the DIRECT competencies framework](https://directframework.com/) and its utility for community members, or further develop the associated tooling. Pump-priming projects could seek to expand career opportunities for senior dRTPs within an institution or network, or work on a business case to senior management to do so. Pathfinder projects could create, test, or disseminate innovative leadership practices using appropriate inclusive approaches such as hackathons, unconferences, quick prototyping, participatory design, or open feedback.
+
+## Cohort training
+
+Strand 3 recognises that there are well-established providers of leadership training programmes within the sector, but dRTPs have made limited use of these offerings, perhaps because their institution does not support their attendance, or because there is limited value in being the sole dRTP within a broader cohort.
+We therefore seek bids from providers to run a pilot instance of their programme for a dedicated cohort of aspiring dRTP leaders.
+
+The content would need to align with our [overall vision for DisCouRSE](/background), with learning objectives targeting [leadership and management competencies in the DIRECT framework](https://directframework.com/competencies/#header-5) or similar.
+We are particularly interested in supporting those transitioning into leadership roles or in the early stages of leadership responsibility.
+You could offer an existing programme "as is" or customised for the dRTP audience.
+The programme might run as a single event/module, or as a series spread over a longer interval.
+It could be delivered in-person, online, or a mixture of both.
+
+The DisCouRSE management board will select one provider from among the bids to deliver the pilot, and work with you in advertising the training and selecting suitable participants.
+<!-- TODO: finalise text with Adrian. Allow for up to two simultaneous pilots? -->
 
 ## General principles
 
@@ -104,7 +119,7 @@ You may not submit more than one application to this call as either project lead
 
 UK research organisations will be funded at 80% of the full economic cost (fEC). This includes Directly Allocated and Indirect costs.
 
-On a single application to strand 1 or 2 (pilot or growth projects), the combined costs of all collaborating organisations from UK business, third sector, government organisations and any international partners must not exceed 50% of the total fEC of the grant application (at 100% fEC). In addition, no more than 75% of the number of leads and co-leads can be from such organisations. These constraints do not apply to a cohort training proposal.
+On a single application to strand 1 or 2 (pilot or growth projects), the combined costs of all collaborating organisations from UK business, third sector, government organisations and any international partners must not exceed 50% of the total fEC of the grant application (at 100% fEC). In addition, no more than 75% of the number of leads and co-leads can be from such organisations. Note: **these constraints do not apply to a strand 3 cohort training proposal**.
 
 It is the responsibility of the project lead to ensure that all collaborators are from an organisation eligible to receive, and with appropriate systems in place to manage, the funding provided.
 
@@ -155,6 +170,8 @@ More [guidance on using the platform in general is available from GoodGrants](ht
 # How we will assess your application
 
 We will operate a rapid two stage assessment process. Decisions will be communicated rapidly to allow projects to start promptly. However we reserve the right to modify this process if required.
+
+<!-- TODO: Specify how strand 3 is different! -->
 
 ## Stage 1: DisCouRSE Management Board sift
 
