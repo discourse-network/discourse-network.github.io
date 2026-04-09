@@ -1,7 +1,7 @@
 ---
 title: "Establishing an operational management community of practice for dRTP leaders"
 start-date: 2026-01-05
-date: 2026-04-03
+date: 2026-05-31
 layout: project
 lead: Phil Bradbury
 lead-org: University of Manchester
