@@ -69,8 +69,8 @@ You could offer an existing programme "as is" or customised for the dRTP audienc
 The programme might run as a single event/module, or as a series spread over a longer interval.
 It could be delivered in-person, online, or a mixture of both.
 
-The DisCouRSE management board will select one provider from among the bids to deliver the pilot, and work with you in advertising the training and selecting suitable participants.
-<!-- TODO: finalise text with Adrian. Allow for up to two simultaneous pilots? -->
+The DisCouRSE management board will select up to two providers from among the bids to deliver a pilot each, and work with you in advertising the training and selecting suitable participants.
+<!-- TODO: finalise text with Adrian. Allow for up to two simultaneous pilots. -->
 
 ## General principles
 
@@ -176,9 +176,7 @@ More [guidance on using the platform in general is available from GoodGrants](ht
 
 # How we will assess your application
 
-We will operate a rapid two stage assessment process. Decisions will be communicated rapidly to allow projects to start promptly. However we reserve the right to modify this process if required.
-
-<!-- TODO: Specify how strand 3 is different! -->
+We will operate a rapid two stage assessment process for pilot projects and growth projects. Cohort training projects will be assessed solely by members of the DisCouRSE Management Board. We reserve the right to modify this process if required.
 
 ## Stage 1: DisCouRSE Management Board sift
 
