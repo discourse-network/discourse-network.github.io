@@ -13,6 +13,8 @@ enabling aspiring leaders to trial approaches to enhancing skills and career opp
 build new connections through joint initiatives, and strategically assess options for future investment and activity.
 All projects that have been awarded funding so far are listed here, and updates will be added as they progress.
 
+[View finished projects](/projects-archive/)
+
 {% include projects-collection.html collection="projects" archive=false %}
 
-<!-- [View finished projects](/projects-archive/) -->
+[View finished projects](/projects-archive/)
