@@ -235,6 +235,7 @@ Reviewing for this round will take place between **10<sup>th</sup> and 25<sup>th
 with a panel meeting on Teams during the week commencing **Monday 29<sup>th</sup> June 2026**.
 
 We anticipate that reviewers would need to score up to 10 applications each against the criteria given in the call.
+The total time commitment is likely to be a couple of days.
 Each application will be scored by 3 reviewers, and the reviewer panel will then agree consensus scores collectively.
 
 # Contact us
