@@ -19,7 +19,7 @@ toc: true
 toc_sticky: true
 ---
 
-The second round of the DisCouRSE Network's Flexible Funding scheme will open by **13<sup>th</sup> April 2026**.
+The second round of the DisCouRSE Network's Flexible Funding scheme will open on **13<sup>th</sup> April 2026**.
 
 Information here is subject to change until then.
 
@@ -30,7 +30,7 @@ Information here is subject to change until then.
 | Date | Event |
 | --- | --- |
 | Monday 13<sup>th</sup> April 2026 | Call formally opens, submission system live |
-| TBC | Informative webinar with Q&A |
+| Thursday 7<sup>th</sup> May (TBC) | Informative webinar with Q&A |
 | Friday 5<sup>th</sup> June 2026,<br> 16:00 BST | Submission deadline |
 | By Wednesday 8<sup>th</sup> July 2026 | Decisions notified to applicants |
 | 1<sup>st</sup> September 2026 | Earliest possible project start date |
