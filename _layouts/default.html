@@ -7,18 +7,15 @@
 
   <body class="{{ page.classes | join: ' ' }}">
     {% include skip-links.html %}
+    {% include masthead.html %}
 
     <div class="page-wrap">
-      {% include masthead.html %}
 
-      <!-- Custom navigation bar -->
-      <nav class="custom-navbar" role="navigation" aria-label="Main Navigation">
-        <ul class="custom-nav">
-          {% for item in site.data.navigation.header.navigation %}
-            <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
-          {% endfor %}
-        </ul>
-      </nav>
+    {% if site.search == true %}
+      <div class="search-content">
+        {% include_cached search/search_form.html locale=locale %}
+      </div>
+    {% endif %}
 
       <main id="main" class="main-content" aria-label="Content">
         {{ content }}
