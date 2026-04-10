@@ -1,7 +1,7 @@
 ---
 title: "Establishing promotion pathways for Digital Research Technical Professionals (dRTPs) at the University of Birmingham"
-start-date: 2026-02-01
-date: 2026-07-31
+start-date: 2026-04-01
+date: 2026-07-07
 layout: project
 lead: Christine Stawitz
 lead-org: University of Birmingham
