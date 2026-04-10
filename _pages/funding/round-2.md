@@ -63,14 +63,15 @@ Strands 1 and 2 invite a wide range of proposals relevant to DisCouRSE’s aims,
 Strand 3 recognises that there are well-established providers of leadership training programmes within the sector, but dRTPs have made limited use of these offerings, perhaps because their institution does not support their attendance, or because there is limited value in being the sole dRTP within a broader cohort.
 We therefore seek bids from providers to run a pilot instance of their programme for a dedicated cohort of aspiring dRTP leaders.
 
-The content would need to align with our [overall vision for DisCouRSE](/background), with learning objectives targeting [leadership and management competencies in the DIRECT framework](https://directframework.com/competencies/#header-5) or similar.
-We are particularly interested in supporting those transitioning into leadership roles or in the early stages of leadership responsibility.
-You could offer an existing programme "as is" or customised for the dRTP audience.
-The programme might run as a single event/module, or as a series spread over a longer interval.
-It could be delivered in-person, online, or a mixture of both.
+The intended audience is technical experts with limited leadership and management experience, particularly those transitioning into leadership roles or in the early stages of leadership responsibility.
 
-The DisCouRSE management board will select up to two providers from among the bids to deliver a pilot each, and work with you in advertising the training and selecting suitable participants.
-<!-- TODO: finalise text with Adrian. Allow for up to two simultaneous pilots. -->
+The content would need to align with our [overall vision for DisCouRSE](/background), with learning objectives targeting [leadership and management competencies in the DIRECT framework](https://directframework.com/competencies/#header-5) or similar.
+You could offer an existing programme "as is" or customised for the dRTP audience.
+It could be delivered in-person, online, or a mixture of both.
+Training delivery should take place over a maximum duration of 6 months and include a minimum of 4 taught modules/sessions (with at least 2 weeks between modules for reflection and application).
+
+DisCouRSE expects to fund **at least two programmes**, subject to quality and participant uptake.
+The DisCouRSE management board will select winning providers from among the bids to deliver a pilot each, and work with you in advertising the training and selecting suitable participants.
 
 ## General principles
 
@@ -82,8 +83,9 @@ You must adhere to [UKRI open research policy](https://www.ukri.org/manage-your-
 
 ## Funding and duration
 
-- We anticipate funding **10-15 projects** across categories 1 and 2 in this round of the flexible fund, and **1 cohort training project**.
-- Individual projects can budget **up to £15k funding at 100% full economic cost** (fEC) level. _TODO: More for strand 3?_
+- We anticipate funding:
+    - **10-15 pilot or growth projects** across categories 1 and 2 in this round of the flexible fund, each with a budget of **up to £15k at 100% full economic cost** (fEC) level; and
+    - at least **2 cohort training projects**, each with a maximum budget of **£20k at 100% fEC**.
 - Except where noted below, applicants will be awarded 80% of the full cost, and the institution receiving the award is responsible for the remaining 20%. (Note that estates costs and indirects associated with staff posts **are eligible** to include in the budget except as described below.) When invoices are submitted they should be for 80% of the full cost and a statement should also be submitted showing the full cost.
 - Projects should start between 01/09/2026 and 01/12/2026.
 - Projects must complete by 30/11/2027.
@@ -159,7 +161,7 @@ To apply:
 
 1. Go to the DisCouRSE submission website: <https://discourse.grantplatform.com/>{: .btn .btn--primary}
 2. Register for an account, if required
-3. Choose the appropriate application form “DisCouRSE - Flexible Funding Call - Round 2” and click on “Begin application”  *TODO: Separate form for strand 3*
+3. Choose the appropriate application form for your desired strand and click on “Begin application”
 4. Fill out the information on the first “Start here” tab, including the project title and dates, and click “Save + next”. This will also save your draft application so you can return to it later.
 5. Complete all the tabs before submitting the application. Using the “save + next” buttons will navigate one page at a time, or you can jump to a specific section using the tabs at the top of the panel.
 6. Once you have completed all the mandatory application questions, you can submit your application. You will receive an email notification confirming receipt.
@@ -176,7 +178,7 @@ More [guidance on using the platform in general is available from GoodGrants](ht
 
 # How we will assess your application
 
-We will operate a rapid two stage assessment process for pilot projects and growth projects. Cohort training projects will be assessed solely by members of the DisCouRSE Management Board. We reserve the right to modify this process if required.
+We will operate a rapid two stage assessment process for pilot projects and growth projects. **Cohort training projects will be assessed solely by members of the DisCouRSE Management Board.** We reserve the right to modify this process if required.
 
 ## Stage 1: DisCouRSE Management Board sift
 
