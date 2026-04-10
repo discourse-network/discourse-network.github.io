@@ -1,7 +1,7 @@
 ---
 title: "Understanding Project Management Tool Effectiveness in Diverse dRTP Contexts"
 start-date: 2026-03-01
-date: 2026-06-30
+date: 2026-08-31
 layout: project
 lead: Daniel Brady
 lead-org: University of Sheffield
