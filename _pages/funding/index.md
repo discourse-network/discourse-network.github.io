@@ -5,9 +5,9 @@ permalink: /funding
 classes: wide
 sidebar:
   - title: Round 1
-    text: The [first round](round-1) closed in November 2025. Explore the [funded projects](/projects).
+    text: The [first round](/funding/round-1) closed in November 2025. Explore the [funded projects](/projects).
   - title: Round 2
-    text: Our [second funding round](round-2) is open for applications from 13 April until 5 June 2026.
+    text: Our [second funding round](/funding/round-2) is open for applications from 13 April until 5 June 2026.
   - title: Volunteer to review
     text: Fill in your details at <https://forms.office.com/e/KB10mVSAZZ>
 ---
@@ -24,6 +24,6 @@ We always welcome volunteers to review applications in our funding rounds, givin
 
 ## Rounds
 
-1. The [first round](round-1) of the DisCouRSE Network's Flexible Funding scheme closed at **16:00 GMT on 14<sup>th</sup> November 2025**.
-2. The [second round](round-2) will open on 13<sup>th</sup> April 2026, with a closing date of **16:00 BST, 5<sup>th</sup> June 2026**.
+1. The [first round](/funding/round-1) of the DisCouRSE Network's Flexible Funding scheme closed at **16:00 GMT on 14<sup>th</sup> November 2025**.
+2. The [second round](/funding/round-2) will open on 13<sup>th</sup> April 2026, with a closing date of **16:00 BST, 5<sup>th</sup> June 2026**.
 3. The third round is expected in **autumn 2026**.
