@@ -1,7 +1,7 @@
 ---
 title: "DRTP ATLAS Pilot: Advancing Technical Leadership And Skills"
-start-date: 2026-02-02
-date: 2027-01-29
+start-date: 2026-03-01
+date: 2027-02-29
 layout: project
 lead: Andrew Phillips
 lead-org: University of Aberdeen
