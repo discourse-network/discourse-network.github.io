@@ -10,11 +10,6 @@ sidebar:
   - title: Apply now
     text: |
       [Submit your application](https://discourse.grantplatform.com){:.btn .btn--primary}
-
-      The application questions are also available here for
-      [pilot projects](/assets/docs/Round2-Pilot-project-form.pdf) and
-      [growth projects](/assets/docs/Round2-Growth-project-form.pdf)
-      for information prior to starting an application.
 toc: true
 toc_sticky: true
 ---
@@ -153,6 +148,7 @@ In general, we will fund 100% of eligible costs, where these have been sufficien
 # How to apply
 
 Applications must be made via the GoodGrants platform at <https://discourse.grantplatform.com>. You will be required to register on the platform to submit your application.
+You can download a full list of the application questions from the submission home page, without needing to register first.
 
 You will need to seek institutional approval for your application, and this process often takes several weeks. Ensure you start early enough!
 {: .notice--warning}
@@ -169,9 +165,6 @@ To apply:
 
 The project lead is responsible for completing the application process but we expect all team members and project partners to contribute to the application. Please note that some information that you provide in your application will be shared publicly as noted in the form, or with UKRI as stated in [the call Terms and Conditions](/assets/docs/Flexible-Fund-Terms-Template-20250925.pdf). Information you provide will also be used by the DisCouRSE project team and our external Advisory Board to evaluate the funding scheme and inform the design of future calls. We will handle personal data in line with UK data protection legislation and manage it securely. Except for published information, all data will be deleted by the end of the DisCouRSE project (30<sup>th</sup> September 2028).
 <!-- TODO: update T&C link if new version approved -->
-
-You can download a full list of the application questions from the submission system on the “Start here” tab.
-Copies are also available here for [pilot projects](/assets/docs/Round2-Pilot-project-form.pdf) and [growth projects](/assets/docs/Round2-Growth-project-form.pdf) for information prior to starting an application.
 
 The submission platform also allows you to download a copy of your submitted application, or withdraw it by choosing the “Delete” action.
 More [guidance on using the platform in general is available from GoodGrants](https://help.goodgrants.com/hc/en-gb/articles/4405817472271-Ultimate-guide-for-applicants).
