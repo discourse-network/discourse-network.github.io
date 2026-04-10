@@ -9,6 +9,8 @@ description: >- # this means to ignore newlines until "github:"
 github:
   is_project_page: false
 search: true
+lunr:
+  search_within_pages: true
 locale: "en-GB"
 timezone: "Europe/London"
 date_format: "%-d %B %Y"
