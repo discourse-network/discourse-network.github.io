@@ -157,7 +157,7 @@ To apply:
 
 1. Go to the DisCouRSE submission website: <https://discourse.grantplatform.com/>{: .btn .btn--primary}
 2. Register for an account, if required
-3. Choose the appropriate application form for your desired strand and click on “Begin application”
+3. Choose the appropriate application form for your desired strand and click on “Begin application” or "Apply"
 4. Fill out the information on the first “Start here” tab, including the project title and dates, and click “Save + next”. This will also save your draft application so you can return to it later.
 5. Complete all the tabs before submitting the application. Using the “save + next” buttons will navigate one page at a time, or you can jump to a specific section using the tabs at the top of the panel.
 6. Once you have completed all the mandatory application questions, you can submit your application. You will receive an email notification confirming receipt.
