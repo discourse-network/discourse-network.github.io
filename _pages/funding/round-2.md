@@ -195,9 +195,11 @@ The DisCouRSE Management Board will then take a portfolio view of ‘fundable’
 Projects will be required to agree to [standard Terms and Conditions](/assets/docs/Flexible-Fund-Terms-Template-20250925.pdf) based on UCL’s standard terms for grant sub-contracts, with modifications to ensure that intellectual property remains owned by the applicants. The [template Grant Agreement is available here for you to review](/assets/docs/Flexible-Fund-Terms-Template-20250925.pdf). If you have specific concerns about its contents you are advised to contact us well in advance of the submission deadline.
 
 Note that we are working to improve this contract slightly based on feedback received from some round 1 projects, and hope to have this ready shortly. The changes will not be substantial and will only affect clauses 4, 5 and 8.
+It is worth alerting your research contracts team to these terms when seeking approval to submit.
+{: .notice--info}
 <!-- TODO: Update contract links when ready -->
 
-Summaries of funded projects will be published on our website once contracts are signed.
+Summaries of funded projects will be published on our website once the awards are accepted.
 
 Funded projects must provide short monthly reports to the DisCouRSE Management Board [via a quick form](https://forms.office.com/e/jFTujubhZt). Financial invoices must be provided quarterly to UCL.
 
