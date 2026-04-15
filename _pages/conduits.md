@@ -24,7 +24,7 @@ Our conduits support DisCouRSE by:
 ## Meet Our Conduits
 
 
-### Ric Campbell, Data Manger (The University of Sheffield)
+### Ric Campbell, Data Manager (The University of Sheffield)
 
 [Ric Campbell](https://orda.shef.ac.uk/authors/Richard_Campbell/2798959) works in research data management, supporting researchers in organising, maintaining, and enabling effective use of research data. 
 
