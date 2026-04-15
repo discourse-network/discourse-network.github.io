@@ -64,7 +64,7 @@ Our conduits support DisCouRSE by:
 
 <hr class="cf" />
 
- **David Young, Astrophysics (Queen University Belfast)**
+### David Young, Astrophysics (Queen University Belfast)
 
 ![David Young](/assets/images/conduits/david-young.jpg){:.align-left}
 
