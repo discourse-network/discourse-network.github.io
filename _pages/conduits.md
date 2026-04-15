@@ -28,7 +28,7 @@ Our conduits support DisCouRSE by:
 
  <hr/>
 
-**Martin O'Reilly, Data Scientist Analyst AI and Machine Learning Specialist (Alan Turning Institute)**
+### Martin O'Reilly, Data Scientist Analyst AI and Machine Learning Specialist (Alan Turning Institute)
 
 ![Martin O'Reilly](/assets/images/conduits/martin-o'reilly.jpg){:.align-left}
 
