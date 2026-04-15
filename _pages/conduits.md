@@ -2,6 +2,8 @@
 layout: default
 title: "Conduits"
 permalink: /conduits
+toc: true
+toc_sticky: true
 ---
 # DisCouRSE Community Conduits
 
