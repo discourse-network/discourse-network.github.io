@@ -70,7 +70,7 @@ Our conduits support DisCouRSE by:
 
 [David](https://pure.qub.ac.uk/en/persons/david-young/) is an astrophysics researcher at Queen’s University Belfast. His work contributes to the astrophysics research community and broader digital research infrastructure networks. 
 
------
+<hr class="cf"/>
 
 ## Want to Become a Conduit?
 
