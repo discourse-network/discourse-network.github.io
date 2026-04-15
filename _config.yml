@@ -19,9 +19,13 @@ date_format: "%-d %B %Y"
 navigation:
   header: main
 
+# Only some pages use a left sidebar
 sidebar:
   disable: true
-  
+
+# Our posts are all news stories, whatever the category
+permalink: /news/:year/:month/:day/:slug/
+
 collections:
   team:
     output: true
