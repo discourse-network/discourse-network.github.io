@@ -36,7 +36,7 @@ Our conduits support DisCouRSE by:
 
 <hr class="cf"/>
 
- **Louise Saul, Data Steward (University of Southampton)**
+### Louise Saul, Data Steward (University of Southampton)
  
  ![Louise Saul](/assets/images/conduits/louise-saul.jpg){:.align-left}
 
