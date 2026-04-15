@@ -4,7 +4,7 @@ title: "DisCouRSE Flexible Fund - Round 2"
 permalink: /funding/round-2
 sidebar:
   - title: Key dates
-    text: "<ul><li>Call opens Monday 13 April 2026.</li><li>Submission deadline Friday 5 June 2026 at 16:00 BST.</li></ul>"
+    text: "<ul><li>Call opened Monday 13 April 2026.</li><li>Submission deadline Friday 5 June 2026 at 16:00 BST.</li></ul>"
   - title: FAQs
     text: "[Answers to common questions](/funding/round-2/faq) are available and will be added to over time."
   - title: Apply now
@@ -14,9 +14,7 @@ toc: true
 toc_sticky: true
 ---
 
-The second round of the DisCouRSE Network's Flexible Funding scheme will open on **13<sup>th</sup> April 2026**.
-
-Information here is subject to change until then.
+The second round of the DisCouRSE Network's Flexible Funding scheme is now open, and closes at **16:00 BST on 5<sup>th</sup> June 2026**.
 
 [Submit your application](https://discourse.grantplatform.com){:.btn .btn--primary}
 
