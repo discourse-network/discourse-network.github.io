@@ -10,4 +10,4 @@ We are delighted to announce the launch of our flexible fund which supports comm
 
 This first call has no specific focus areas: any proposals relevant to DisCouRSE’s aims above are allowed. The intent is to be open to ideas from the community, enabling the Network to learn what is already happening and could be expanded with our support, and enabling you to do “proof of concept” work to support larger proposals in future rounds. We welcome applications that seek to expand on existing work, or to kick-start activities that you are already thinking about.
 
-For more information and to apply visit https://discourse-network.github.io/funding/round-1.
+For more information and to apply visit <https://discourse-network.github.io/funding/round-1>.
