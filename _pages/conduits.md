@@ -51,7 +51,7 @@ Our conduits support DisCouRSE by:
 
  <hr class="cf"/>
 
- **Zoe Payne, Systems Administrator (EPCC)**
+### Zoe Payne, Systems Administrator (EPCC)
 
 [Zoe](https://www.epcc.ed.ac.uk/about-us/our-team/zoe-payne) is a systems administrator at EPCC, the supercomputing centre at the University of Edinburgh. She supports high-performance computing and research infrastructure used by a wide range of research communities. 
 
