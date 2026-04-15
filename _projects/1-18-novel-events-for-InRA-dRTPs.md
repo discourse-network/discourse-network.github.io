@@ -19,4 +19,4 @@ However, there is currently a gap in the training offered to InRAs and to dRTPs 
 
 There is now a growing appetite for greater encouragement to explore the full range of possibilities in event design, including format, facilitation, activities, seating, venue, and other environmental factors. These variables all contribute to the atmosphere of an event and, if thoughtfully harnessed, can help curate effective collaborative environments for dRTPs.
 
-This project will deliver a two-part training series for a small cohort of InRAs, providing them with the space to explore innovative approaches to event delivery and to experiment with new ways of fostering collaboration.
+This project will deliver a two-part training series for a small cohort of InRAs, providing them with the space to explore innovative approaches to event delivery and to experiment with new ways of fostering collaboration. Visit the project [website](https://iainsouttar.github.io/unorgodox.html) to find out more information.
