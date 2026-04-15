@@ -42,7 +42,7 @@ Our conduits support DisCouRSE by:
 
 [Louise](https://www.linkedin.com/in/louisemsaul339824/?originalSubdomain=uk) works as a data steward, supporting researchers in the responsible management, sharing, and reuse of research data. She promotes best practices in data governance and FAIR data principles.   
 
- <hr/>
+ <hr class="cf"/>
  
 ### Chris Langridge, Head of Operations and Strategy for Centre for Advanced Research Computing (ARC) (University College London)
 ![Chris Langridge](/assets/images/conduits/chris-langridge.jpg){:.align-left}
