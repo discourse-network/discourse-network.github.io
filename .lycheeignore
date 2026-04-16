@@ -1,9 +1,0 @@
-
-# Don't check our own social media share links
-^https://x.com/intent/tweet
-^https://www.linkedin.com/shareArticle
-^https://bsky.app/intent/compose
-^https://www.facebook.com/sharer/sharer.php
-
-# Local deployment link from readme
-^http://127.0.0.1:4000/
