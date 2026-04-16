@@ -19,7 +19,7 @@ industry, as well as **“RSE-adjacent” dRTPs** in these sectors – those pro
 
 Why begin with RSEs?
 The UK RSE community is vibrant with significant grass-roots activity and even coordinating structures via a national [Society of RSE](https://society-rse.org/) and the [Software Sustainability Institute](https://www.software.ac.uk/) (SSI).
-It gives us a **critical mass** of people, structures (e.g. Society working groups), existing activities (e.g. an [annual conference](https://rsecon24.societyrse.org/) and workshops), and stakeholder engagement to make progress rapidly.
+It gives us a **critical mass** of people, structures (e.g. Society working groups), existing activities (e.g. an [annual conference](https://rsecon24.society-rse.org/) and workshops), and stakeholder engagement to make progress rapidly.
 
 The RSE community has always been **open and inclusive**.[^1]
 Rather than rigidly defining the role of an RSE, the community encourages individuals to identify with the skills and processes involved regardless of their job title.
@@ -58,11 +58,11 @@ Moreover, the dependence on volunteer eforts exacerbates equality, diversity, an
 Coordinating funding through this proposal to provide network management, communications, and events support alongside targeted funding for specific impactful activities will transform this situation and lead to a step change in the effectiveness of UK DRI investment.
 This proposal is thus a **timely opportunity** for strategic investment to move RSE community initiatives to a more sustainable footing, and **expand their impact** by involving related dRTP communities.
 
-The availability of technical skills training is steadily increasing through recent UKRI funding rounds (e.g. [Innovation Scholars](https://www.ukri.org/opportunity/innovation-scholars-data-science-training-inhealth-bioscience/), [Strategic Technical Platform funding 2024](https://www.ukri.org/news/new-funding-to-support-research-technicalprofessionals/), [UNIVERSE-HPC](http://www.universe-hpc.ac.uk/)) and the work of the SSI and others.
+The availability of technical skills training is steadily increasing through recent UKRI funding rounds (e.g. [Innovation Scholars](https://www.ukri.org/opportunity/innovation-scholars-data-science-training-in-health-bioscience/), [Strategic Technical Platform funding 2024](https://www.ukri.org/news/new-funding-to-support-research-technical-professionals/), [UNIVERSE-HPC](http://www.universe-hpc.ac.uk/)) and the work of the SSI and others.
 Both **non-technical and specialist advanced training opportunities are more limited, but are sought after by community members**: the most common response regarding skills to improve in the 2022 RSE survey[^10] was “project management”, with other forms of management and leadership skills, including requirements gathering and winning research funding, being highly ranked.
 In our survey of 36 RSE group leaders in June 2024, only 13 considered their institution had leadership training suitable for the needs of dRTPs.
 Anecdotal comments from group members suggest that places are severely limited, that local courses are good for networking across their institution, but that the material is often at surface level and lacking case studies relevant to dRTP roles.
-At a [2019 Aspiring RSE Leaders workshop](https://society-rse.org/events/aspiringleaders-workshop/) “every attendee wanted the workshop run as a regular event to help build the RSE community” but this has not happened (albeit the [Digital Research Infrastructure Retreats](https://n8cir.org.uk/dri-retreat/) cover some similar topics).
+At a [2019 Aspiring RSE Leaders workshop](https://society-rse.org/events/aspiring-leaders-workshop/) “every attendee wanted the workshop run as a regular event to help build the RSE community” but this has not happened (albeit the [Digital Research Infrastructure Retreats](https://n8cir.org.uk/training-and-events/dri-retreats/) cover some similar topics).
 
 A **lack of career progression options** also means that beneficiaries of training either need to shift to managerial roles (of which there are few) or leave for industry.
 In the 2022 RSE survey[^10] only 25% of UK respondents thought it likely that they would be able to gain a promotion within their current group, and while 50% intended to stay in an RSE role, only 31% thought there were many opportunities available to do so.
@@ -108,20 +108,20 @@ The connections forged through this Network will underpin that future work.
     1. The impacts of all core and flexibly-funded Network activities are catalogued and disseminated widely.
     2. Changes are made to institutional policies to increase recognition of and support for dRTPs.
 
-Collectively these outcomes address the [five UKRI strategic themes for DRI](https://www.ukri.org/what-we-do/creating-world-class-research-andinnovation-infrastructure/digital-research-infrastructure/), directly and indirectly.
+Collectively these outcomes address the [five UKRI strategic themes for DRI](https://www.ukri.org/what-we-do/creating-world-class-research-and-innovation-infrastructure/digital-research-infrastructure/), directly and indirectly.
 We improve dRTP leadership skills and career pathways (theme 4) and in so doing enhance skills in the dRTP workforce generally (4).
 We promote development of improved techniques and practices in dRTP (5) which lead to better foundational tools (5).
 Together these deliver the workforce able to build and run large-scale compute & data infrastructure (2 & 1), with advanced understanding of security and sensitive data processing (3), and who can train users to exploit these facilities (1-3).
 
 ## References
 
-[^1]: S. Hettrick. [A not-so-brief history of Research Software Engineers](https://www.software.ac.uk/blog/2016-08-17-not-so-brief-historyresearch-software-engineers-0). SSI Blog, Aug 2016
+[^1]: S. Hettrick. [A not-so-brief history of Research Software Engineers](https://www.software.ac.uk/blog/2016-08-17-not-so-brief-history-research-software-engineers-0). SSI Blog, Aug 2016
 
 [^2]: Goth et al. [Foundational Competencies and Responsibilities of a Research Software Engineer](https://arxiv.org/abs/2311.11457). arXiv, 2024
 
-[^3]: [UKRI strategy 2022 to 2027](https://www.ukri.org/publications/ukristrategy-2022-to-2027/ukri-strategy-2022-to-2027) priorities 2.3, 3.1 and 5.2. Mar 2022
+[^3]: [UKRI strategy 2022 to 2027](https://www.ukri.org/publications/ukri-strategy-2022-to-2027/ukri-strategy-2022-to-2027) priorities 2.3, 3.1 and 5.2. Mar 2022
 
-[^4]: [UKRI Infrastructure Roadmap - Progress Report](https://www.ukri.org/wp-content/uploads/2020/10/UKRI-201020-UKinfrastructureopportunities-to-grow-our-capacity-FINAL.pdf), pp 125-126, 150-151. Oct 2020
+[^4]: [UKRI Infrastructure Roadmap - Progress Report](https://www.ukri.org/wp-content/uploads/2020/10/UKRI-201020-UKinfrastructure-opportunities-to-grow-our-capacity-FINAL.pdf), pp 125-126, 150-151. Oct 2020
 
 [^5]: [Government Office for Science. Large-scale computing: the case for greater UK coordination](https://www.gov.uk/government/publications/large-scale-computing-the-case-for-greater-uk-coordination). Sep 2021
 
