@@ -56,6 +56,9 @@ jobs:
         with:
           name: github-pages
 
+      - name: Unpack site
+        run: tar -x artifact.tar
+
       - name: Debug
         run: ls -l
 
