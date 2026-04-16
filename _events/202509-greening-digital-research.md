@@ -4,7 +4,7 @@ start-date: 2025-09-24
 date: 2025-09-26
 location: Durham University
 layout: event
-web-page: https://drtp-skills.ac.uk/greening-digital-research/
+web-page: https://drtp-skills.ac.uk/events/championing-green-digital-research/
 summary: >
   The first in this series of events took place at the NetDRIVE Annual Community Meeting.
 ---

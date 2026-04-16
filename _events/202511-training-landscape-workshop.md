@@ -4,7 +4,7 @@ start-date: 2025-11-05
 date: 2025-11-06
 location: Bidborough House, 38–50 Bidborough Street, London, WC1H 9BT
 layout: event
-web-page: https://drtp-skills.ac.uk/drtp-november-workshop/
+web-page: https://drtp-skills.ac.uk/events/drtp-november-workshop/
 summary: >
   This joint event, co-organised by [CHARTED](https://drtp-skills.ac.uk/) and SCALE-UP,
   aims to identify gaps in training provision and bring together teams working on similar materials who could fruitfully collaborate.

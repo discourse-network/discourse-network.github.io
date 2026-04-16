@@ -11,4 +11,4 @@ summary: >
 
 DisCouRSE will be represented at the DRI congress by our co-lead Adrian Harwood.
 
-A key feature of the event will be the second session in our [Understanding the dRTP landscape](https://drtp-skills.ac.uk/understanding-dRTP-landscape/) series, co-organised by the SCALE-UP and CHARTED projects.
+A key feature of the event will be the second session in our [Understanding the dRTP landscape](https://drtp-skills.ac.uk/events/understanding-drtp-landscape/) series, co-organised by the SCALE-UP and CHARTED projects.
