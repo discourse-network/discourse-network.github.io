@@ -1,0 +1,6 @@
+
+# Don't check our own social media share links
+^https://x.com/intent/tweet
+^https://www.linkedin.com/shareArticle
+^https://bsky.app/intent/compose
+^https://www.facebook.com/sharer/sharer.php
