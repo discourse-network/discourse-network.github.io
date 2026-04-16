@@ -108,7 +108,7 @@ The connections forged through this Network will underpin that future work.
     1. The impacts of all core and flexibly-funded Network activities are catalogued and disseminated widely.
     2. Changes are made to institutional policies to increase recognition of and support for dRTPs.
 
-Collectively these outcomes address the [five UKRI strategic themes for DRI](https://www.ukri.org/what-we-do/creating-world-class-research-and-innovation-infrastructure/digital-research-infrastructure/), directly and indirectly.
+Collectively these outcomes address the [five UKRI strategic themes for DRI](https://www.ukri.org/opportunity/ukri-digital-research-technical-professional-skills-networkplus/), directly and indirectly.
 We improve dRTP leadership skills and career pathways (theme 4) and in so doing enhance skills in the dRTP workforce generally (4).
 We promote development of improved techniques and practices in dRTP (5) which lead to better foundational tools (5).
 Together these deliver the workforce able to build and run large-scale compute & data infrastructure (2 & 1), with advanced understanding of security and sensitive data processing (3), and who can train users to exploit these facilities (1-3).
