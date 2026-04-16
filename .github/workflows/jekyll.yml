@@ -51,6 +51,11 @@ jobs:
           key: cache-lychee-${{ github.ref }}
           restore-keys: cache-lychee-
 
+      - name: Download built site
+        uses: actions/download-artifact@v5
+        with:
+          name: github-pages
+
       - name: Check links
         id: lychee
         uses: lycheeverse/lychee-action@8646ba30535128ac92d33dfc9133794bfdd9b411  # v2.8.0
