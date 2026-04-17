@@ -141,3 +141,8 @@ tag_archive:
 minimal_mistakes_skin: default
 sass:
   style: compressed
+
+# Don't rebuild on changes to these, or include them in the built site
+exclude:
+  - .lycheecache
+  - .gitignore
