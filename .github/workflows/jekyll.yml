@@ -1,6 +1,10 @@
 name: Jekyll Build and Deploy
 
-on: [push]
+# Run both on every branch push and nightly at 3:54 am
+on:
+  push:
+  schedule:
+    - cron: 54 3 * * *
 
 jobs:
 
