@@ -144,5 +144,8 @@ sass:
 
 # Don't rebuild on changes to these, or include them in the built site
 exclude:
-  - .lycheecache
   - .gitignore
+  - .jekyll-cache
+  - .lycheecache
+  - .sass-cache
+  - vendor
