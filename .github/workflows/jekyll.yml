@@ -72,6 +72,7 @@ jobs:
             --root-dir .
             --no-progress
             --fallback-extensions html
+            --accept 200..300,403,999
             --exclude '^https://x.com/intent/tweet'
             --exclude '^https://www.linkedin.com/shareArticle'
             --exclude '^https://bsky.app/intent/compose'

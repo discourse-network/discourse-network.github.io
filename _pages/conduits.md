@@ -42,7 +42,7 @@ Our conduits support DisCouRSE by:
  
 ![Louise Saul](/assets/images/conduits/louise-saul.jpg){:.align-left}
 
-[Louise](https://www.linkedin.com/in/louisemsaul339824/?originalSubdomain=uk) works as a data steward, supporting researchers in the responsible management, sharing, and reuse of research data. She promotes best practices in data governance and FAIR data principles.   
+[Louise](https://www.linkedin.com/in/louisemsaul339824/) works as a data steward, supporting researchers in the responsible management, sharing, and reuse of research data. She promotes best practices in data governance and FAIR data principles.
 
  <hr class="cf"/>
  
