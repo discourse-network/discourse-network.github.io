@@ -58,7 +58,7 @@ We therefore seek bids from providers to run a pilot instance of their programme
 
 The intended audience is technical experts with limited leadership and management experience, particularly those transitioning into leadership roles or in the early stages of leadership responsibility.
 
-The content would need to align with our [overall vision for DisCouRSE](/background), with learning objectives targeting [leadership and management competencies in the DIRECT framework](https://directframework.com/competencies/#leadership-and-management) or similar.
+The content would need to align with our [overall vision for DisCouRSE](/background), with learning objectives targeting [leadership and management competencies in the DIRECT framework](https://directframework.com/framework/skills_and_competencies/#leadership-and-management) or similar.
 You could offer an existing programme "as is" or customised for the dRTP audience.
 It could be delivered in-person, online, or a mixture of both.
 Training delivery should take place over a maximum duration of 6 months and include a minimum of 4 taught modules/sessions (with at least 2 weeks between modules for reflection and application).
