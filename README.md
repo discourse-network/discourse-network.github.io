@@ -24,7 +24,7 @@ and by default makes the site available at http://127.0.0.1:4000/
 
 This is made with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
-[Theme documentation is available](https://mmistakes.github.io/minimal-mistakes/docs/).
+[Theme documentation is available](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
 
 If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
 
