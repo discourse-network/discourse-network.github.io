@@ -7,6 +7,8 @@ sidebar:
     text: "<ul><li>Call opened Monday 13 April 2026.</li><li>Submission deadline Friday 5 June 2026 at 16:00 BST.</li></ul>"
   - title: FAQs
     text: "[Answers to common questions](/funding/round-2/faq) are available and will be added to over time."
+  - title: "Q&A Webinar"
+    text: ":calendar: Thurs 7<sup>th</sup> May 2026, 10:00 BST<br>[Join webinar](https://ucl.zoom.us/j/99412407388){:.btn .btn--info}"
   - title: Apply now
     text: |
       [Submit your application](https://discourse.grantplatform.com){:.btn .btn--primary}
@@ -23,7 +25,7 @@ The second round of the DisCouRSE Network's Flexible Funding scheme is now open,
 | Date | Event |
 | --- | --- |
 | Monday 13<sup>th</sup> April 2026 | Call formally opens, submission system live |
-| Thursday 7<sup>th</sup> May (TBC) | Informative webinar with Q&A |
+| Thursday 7<sup>th</sup> May 2026,<br>10:00 BST | [Informative webinar with Q&A](https://ucl.zoom.us/j/99412407388) |
 | Friday 5<sup>th</sup> June 2026,<br> 16:00 BST | Submission deadline |
 | By Wednesday 8<sup>th</sup> July 2026 | Decisions notified to applicants |
 | 1<sup>st</sup> September 2026 | Earliest possible project start date |
