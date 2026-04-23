@@ -16,5 +16,5 @@ Together we will generate a learning resource on novel events. One in the aftern
 2.  The summer conference season will then provide participants an opportunity to lend a curious and critical eye to the academic events they attend, thinking about them in the context of the online training sessions.
 3.	Finally, on the 17th-18th September we will gather at the University of Warwick for a 2-day workshop where participants will have the chance to share their reflections as well as put some ideas into action through some experimentation.
 
-For more details on how to register, head to the [website](https://iainsouttar.github.io/unorgodox.html). This training is funded by a DisCouRSE flexible fund round 1 award, aimed at empowering dRTPs to be effective future leaders.
+For more details on how to register, head to the [website](https://iainsouttar.github.io/unorgodox.html). This training is funded by DisCouRSE's flexible fund round 1 award, aimed at empowering dRTPs to be effective future leaders.
 
