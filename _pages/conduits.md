@@ -24,7 +24,9 @@ Our conduits support DisCouRSE by:
 ## Meet Our Conduits
 
 
+
 ### Ric Campbell, Data Manager (The University of Sheffield)
+
 
 ![Ric Campbell](/assets/images/conduits/ric-campbell.jpg){:.align-left}
 
@@ -32,6 +34,8 @@ Our conduits support DisCouRSE by:
 [Ric Campbell](https://orda.shef.ac.uk/authors/Richard_Campbell/2798959) works in helping researchers gain access to, manage, and wrangle routine health data, while instilling good adherence to the required governance. He is also the N8 CIR RDM Theme lead working to bring together the community and share best practice.
 
 <hr/>
+
+
 
 ### Martin O'Reilly, Data Scientist Analyst AI and Machine Learning Specialist (Alan Turning Institute)
 
