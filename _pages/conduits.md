@@ -26,7 +26,9 @@ Our conduits support DisCouRSE by:
 
 ### Ric Campbell, Data Manager (The University of Sheffield)
 
-[Ric Campbell](https://orda.shef.ac.uk/authors/Richard_Campbell/2798959) works in research data management, supporting researchers in organising, maintaining, and enabling effective use of research data. 
+[Ric Campbell](https://orda.shef.ac.uk/authors/Richard_Campbell/2798959) works in helping researchers gain access to, manage, and wrangle routine health data, while instilling good adherence to the required governance. He is also the N8 CIR RDM Theme lead working to bring together the community and share best practice.
+
+
 
  <hr/>
 
