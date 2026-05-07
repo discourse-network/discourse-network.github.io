@@ -36,4 +36,4 @@ As a test-pilot, Peer Ladder will **demonstrate the value of this model national
 with materials and guidance to continue meeting as a self-organised group beyond the project.
 
 Outcomes will feed into DisCouRSE, ELIXIR-UK, and SSI to shape inclusive leadership and EDI policy across the digital
-research community.
+research community. Visit the [project website](https://peerladder.elixiruknode.org/) to find out more information.
