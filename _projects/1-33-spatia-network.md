@@ -1,5 +1,5 @@
 ---
-title: "SpatiaLondon Network"
+title: "Spatial London Network"
 start-date: 2026-02-02
 date: 2027-01-30
 layout: project
@@ -9,11 +9,11 @@ co-leads:
   - name: Anthony Baptista
     org: King's College London
   - name: Ines Sequeira
-  - org: Queen Mary University London
+    org: Queen Mary University London
   - name: Maria Del Pilar Acedo Nunez
-  - org: University College London
+   org: University College London
   - name: Nik Matthews
-  - org: Imperial College London
+    org: Imperial College London
 #web-page: optional URL
 ---
 
