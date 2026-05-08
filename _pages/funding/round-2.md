@@ -8,7 +8,7 @@ sidebar:
   - title: FAQs
     text: "[Answers to common questions](/funding/round-2/faq) are available and will be added to over time."
   - title: "Q&A Webinar"
-    text: ":calendar: Thurs 7<sup>th</sup> May 2026, 10:00 BST<br>[Join webinar](https://ucl.zoom.us/j/99412407388){:.btn .btn--info}"
+    text: ":calendar: Thurs 7<sup>th</sup> May 2026, 10:00 BST<br>[Slides](https://liveuclac-my.sharepoint.com/:b:/g/personal/cceacoo_ucl_ac_uk/IQA1KvMf3FeTTJswK0Ph0bj1ARxZ89Ntwt5k6_0y6Km4RUc?e=c2zecO) and [recording](https://liveuclac-my.sharepoint.com/:v:/g/personal/cceacoo_ucl_ac_uk/IQC5eRdxw9qESpfonHRg3l2RAbYRt8iD720ma0UKPbNXg4g?e=IZtbZf) available"
   - title: Apply now
     text: |
       [Submit your application](https://discourse.grantplatform.com){:.btn .btn--primary}
@@ -25,7 +25,7 @@ The second round of the DisCouRSE Network's Flexible Funding scheme is now open,
 | Date | Event |
 | --- | --- |
 | Monday 13<sup>th</sup> April 2026 | Call formally opens, submission system live |
-| Thursday 7<sup>th</sup> May 2026,<br>10:00 BST | [Informative webinar with Q&A](https://ucl.zoom.us/j/99412407388) |
+| Thursday 7<sup>th</sup> May 2026,<br>10:00 BST | Informative webinar with Q&A<br>[Slides](https://liveuclac-my.sharepoint.com/:b:/g/personal/cceacoo_ucl_ac_uk/IQA1KvMf3FeTTJswK0Ph0bj1ARxZ89Ntwt5k6_0y6Km4RUc?e=c2zecO) and [recording](https://liveuclac-my.sharepoint.com/:v:/g/personal/cceacoo_ucl_ac_uk/IQC5eRdxw9qESpfonHRg3l2RAbYRt8iD720ma0UKPbNXg4g?e=IZtbZf) available |
 | Friday 5<sup>th</sup> June 2026,<br> 16:00 BST | Submission deadline |
 | By Wednesday 8<sup>th</sup> July 2026 | Decisions notified to applicants |
 | 1<sup>st</sup> September 2026 | Earliest possible project start date |
