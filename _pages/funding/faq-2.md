@@ -36,7 +36,7 @@ Many of us work closely with non-dRTPs. How might projects involving non-dRTP co
 : As long as dRTPs will benefit in terms of leadership, skills, development, career pathways, and things related to that profession, even if it involves collaborators who are not in those roles, then it could be in scope.  Emphasising the benefits for dRTPs is the most important thing, and this needs to be the focus of the project rather than incidental.
 
 How to apply for / cost grants etc. is often useful for leadership roles.  Would workshops to support this sort of knowledge be in scope?
-: Yes.  It’s something that universities often provide but it’s unclear how much it's available outside of universities.
+: Yes. It’s something that universities often provide but it’s unclear how much it's available outside of universities.
 
 Are existing projects or services eligible to apply for funding under this first call? If so, are there any particular expectations around how ongoing initiatives should frame their proposals in relation to the aims of DisCouRSE (e.g., leadership training, community building, or career pathways)?
 : Yes, we're keen to hear from existing initiatives with ideas to build on their work in ways that are relevant to our aims under strand 2 'growth projects' in particular.
@@ -46,6 +46,9 @@ Is there scope for a project to adapt our previous work on team culture/team equ
 
 How do the panel feel about software focussed projects that target a specific skill?
 : Maybe!  Technical skills are also clearly very important so projects that focus on those are still potentially relevant. One thing to be careful of is that if you are focusing on particular technical skills, there are several other projects running that are looking at this more specifically.  We would advise you to check the [list on the CAKE website](https://www.cake.ac.uk/landscape/rtp) first in case they would be a better fit than DisCouRSE.
+
+Can project funding be used to purchase software tools for use in the project?
+: Within reason, yes. We would not fund items that would normally be considered the responsibility of your institution to provide, i.e. that would be part of a well-found lab as UKRI term it. However software or licensing costs specifically for the project can be eligible if appropriately justified. Such costs are funded at 50% FEC.
 
 
 # Eligibility
@@ -65,6 +68,9 @@ Would you be able to elaborate a bit more on what leaders/leadership mean in Dis
 If my role name in the job description from the university is not in the exhaustive list, but my role aligns with the responsibilities of a dRTP, will I still be eligible to apply?
 : Yes.  Our list is not exhaustive as we don’t know all the job titles that might classify as a dRTP.  There may be professions out there that we've not come across yet.  If your job title is not on our list please write it into the application form so we can add it.
 
+The call states that projects must be led by a digital Research Technical Professional staff member. Does this **exclude** academic members of staff? For instance would a Lecturer in Digital Methods in a Department of Digital Humanities be eligible?
+: If the work that you do incorporates a significant element of dRTP-like activity, then you are eligible to apply, no matter your formal job title or role.
+
 Will bids from diverse work contexts be favoured, such as digital humanities?
 : We would very much like to be able to fund applications from multiple contexts, and strand 1 'pilot projects' are particularly emphasising this.
 
@@ -76,6 +82,9 @@ How can international associations become involved in applications? Can only sta
 
 Can people based at a company, charity, or similar lead an application?
 : This was not allowed in round 1 but we have been able to relax this restriction for round 2. The contracting process may take longer so bear this in mind when planning your project's dates. We still encourage collaboration of course.
+
+Are UKRI Independent Research Organisations (IRO) considered as "Academia" for the purpose of the 50% of funding on pilot or growth projects needing to have 50% of costs to academia?
+: Yes, any such organisations (including public sector research establishments and the like) approved by UKRI as eligible to apply for most funding schemes count as academia for the purposes of the 50% limit.
 
 Are PhD students eligible to be project leads?
 : While project leads do not need to be academic members of staff, they do need to be employed by their organisation, which typically would exclude PhD students. However students can identify a dRTP mentor to lead the application and involve them in the project team, subject to any visa and/or working hours restrictions.
@@ -104,8 +113,8 @@ Can projects in this round last less than a year?
 
 # Miscellaneous
 
-<!-- Will the slides be uploaded to the funding call page?
-: Yes, [here](https://liveuclac-my.sharepoint.com/:b:/g/personal/cceacoo_ucl_ac_uk/ETbPuqlEhI5PseDyX9GVyqgBAgZnqfjlNPtdazYFZwNqlw?e=SQy3up), along with a [recording of the webinar](https://liveuclac-my.sharepoint.com/:v:/g/personal/cceacoo_ucl_ac_uk/EVYwH5xDIYJIr1JhHIZeYeoBSuenze9em_p8_MSHVx1gmg?e=xuP0P9). -->
+Will the slides be uploaded to the funding call page?
+: Yes, [here](https://liveuclac-my.sharepoint.com/:b:/g/personal/cceacoo_ucl_ac_uk/IQA1KvMf3FeTTJswK0Ph0bj1ARxZ89Ntwt5k6_0y6Km4RUc?e=c2zecO), along with a [recording of the webinar](https://liveuclac-my.sharepoint.com/:v:/g/personal/cceacoo_ucl_ac_uk/IQC5eRdxw9qESpfonHRg3l2RAbYRt8iD720ma0UKPbNXg4g?e=IZtbZf).
 
 Should reviewers be based in the UK?
 : Reviewers can be based anywhere. Please [apply to be a reviewer via this form](https://forms.office.com/pages/responsepage.aspx?id=_oivH5ipW0yTySEKEdmlwpofFxJMT1lCmEeJoickqdhURTFLUjE5NVc5WVdVSjI0OEk0NlY4RldFUSQlQCN0PWcu&route=shorturl) if interested.
