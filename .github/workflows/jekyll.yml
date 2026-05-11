@@ -72,7 +72,7 @@ jobs:
         with:
           args: >
             .
-            --cache --max-cache-age 1d
+            --cache --max-cache-age 2d
             --root-dir .
             --verbose
             --no-progress
@@ -85,6 +85,7 @@ jobs:
             --exclude '^http://127.0.0.1:4000/'
             --exclude '^https://landscape2024.esfri.eu'
             --exclude '^https://adriennemareebrown.net/book/emergent-strategy'
+            --exclude '^https://www.linkedin.com/in/louisemsaul339824/'
           fail: true
           jobSummary: true
           format: markdown
