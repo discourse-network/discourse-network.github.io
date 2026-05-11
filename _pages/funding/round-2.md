@@ -115,6 +115,7 @@ Standard [UKRI eligibility rules apply](https://www.ukri.org/councils/stfc/guida
 In addition, projects **must be dRTP-led**. For a non-exhaustive list of dRTP roles, see <https://discourse-network.github.io/who>. Projects that cross profession or discipline, or are led by an aspiring leader with a more experienced mentor, are particularly welcomed.
 
 You may not submit more than one application to this call as either project lead or co-lead.
+Cohort training proposals do not count towards this limit, however.
 
 ## Costing principles
 
