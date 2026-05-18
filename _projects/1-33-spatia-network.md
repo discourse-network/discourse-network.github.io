@@ -25,5 +25,4 @@ Together, we will co-create an open Spatial Methods Guide and a one-page Checkli
 
 We will test the checklist on real studies, identify and correct faulty methodology through short, targeted clinics, and publish version 1.0 of both the guide and checklist on our website with a DOI. A train-the-trainer course will enable local experts to teach and champion the materials within their own teams.
 
-All outputs will be openly licensed and designed for reuse across the UK. A final online webinar will bring together doctoral training programmes (dRTPs) nationwide. Collectively, these activities will create a practical foundation for a larger, follow-on effort to scale standards, training, and community under the SpatiaLondon banner.
-Visit the [project website](https://spatialondon.co.uk/) to find out more information.
+All outputs will be openly licensed and designed for reuse across the UK. A final online webinar will bring together doctoral training programmes (dRTPs) nationwide. Collectively, these activities will create a practical foundation for a larger, follow-on effort to scale standards, training, and community under the Spatial London banner.Visit the [project website](https://spatialondon.co.uk/) to find out more information.
