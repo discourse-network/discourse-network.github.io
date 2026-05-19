@@ -13,6 +13,6 @@ Join us in Manchester on the 14th and/or 15th July for the inaugural Teaching an
 
 - Day 2 is the general training community day. We will share the outcomes of the dRTP Training Landscape Survey 2026 and there will be opportunity for collaboration on either scoping new training materials or contribution to the training aspects of the DIRECT skills and competencies framework.
 
-Thanks to the SSI for supporting this event. Funding is available to support travel or childcare costs through the DisCouRSE Network+ project and the SocRSE. Registrations will remain open until **11:00pm** on **Monday 6 July**. 
+Thanks to the SSI for supporting this event. Funding is available to support travel or childcare costs through the DisCouRSE Network+ project and the SocRSE. Registrations will remain open until **11:00pm** on **Monday 6th July**. 
 
 Please complete the [registration form](https://forms.office.com/pages/responsepage.aspx?id=_oivH5ipW0yTySEKEdmlwpxI18ZKev1GvkPJItczsaVUMzk0UzJDRU5YNlhNSU9NS1RUTkY1OVFTWi4u&route=shorturl) to secure your place.
