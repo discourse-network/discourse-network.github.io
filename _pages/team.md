@@ -16,6 +16,10 @@ author_profile: false
     The <strong>DisCouRSE Advisory Board</strong> provides independent oversight and strategic guidance to the project.
     <a href="/advisory-board">More information on the Advisory Board is here</a>.
   </p>
+  <h2 style="font-size: 1.2em; margin-top: 0;">Community Conduits</h2>
+  <p style="margin: 0.5em 0;">
+    We are supported by a team of <a href="/conduits">community conduits</a> to maximise our reach and impact. They bridge multiple dRTP communities, helping to share information and inform us of needs and opportunities.
+  </p>
 </section>
 
 

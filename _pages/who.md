@@ -36,7 +36,9 @@ DisCouRSE is designed to support leadership and career development across these 
 
 > Whether you’re looking to move into a leadership role in the future, already an experienced leader, or somewhere in between, you’re welcome to join, contribute to, and benefit from the network.
 
-**Are we missing a dRTP role from the list above? Please <a href="mailto:arc.discourse@ucl.ac.uk">let the DisCouRSE team know</a>!**
+[Are we missing a dRTP role from the list above? Please let the DisCouRSE team know!](mailto:arc.discourse@ucl.ac.uk){:.btn .btn--primary}
+
+We are supported by a team of [community conduits](/conduits) to maximise our reach and impact. They bridge multiple dRTP communities, helping to share information and inform us of needs and opportunities.
 
 ---
 
