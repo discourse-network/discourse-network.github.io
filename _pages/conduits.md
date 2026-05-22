@@ -31,7 +31,7 @@ Our conduits support DisCouRSE by:
 
 ![Ric Campbell](/assets/images/conduits/ric-campbell.jpg){:.align-left}
 
-[Ric Campbell](https://orda.shef.ac.uk/authors/Richard_Campbell/2798959) works in helping researchers gain access to, manage, and wrangle routine health data, while instilling good adherence to the required governance. He is also the N8 CIR RDM Theme lead working to bring together the community and share best practice.
+[Ric](https://orda.shef.ac.uk/authors/Richard_Campbell/2798959) works in helping researchers gain access to, manage, and wrangle routine health data, while instilling good adherence to the required governance. He is also the N8 CIR RDM Theme lead working to bring together the community and share best practice.
 
 <hr class="cf"/>
 
@@ -39,7 +39,7 @@ Our conduits support DisCouRSE by:
 
 ![Martin O'Reilly](/assets/images/conduits/martin-o'reilly.jpg){:.align-left}
 
-[Martin O'Reilly](https://www.turing.ac.uk/people/researchers/martin-oreilly) is a data scientist and researcher in artificial intelligence and machine learning. His work focuses on applying data science and advanced analytics to real-world research challenges. 
+[Martin](https://www.turing.ac.uk/people/researchers/martin-oreilly) is a data scientist and researcher in artificial intelligence and machine learning. His work focuses on applying data science and advanced analytics to real-world research challenges. 
 
 <hr class="cf"/>
 
@@ -67,7 +67,7 @@ Our conduits support DisCouRSE by:
 ### Alessandro Felder, BioImaging (ULC and BioImaging Groups)
 ![Alessandro Felder](https://profiles.ucl.ac.uk/72749-alessandro-felder/thumbnail){:.align-left}
 
-[Alessandro Felder](https://profiles.ucl.ac.uk/72749-alessandro-felder) works in the BioImaging research community, supporting advanced imaging technologies and computational image analysis. His work bridges experimental imaging and digital research methods.
+[Alessandro](https://profiles.ucl.ac.uk/72749-alessandro-felder) works in the BioImaging research community, supporting advanced imaging technologies and computational image analysis. His work bridges experimental imaging and digital research methods.
 
 <hr class="cf" />
 

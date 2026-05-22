@@ -4,7 +4,7 @@ title: "Who is DisCouRSE for?"
 permalink: /who
 ---
 
-## Who is the Network For?
+# Who is the Network For?
 
 We are trying to build a network of people working in or alongside digital Research Technical Professional (dRTP) roles. We aim to work with a wide range of professionals whose work supports, enables, or advances research through digital tools, data, infrastructure, or expertise.  If this sounds like something you are interested in, please sign up to our mailing list.
 
@@ -42,7 +42,7 @@ We are supported by a team of [community conduits](/conduits) to maximise our re
 
 ---
 
-## Project Goals
+# Project Goals
 
 - Promote inclusive, cross-sector leadership  
 - Build flexible and recognised career pathways  

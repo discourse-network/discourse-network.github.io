@@ -32,6 +32,7 @@ author_profile: false
     {% else %}
       <img src="{{ site.baseurl }}/assets/images/team/profile_placeholder.png"
     {% endif %}
+          alt="{{ project_team_member.name }}"
           style="border-radius: 50%;
                  float: left;
                  width: 96px;
