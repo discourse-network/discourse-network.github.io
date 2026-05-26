@@ -14,5 +14,5 @@ They also provide valuable feedback and help identify groups not yet engaged wit
 DisCouRSE would like to thank all of the volunteers for contributing their time, knowledge, and community connections to support the project and help strengthen collaboration across the digital research landscape.
 The project is continuing to welcome new volunteers interested in supporting and connecting dRTP communities.
 
-For more information or to become a conduit, contact: arc.discourse@ucl.ac.uk
+For more information or to become a conduit, contact: <arc.discourse@ucl.ac.uk>
 
