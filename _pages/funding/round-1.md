@@ -101,7 +101,7 @@ Applicants based in UK business, third sector or government organisations cannot
 
 These types of co-leads will only be able to claim certain costs depending on their organisation type:
 
-|     | **Business / Third sector in receipt of subsidy** | **Third sector** | **Government** |
+| **Expense category** | **Business / Third sector in receipt of subsidy** | **Third sector** | **Government** |
 | --- | --- | --- | --- |
 | **Staff - Salary** | Yes | Yes | No  |
 | **Staff - NI/Superann** | No  | Yes | No  |
