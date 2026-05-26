@@ -3,7 +3,7 @@ title: "DisCouRSE launches new community conduits network!"
 summary-image: "/assets/images/DisCouRSE-Logo-Dark.svg"
 summary-image-desc: "DisCouRSE Network+ Logo"  # Used for alt tag on the image; important for accessibility
 categories:
-- conduits
+  - conduits
 ---
 
 DisCouRSE is pleased to launch its new [Community Conduits page](https://discourse-network.github.io/conduits), showcasing a growing network of volunteers helping connect digital research technical professional (dRTP) communities across the UK.
