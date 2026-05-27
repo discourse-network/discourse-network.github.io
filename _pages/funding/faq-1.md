@@ -15,7 +15,7 @@ The call emphasises community building and joint applications but also mentions 
 : Requesting funds to trial an approach within a local team is welcome provided the application includes a concrete plan for the project to have an impact beyond that context, e.g. via open documentation and guidance for others to adapt and adopt. You might still want to consider including partners, to help you evaluate the work for example.
 
 Is an event that is aimed at introducing the dRTP profession to undergraduates via a series of events and talks within the scope?
-: Potentially, but you would have to consider how it relates particularly to the leadership aspect of career pathways. Outreach tends to be more done at the entry level of the profession particularly if you are targeting undergraduates. However if your focus is more on developing the leaders who can effectively run those kinds of outreach events and build pathways that could be within scope. It might however fit better with some of the [other Network+ projects](https://www.cake.ac.uk/landscape/rtp) and we are happy to encourage you to apply to them instead.
+: Potentially, but you would have to consider how it relates particularly to the leadership aspect of career pathways. Outreach tends to be more done at the entry level of the profession particularly if you are targeting undergraduates. However if your focus is more on developing the leaders who can effectively run those kinds of outreach events and build pathways that could be within scope. It might however fit better with some of the [other Network+ projects](https://www.cake.ac.uk/funds/) and we are happy to encourage you to apply to them instead.
 
 Can staff time be used to develop software that facilitates the project outputs?
 : Yes, staff time is allowed to develop software as long as it is justified in terms of the project objectives.
@@ -45,7 +45,7 @@ Is there scope for a project to adapt our previous work on team culture/team equ
 : Potentially yes but more details on the focus would be required, e.g. is it particularly focused on digital research technical professionals and how is that link made?
 
 How do the panel feel about software focussed projects that target a specific skill?
-: Maybe!  Technical skills are also clearly very important so projects that focus on those are still equally as important. One thing to be careful of is that if you are focusing on particular technical skills, there are several other projects either running or starting around about now that are looking at this, eg DRIFT.  We would advise you to check the [list on the CAKE website](https://www.cake.ac.uk/landscape/rtp) first in case they would be a better fit than DisCouRSE.
+: Maybe!  Technical skills are also clearly very important so projects that focus on those are still equally as important. One thing to be careful of is that if you are focusing on particular technical skills, there are several other projects either running or starting around about now that are looking at this, eg DRIFT.  We would advise you to check the [list on the CAKE website](https://www.cake.ac.uk/funds/) first in case they would be a better fit than DisCouRSE.
 
 
 # Eligibility

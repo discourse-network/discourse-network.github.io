@@ -226,7 +226,7 @@ Reviewing is a chance to:
 We especially welcome reviewers from diverse backgrounds and disciplines, and those at different career stages.
 If you’ve never reviewed before, don’t worry: guidance will be provided.
 
-There are also [other networks and similar projects](https://www.cake.ac.uk/landscape/rtp) within the UK Digital Research Infrastructure landscape at present that will have funding calls during the next few years, and we are seeking to share reviewers.
+There are also [other networks and similar projects](https://www.cake.ac.uk/landscape/skills) within the UK Digital Research Infrastructure landscape at present that will have funding calls during the next few years, and we are seeking to share reviewers.
 So, even if you can't help us in this round, please [share your details with us](https://forms.office.com/e/KB10mVSAZZ) if you might be willing to review for another round or another project.
 
 Reviewing for this round will take place between **10<sup>th</sup> and 25<sup>th</sup> June 2026**,
