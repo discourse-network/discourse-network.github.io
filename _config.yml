@@ -89,7 +89,7 @@ footer:
     - label: "Contact us"
       url: "/contact"
     - label: "Accessibility"
-      url: "https://www.ucl.ac.uk/accessibility/"
+      url: "/accessibility"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
