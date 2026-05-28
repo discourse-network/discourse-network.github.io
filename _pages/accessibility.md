@@ -2,8 +2,6 @@
 layout: default
 title: "Accessibility statement"
 permalink: /accessibility
-toc: true
-toc_sticky: true
 ---
 
 # DisCouRSE website accessibility statement
