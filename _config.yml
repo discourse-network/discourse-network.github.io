@@ -88,6 +88,8 @@ footer:
       url: "/code-of-conduct"
     - label: "Contact us"
       url: "/contact"
+    - label: "Accessibility"
+      url: "/accessibility"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
