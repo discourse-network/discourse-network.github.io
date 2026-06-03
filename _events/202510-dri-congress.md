@@ -4,7 +4,7 @@ start-date: 2025-10-21
 date: 2025-10-22
 location:  The Met Hotel Leeds, King Street, Leeds LS1 2HQ, UK
 layout: event
-web-page: https://www.ukri.org/events/digital-research-infrastructure-dri-congress-2025/
+web-page: https://webarchive.nationalarchives.gov.uk/ukgwa/20260106055627/https://www.ukri.org/events/digital-research-infrastructure-dri-congress-2025/
 summary: >
   This two-day event organised by the DRI Programme will bring together stakeholders from across the UK’s research and innovation ecosystem.
 ---
