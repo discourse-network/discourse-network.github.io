@@ -77,7 +77,7 @@ jobs:
             --verbose
             --no-progress
             --fallback-extensions html
-            --header "accept=text/html"
+            --header 'Accept: text/html'
             --accept 200..300,403,503,999
             --accept-timeouts
             --exclude '^https://x.com/intent/tweet'
