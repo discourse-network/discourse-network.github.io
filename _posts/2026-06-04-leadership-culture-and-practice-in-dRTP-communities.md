@@ -28,7 +28,6 @@ This framing resonated strongly with the opening provocation from [Katie Best](h
 Participants repeatedly returned to the idea that leadership models only become meaningful when they are reflected in everyday practice. 
 
 **Leadership beyond hierarchy:**
-
 Many of the examples discussed during the focus group challenged conventional organisational assumptions about leadership and the applicability of established best practice in the context of dRTP groups. Several presentations explored forms of distributed, emergent, and systems-oriented leadership: 
 
 - Leadership shared across communities rather than concentrated in formal roles.
