@@ -68,7 +68,7 @@ Another strong theme emerging from the focus group was the value of creating ded
 The event itself became a form of peer learning similar in scope to the [RSE Leaders Network](https://society-rse.org/rse-leaders-network/). It offered a space to document as well as to compare experiences across institutions, reflect on tensions and challenges, and collectively examine practices that are often invisible within formal organisational structures. 
 This highlighted something important for both DisCouRSE and DIRECT, which is that community reflection is not separate from leadership development, it is part of it. 
 
-**Open questions**
+**Open questions**:
 
 The focus group surfaced a number of ongoing questions which will continue to inform future DisCouRSE activities and the development of DIRECT. 
 
