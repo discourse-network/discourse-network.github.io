@@ -32,11 +32,8 @@ Participants repeatedly returned to the idea that leadership models only become 
 Many of the examples discussed during the focus group challenged conventional organisational assumptions about leadership and the applicability of established best practice in the context of dRTP groups. Several presentations explored forms of distributed, emergent, and systems-oriented leadership: 
 
 - Leadership shared across communities rather than concentrated in formal roles.
-
 - Leadership through facilitation and enablement. 
-
 - Leadership embedded within infrastructure ownership and service delivery.
-
 - Leadership expressed through mentoring, coordination, and stewardship.  
 
 This was particularly visible in discussions around open research communities, distributed teams, and collaborative infrastructure projects, where leadership often depends less on hierarchy and more on trust, shared ownership, and community participation. 
@@ -46,11 +43,8 @@ Practice, not just competencies. One of the objectives of the focus group was to
 **For example**: 
 
 - Psychological safety is not simply an abstract concept, but something enacted through workload management, communication styles, and team norms.
-
 - Stakeholder management involves translation, negotiation, and expectation-setting across different organisational cultures.
-
 - Mentoring and team development require creating space for growth, reflection, and participation.
-
 - Sustainable project delivery depends on practices around scoping, risk management, and continuity planning.
 
 This raised broader questions about how competency frameworks should represent behaviours, values, and situated practice. Several discussions aligned closely with ongoing work within DIRECT around developmental pathways, practice-oriented descriptions, and value-based overlays. 
@@ -66,13 +60,9 @@ This highlighted something important for both DisCouRSE and DIRECT, which is tha
 The focus group surfaced a number of ongoing questions which will continue to inform future DisCouRSE activities and the development of DIRECT. 
 
 - How could leadership practices be represented within competency frameworks? 
-
 - What forms of leadership development are most valuable within dRTP contexts? 
-
 - How can communities support reflective and distributed leadership practices over time? 
-
 - What organisational structures best support healthy and sustainable technical cultures? 
-
 - How can frameworks capture lived practice and experiences without over-standardising diverse ways of working? 
 
 These questions do not have straightforward answers and any answer is likely to be organisation specific with sector-wide commonalities. However, the discussions reinforced the importance of continuing to create spaces where the dRTP community can collectively explore them and adapt as well as adopt. 
