@@ -1,6 +1,6 @@
 ---
 title: "Leadership Culture and Practice in dRTP Communities"
-summary-image: "/assets/images/DisCouRSE-Logo-Dark.svg"
+summary-image: "/assets/images/blog-post-disCouRSE-.jpg"
 summary-image-desc: "DisCouRSE Network+ Logo"  # Used for alt tag on the image; important for accessibility
 categories:
   - dRTP
@@ -15,21 +15,14 @@ What emerged was not a single definition of leadership, but a recognition that l
 
 A recurring theme throughout the day was that leadership cannot easily be separated from the environments and cultures in which technical work takes place. Leadership was discussed not simply in terms of management structures, processes or individual capability, but through everyday practices:
 
-•	How decisions are made.
-
-•	How collaboration is enabled. 
-
-•	How pressure is handled.
-
-•	How trust is built.
-
-•	How contributions are recognised.
-
-•	How teams learn and adapt.
-
-•	How communities sustain themselves over time.
-
-•	How the team relates to others in their organisation.
+-	How decisions are made.
+-	How collaboration is enabled. 
+-	How pressure is handled.
+-	How trust is built.
+-	How contributions are recognised.
+-	How teams learn and adapt.
+-	How communities sustain themselves over time.
+-	How the team relates to others in their organisation.
 
 This framing resonated strongly with the opening provocation from [Katie Best](https://zenodo.org/records/18671809), which explored the idea that team culture is not an accidental by-product of teams, but an outcome shaped through repeated leadership behaviours and organisational practices. 
 Participants repeatedly returned to the idea that leadership models only become meaningful when they are reflected in everyday practice. 
