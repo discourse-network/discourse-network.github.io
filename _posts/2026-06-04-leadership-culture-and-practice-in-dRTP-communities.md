@@ -1,6 +1,6 @@
 ---
 title: "Leadership Culture and Practice in dRTP Communities"
-summary-image: "/assets/images/DisCouRSE-Logo-Dark.svg"
+summary-image: "/assets/images/blog-post-disCouRSE-.jpg"
 summary-image-desc: "DisCouRSE Network+ Logo"  # Used for alt tag on the image; important for accessibility
 categories:
   - dRTP
