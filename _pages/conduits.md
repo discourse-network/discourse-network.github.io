@@ -85,6 +85,8 @@ Our conduits support DisCouRSE by:
 
 [Tristan](https://orcid.org/0000-0002-0036-6286) works as an Open Research Librarian in the Research Data Management service, Office for Open Research (OOR). He also leads on research data stewardship for the OOR and is the group lead for the Research Data Stewardship Community, part of a wider network of special interest and user groups focused on computation and data in research at the University of Manchester.
 
+<hr class="cf"/>
+
 ## Want to Become a Conduit?
 
 Help us connect and strengthen dRTP communities! Conduits share information, signpost networks, and provide feedback to shape DisCouRSE activities.
