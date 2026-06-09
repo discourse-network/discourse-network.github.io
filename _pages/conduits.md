@@ -81,9 +81,9 @@ Our conduits support DisCouRSE by:
 
 ### David Young, Astrophysics (Queen University Belfast)
 
-![David Young](/assets/images/conduits/david-young.jpg){:.align-left}
+![Tristan Martin](/assets/images/conduits/david-young.jpg){:.align-left}
 
-[David](https://pure.qub.ac.uk/en/persons/david-young/) is an astrophysics researcher at Queen’s University Belfast. His work contributes to the astrophysics research community and broader digital research infrastructure networks. 
+[Tristan](https://orcid.org/0000-0002-0036-6286) works as an Open Research Librarian in the Research Data Management service, Office for Open Research (OOR). He also leads on research data stewardship for the OOR and is the group lead for the Research Data Stewardship Community, part of a wider network of special interest and user groups focused on computation and data in research at the University of Manchester.
 
 ## Want to Become a Conduit?
 
