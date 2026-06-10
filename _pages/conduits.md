@@ -81,7 +81,7 @@ Our conduits support DisCouRSE by:
 
 ### David Young, Astrophysics (Queen University Belfast)
 
-![Tristan Martin](/assets/images/conduits/tristan-martin.png){:.align-left}
+![Tristan Martin](/assets/images/conduits/tristan-martin.jpg){:.align-left}
 
 [Tristan](https://orcid.org/0000-0002-0036-6286) works as an Open Research Librarian in the Research Data Management service, Office for Open Research (OOR). He also leads on research data stewardship for the OOR and is the group lead for the Research Data Stewardship Community, part of a wider network of special interest and user groups focused on computation and data in research at the University of Manchester.
 
