@@ -79,7 +79,7 @@ Our conduits support DisCouRSE by:
 
 <hr class="cf"/>
 
-### David Young, Astrophysics (Queen University Belfast)
+### Tristan Martin, Research Data Management (University of Manchester Library)
 
 ![Tristan Martin](/assets/images/conduits/tristan-martin.jpg){:.align-left}
 
