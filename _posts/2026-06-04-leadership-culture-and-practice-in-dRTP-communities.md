@@ -1,6 +1,6 @@
 ---
 title: "Leadership Culture and Practice in dRTP Communities"
-summary-image: "/assets/images/DisCouRSE-Logo-Dark.svg"
+summary-image: "/assets/images/blog-post-disCouRSE-.jpg"
 summary-image-desc: "DisCouRSE Network+ Logo"  # Used for alt tag on the image; important for accessibility
 categories:
   - dRTP
@@ -15,36 +15,25 @@ What emerged was not a single definition of leadership, but a recognition that l
 
 A recurring theme throughout the day was that leadership cannot easily be separated from the environments and cultures in which technical work takes place. Leadership was discussed not simply in terms of management structures, processes or individual capability, but through everyday practices:
 
-•	How decisions are made.
-
-•	How collaboration is enabled. 
-
-•	How pressure is handled.
-
-•	How trust is built.
-
-•	How contributions are recognised.
-
-•	How teams learn and adapt.
-
-•	How communities sustain themselves over time.
-
-•	How the team relates to others in their organisation.
+-	How decisions are made.
+-	How collaboration is enabled. 
+-	How pressure is handled.
+-	How trust is built.
+-	How contributions are recognised.
+-	How teams learn and adapt.
+-	How communities sustain themselves over time.
+-	How the team relates to others in their organisation.
 
 This framing resonated strongly with the opening provocation from [Katie Best](https://zenodo.org/records/18671809), which explored the idea that team culture is not an accidental by-product of teams, but an outcome shaped through repeated leadership behaviours and organisational practices. 
 Participants repeatedly returned to the idea that leadership models only become meaningful when they are reflected in everyday practice. 
 
 **Leadership beyond hierarchy:**
-
 Many of the examples discussed during the focus group challenged conventional organisational assumptions about leadership and the applicability of established best practice in the context of dRTP groups. Several presentations explored forms of distributed, emergent, and systems-oriented leadership: 
 
-•	Leadership shared across communities rather than concentrated in formal roles.
-
-•	Leadership through facilitation and enablement. 
-
-•	Leadership embedded within infrastructure ownership and service delivery.
-
-•	Leadership expressed through mentoring, coordination, and stewardship.  
+- Leadership shared across communities rather than concentrated in formal roles.
+- Leadership through facilitation and enablement. 
+- Leadership embedded within infrastructure ownership and service delivery.
+- Leadership expressed through mentoring, coordination, and stewardship.  
 
 This was particularly visible in discussions around open research communities, distributed teams, and collaborative infrastructure projects, where leadership often depends less on hierarchy and more on trust, shared ownership, and community participation. 
 Participants reflected that these forms of leadership can be highly valuable within digital research environments, but are often difficult to describe, recognise, or support institutionally. 
@@ -52,13 +41,10 @@ Practice, not just competencies. One of the objectives of the focus group was to
 
 **For example**: 
 
-•	Psychological safety is not simply an abstract concept, but something enacted through workload management, communication styles, and team norms.
-
-•	Stakeholder management involves translation, negotiation, and expectation-setting across different organisational cultures.
-
-•	Mentoring and team development require creating space for growth, reflection, and participation.
-
-•	Sustainable project delivery depends on practices around scoping, risk management, and continuity planning.
+- Psychological safety is not simply an abstract concept, but something enacted through workload management, communication styles, and team norms.
+- Stakeholder management involves translation, negotiation, and expectation-setting across different organisational cultures.
+- Mentoring and team development require creating space for growth, reflection, and participation.
+- Sustainable project delivery depends on practices around scoping, risk management, and continuity planning.
 
 This raised broader questions about how competency frameworks should represent behaviours, values, and situated practice. Several discussions aligned closely with ongoing work within DIRECT around developmental pathways, practice-oriented descriptions, and value-based overlays. 
 
@@ -72,15 +58,11 @@ This highlighted something important for both DisCouRSE and DIRECT, which is tha
 
 The focus group surfaced a number of ongoing questions which will continue to inform future DisCouRSE activities and the development of DIRECT. 
 
-•	How could leadership practices be represented within competency frameworks? 
-
-•	What forms of leadership development are most valuable within dRTP contexts? 
-
-•	How can communities support reflective and distributed leadership practices over time? 
-
-•	What organisational structures best support healthy and sustainable technical cultures? 
-
-•	How can frameworks capture lived practice and experiences without over-standardising diverse ways of working? 
+- How could leadership practices be represented within competency frameworks? 
+- What forms of leadership development are most valuable within dRTP contexts? 
+- How can communities support reflective and distributed leadership practices over time? 
+- What organisational structures best support healthy and sustainable technical cultures? 
+- How can frameworks capture lived practice and experiences without over-standardising diverse ways of working? 
 
 These questions do not have straightforward answers and any answer is likely to be organisation specific with sector-wide commonalities. However, the discussions reinforced the importance of continuing to create spaces where the dRTP community can collectively explore them and adapt as well as adopt. 
 
