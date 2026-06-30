@@ -6,7 +6,7 @@ categories:
   - research-coding-community
 ---
 
-DisCouRSE is pleased to share highlights from the Research Coding Community Fair, held at the University of Exeter on **Tuesday 19th May 2026**. 
+DisCouRSE is pleased to share highlights from the Research Coding Community Fair, which was held at the University of Exeter on **Tuesday 19th May 2026**. 
 
 The event brought together researchers, technical teams, and digital research communities to showcase coding support, training, tools, and collaboration opportunities. Supported by [Bioinform@exe via ELIXIR-UK](https://sites.exeter.ac.uk/bioinformatexe/) and the DisCouRSE Flexible Fund Round 1 project, [Building Connected Technical Networks](https://discourse-network.github.io/projects/1-42-building-networks/). The event highlighted the value of connecting researchers and sharing expertise.
  
