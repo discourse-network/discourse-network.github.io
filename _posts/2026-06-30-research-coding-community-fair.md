@@ -1,6 +1,6 @@
 ---
 title: "Research Coding Community Fair brings together researchers and technical teams across the University!"
-summary-image: "/assets/images/DisCouRSE-Logo-Dark.svg"
+summary-image: "assets/images/research-coding-community-fair.jpg"
 summary-image-desc: "DisCouRSE Network+ Logo"  # Used for alt tag on the image; important for accessibility
 categories:
   - research-coding-community
