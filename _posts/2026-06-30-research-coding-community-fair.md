@@ -18,6 +18,6 @@ Supported by [Bioinform@exe via ELIXIR-UK](https://sites.exeter.ac.uk/bioinforma
 
 Find out more about the event on the [Research Coding Community Fair webpage](https://research-coding-community.github.io/Community_Fair/).
 
-The event was supported by the DisCouRSE Flexible Fund Round 2 through the [Building Connected Technical Networks: A Framework for Digital Communities project](https://discourse-network.github.io/projects/1-42-building-networks/). 
+The event was supported by the DisCouRSE Flexible Fund Round 2 project [Building Connected Technical Networks: A Framework for Digital Communities](https://discourse-network.github.io/projects/1-42-building-networks/). 
 
 For more information about the Research Coding Community please contact the [team](https://research-coding-community.github.io/Research_Coding_Community/home_page.html_).
