@@ -1,7 +1,7 @@
 ---
 title: "Agile Leadership Training for Digital Research Technical Professionals: An Integrated Pilot"
 start-date: 2026-04-16
-date: 2026-07-31
+date: 2026-11-15
 layout: project
 lead: Adina Rahim
 lead-org: University of Manchester
