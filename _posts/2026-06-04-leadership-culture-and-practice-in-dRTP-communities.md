@@ -68,7 +68,7 @@ These questions do not have straightforward answers and any answer is likely to 
 
 **References**:
 
-[Documentation and extended reflections](https://doi.org/10.5281/zenodo.20507401).
+[Documentation and extended reflections](https://zenodo.org/records/21221972).
 
 [All focus group material including presentations](https://doi.org/10.5281/zenodo.18958031).
 
