@@ -1,5 +1,5 @@
 ---
-title: "DIRECT Leadership Retreat Shapes the Future of Digital Research Competencies!"
+title: "DIRECT Leadership Retreat Shapes the Future of Digital Research Competencies"
 summary-image: "/assets/images/direct-leadership-retreat.jpeg"
 summary-image-desc: "DisCouRSE Network+ Logo"  # Used for alt tag on the image; important for accessibility
 categories:
