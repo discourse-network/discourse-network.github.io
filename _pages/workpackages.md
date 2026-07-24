@@ -11,7 +11,7 @@ permalink: /workpackages
 
 **Led by Jonathan Cooper, University College London (UCL)**
 
-This management focused work package keeps the project on track, well-managed, and aligned with its goals. It is responsible for overall coordination, including managing risks, milestones, and reporting mechanisms. A key component is the administration of the project’s [flexible fund](/funding/round-1), which supports community-led initiatives. WP1 ensures all other work packages align with the project's goals and values.
+This management focused work package keeps the project on track, well-managed, and aligned with its goals. It is responsible for overall coordination, including managing risks, milestones, and reporting mechanisms. A key component is the administration of the project’s [flexible fund](/funding), which supports community-led initiatives. WP1 ensures all other work packages align with the project's goals and values.
 
 ---
 
@@ -50,7 +50,7 @@ This careers-focused work package tackles the systemic barriers to career progre
 [Find out more about our interview study](/wp4-interviews) and [contact us](mailto:arc.discourse@ucl.ac.uk) to get involved.
 
 We are also running **focus groups** about processes and practices used within digital RTP groups. The first focus group was held at 
-[King’s College London](https://discourse-network.github.io/events/202601-focus-group-culture/) on the 19th January 2026 on the topic of team culture -[see associated documentation](https://zenodo.org/records/18958032). 
+[King’s College London](https://discourse-network.github.io/events/202601-focus-group-culture/) on the 19th January 2026 on the topic of team culture, and [a report is now available](https://zenodo.org/records/18958032). 
 
 We are interested in ideas from the wider RTP community about specific processes you or your group initiated or adapted you find particularly useful and potentially relevant for the wider RTP community. These could be processes around technical, strategic, community, advocacy leadership generalisable beyond single research domains. If you have a link to any documentation to share, and/or would you (or someone else from your group) be willing to present it/them at a future DisCouRSE focus group [get in touch](mailto:arc.discourse@ucl.ac.uk) to tell us all about it.
 
