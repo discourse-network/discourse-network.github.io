@@ -1,5 +1,5 @@
 ---
-title: "Successful Second Funding Round-projects announced!"
+title: "Successful Second Funding Round Projects Announced!"
 summary-image: "/assets/images/DisCouRSE-Logo-Dark.svg"
 summary-image-desc: "DisCouRSE Network+ Logo"  # Used for alt tag on the image; important for accessibility
 categories:
@@ -24,4 +24,4 @@ We also asked for feedback on the application process from (prospective) applica
 
 Overall, the second funding round was a success, and we have come away with more refinements to make to our funding process as well as a need for concerted effort in targeting non-Russell Group universities.  
 
-If you have any channels to help us reach these target areas, please get in touch or consider becoming one of our conduits.
+If you have any channels to help us reach these target areas, please get in touch or consider becoming one of our [conduits](https://deploy-preview-50--discourse-network.netlify.app/conduits).
