@@ -9,9 +9,7 @@ categories:
 We’re pleased to say that our second funding round has continued the success of our first round in 2025.  This funding round differed as there were 3 funding streams: 
 
 - Pilot for enabling and exploring new ideas 
-
 - Growth for contributing to existing community initiatives aligned with our aims 
-
 - Cohort training to run a pilot leadership training programme 
 
 We received 22 submitted eligible applications and [15 projects](https://discourse-network.github.io/projects-archive/) were funded including 2 cohort training applications.  Again the funded projects covered a wide diversity of research areas. However, we wanted to dig deeper into the applications to see how well our applicants mirrored the community and to identify any areas for improvement. 
@@ -22,7 +20,7 @@ The applicant pool showed a 63% male / 37% female split and was predominantly Wh
 
 In this round Research Software Engineers (RSE) did not dominate amongst leads and co-leads professions as a wide range of roles was represented across 9 broad groupings. Eleven of the successful proposals were led by a non-RSE. 
 
-We also asked for feedback on the application process from (prospective) applicants, panel members, and the wider DisCouRSE project team. From our perspective the process has been smoother second time around, but we are keen to hear your insights too, particularly if you didn’t apply for any reason. Do let us know your thoughts at arc.discourse@ucl.ac.uk. 
+We also asked for feedback on the application process from (prospective) applicants, panel members, and the wider DisCouRSE project team. From our perspective the process has been smoother second time around, but we are keen to hear your insights too, particularly if you didn’t apply for any reason. Do let us know your thoughts at arc.discourse@ucl.ac.uk.
 
 Overall, the second funding round was a success, and we have come away with more refinements to make to our funding process as well as a need for concerted effort in targeting non-Russell Group universities.  
 
