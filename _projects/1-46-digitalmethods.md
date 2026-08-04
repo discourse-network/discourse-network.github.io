@@ -8,8 +8,6 @@ lead-org: King's College London
 collaborator:
   - name: Bernhard Rieder
     org: University of Amsterdam
-
-    
     
 #web-page: optional URL
 ---
