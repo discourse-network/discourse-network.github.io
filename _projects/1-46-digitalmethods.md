@@ -5,9 +5,7 @@ date: 2027-09-30
 layout: project
 lead: Janna Joceli Omena
 lead-org: King's College London
-    collaborator:
-  - name: Bernhard Rieder
-    org:  University of Amsterdam
+ 
     
 #web-page: optional URL
 ---
