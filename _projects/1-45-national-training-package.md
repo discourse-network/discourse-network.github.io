@@ -14,7 +14,7 @@ co-leads:
 #web-page: optional URL
 ---
 
-This growth project builds on a pilot Agile leadership training for dRTPs, currently being delivered across multiple institutions. The pilot has generated strong demand, with 73 applications across two recruitment rounds, with registrations still open at the time.
+This growth project builds on a pilot [Agile leadership training for dRTPs](https://discourse-network.github.io/projects/1-36-integrated-pilot/), currently being delivered across multiple institutions. The pilot has generated strong demand, with 73 applications across two recruitment rounds, with registrations still open at the time.
 
 While initially designed within [UCL](https://www.ucl.ac.uk/) and [N8](https://www.n8research.org.uk/) to support a structured cross-institutional pilot, engagement has extended beyond these networks, demonstrating broader relevance across the UK dRTP community.
 
