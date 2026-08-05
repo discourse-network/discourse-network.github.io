@@ -5,15 +5,7 @@ date: 2026-12-31
 layout: project
 lead: Richard Stark
 lead-org: University of Warwick
-team members:
-  - name: Alessandra Vigilante
-    org: King's College London
-  - name: Sascha Ott
-    org: University of Warwick
-  - name: Robert Andrews
-    org: Cardiff University
-  - name: Leo Zeef
-    org: University of Manchester
+
     
 
     
