@@ -11,7 +11,7 @@ lead-org: My Consultants Ltd
 #web-page: optional URL
 ---
 
-The programme will be a blended learning programme for digital Research Technical Professionals (dRTPs) with some leadership responsibility – formal or informal – or about to take on a leadership role. There are no formal prerequisites, and the programme will be designed to address the DIRECT framework's leadership and management competencies.
+The programme will be a blended learning programme for digital Research Technical Professionals (dRTPs) with some leadership responsibility formal or informal or about to take on a leadership role. There are no formal prerequisites, and the programme will be designed to address the DIRECT framework's leadership and management competencies.
 
 The best digital developers know that iteration is how good systems become great. Debugging Digital Research Technical Leadership applies the same principle to leadership, building on the technical expertise, rigour and problem-solving mindset of dRTPs.
 
