@@ -1,7 +1,7 @@
 ---
 title: "Embedding and Expanding Open Leadership for Research Communities"
 start-date: 2026-10-01
-date: 2026-07-31
+date: 2027-07-31
 layout: project
 lead: Oscar Seip
 lead-org: The University of Manchester - Software Sustainability Institute
