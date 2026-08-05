@@ -5,7 +5,7 @@ date: 2027-05-31
 layout: project
 lead: Adina Rahim
 lead-org: University of Manchester
-co-lead:
+co-leads:
   - name: Monika Byrne Svata
     org: UCL
   
