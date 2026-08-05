@@ -1,6 +1,6 @@
 ---
 title: "Bioinformatics Core Leaders UK (BCLUK): Enabling Leadership, Mentorship, and Funding Pathways for RTPs"
-start-date: 2026-01-01
+start-date: 2026-09-01 
 date: 2026-12-31
 layout: project
 lead: Richard Stark
