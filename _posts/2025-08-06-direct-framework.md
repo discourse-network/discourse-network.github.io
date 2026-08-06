@@ -12,13 +12,11 @@ categories:
 
 **What is DIRECT?**
 
-The [DIRECT framework](https://directframework.com/) is a framework of skills and competencies for dRTPs  which helps to classify and describe the wide range of technical and non-technical skills used across digital research roles. These roles include researchers, research software engineers (RSEs), data specialists, group leads, principal investigators (PIs), archivists, bioinformaticians, and many more.   
-Using DIRECT provides a shared language for recognising expertise, planning training, and mapping career pathways supporting individuals in charting their professional growth while helping organisations to build stronger, more inclusive teams. 
+The [DIRECT framework](https://directframework.com/) is a framework of skills and competencies for dRTPs  which helps to classify and describe the wide range of technical and non-technical skills used across digital research roles. These roles include researchers, research software engineers (RSEs), data specialists, group leads, principal investigators (PIs), archivists, bioinformaticians, and many more. Using DIRECT provides a shared language for recognising expertise, planning training, and mapping career pathways supporting individuals in charting their professional growth while helping organisations to build stronger, more inclusive teams. 
 
 **Updating the DIRECT Web App**
 
-The DIRECT web app provides an accessible way to read through the framework and understand the skills, competencies, and categories it contains. It also provides users with a way to generate and visualise their own skill profiles in a skills wheel. 
-The aim of the 8 week project was to update the webapp so that it would be ready for v2.0.0 of the DIRECT Framework.  This new version included additional tools, methodologies, programming languages and learning resources that link with updated skills and competencies.
+The DIRECT web app provides an accessible way to read through the framework and understand the skills, competencies, and categories it contains. It also provides users with a way to generate and visualise their own skill profiles in a skills wheel. The aim of the 8 week project was to update the webapp so that it would be ready for v2.0.0 of the DIRECT Framework.  This new version included additional tools, methodologies, programming languages and learning resources that link with updated skills and competencies.
 
 **Enabling Consistent Development**
 
