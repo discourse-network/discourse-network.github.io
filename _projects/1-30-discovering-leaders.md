@@ -9,9 +9,11 @@ co-leads:
   - name: Cassandra Gould van Praag
     org: RCM Cooperative
   - name: Emma Karoune
-  - org: RCM Cooperative
+    org: RCM Cooperative
   - name: Oscar Seip
-  - org: RCM Cooperative
+    org: RCM Cooperative
+    
+    
 #web-page: optional URL
 ---
 
