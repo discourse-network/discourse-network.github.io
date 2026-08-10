@@ -3,7 +3,8 @@ title: "DIRECT Framework Development: End-of Project Highlights!"
 summary-image: "/assets/images/DisCouRSE-Logo-Dark.svg"
 summary-image-desc: "DisCouRSE Network+ Logo"  # Used for alt tag on the image; important for accessibility
 categories:
-  - DisCouRSE completed project  
+  - projects
+  - final report
 ---
 
 **Adrian D'Alessandro, Imperial College London**
