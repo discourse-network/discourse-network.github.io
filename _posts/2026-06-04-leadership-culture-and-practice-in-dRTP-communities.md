@@ -3,7 +3,8 @@ title: "Leadership Culture and Practice in dRTP Communities"
 summary-image: "/assets/images/blog-post-disCouRSE-.jpg"
 summary-image-desc: "DisCouRSE Network+ Logo"  # Used for alt tag on the image; important for accessibility
 categories:
-  - dRTP
+  - event report
+  - focus group
 ---
 
 In January 2026, members of the digital Research Technical Professional (dRTP) community gathered at [King’s College London](https://www.kcl.ac.uk/) for the first DisCouRSE focus group, exploring team culture and leadership in different dRTP contexts. 

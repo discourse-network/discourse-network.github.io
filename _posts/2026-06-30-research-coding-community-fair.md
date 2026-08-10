@@ -3,7 +3,8 @@ title: "Research Coding Community Fair brings together researchers and technical
 summary-image: "/assets/images/research-coding-community-fair.jpg"
 summary-image-desc: "DisCouRSE Network+ Logo"  # Used for alt tag on the image; important for accessibility
 categories:
-  - research-coding-community
+  - projects
+  - event report
 ---
 
 DisCouRSE is pleased to share highlights from the Research Coding Community Fair, which was held at the University of Exeter on **Tuesday 19th May 2026**. 
