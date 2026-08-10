@@ -5,9 +5,10 @@ summary-image-desc: "DisCouRSE Network+ Logo"  # Used for alt tag on the image; 
 categories:
   - projects
   - final report
+sidebar:
+    - title: "Author"
+      text: "Adrian D'Alessandro, Imperial College London"
 ---
-
-**Adrian D'Alessandro, Imperial College London**
 
 
 
