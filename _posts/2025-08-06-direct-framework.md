@@ -36,7 +36,5 @@ The new version of the web app is now live and released on Zenodo. The aim is fo
 **Links**
 
 - [DIRECT web app](https://github.com/direct-framework/direct-webapp)
-
 - [DIRECT v0.4.1](https://doi.org/10.5281/zenodo.19853150)
-
 - [Release of DIRECT Framework v2.0.0](https://www.software.ac.uk/news/new-version-direct-framework-released-support-digital-research-skills-and-career-development)
