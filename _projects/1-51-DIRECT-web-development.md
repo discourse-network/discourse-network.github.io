@@ -15,7 +15,7 @@ lead-org: Imperial College London
 
 The Web App also allows users to generate and visualise their own skill profiles. It has been developed by [community volunteers](https://github.com/direct-framework/direct-webapp?tab=readme-ov-file#contributors) and the [Imperial RSE team](https://www.imperial.ac.uk/admin-services/ict/self-service/research-support/rcs/service-offering/research-software-engineering/) through the first DisCouRSE flexible fund round. Continued development of the Web App is an essential component of [DisCouRSE Work Package 3: Advanced Skills](https://discourse-network.github.io/workpackages).
 
-Funding from the previous round of DisCouRSE significantly accelerated progress on the Web App, resulting in [three new releases](https://github.com/direct-framework/direct-webapp/releases) that now support [v2.0.0 of the Framework](https://github.com/direct-framework/digital-research-competencies-framework/releases/tag/v2.0.0.). With that project complete, development would otherwise fall back to community volunteers.
+Funding from the previous round of DisCouRSE significantly accelerated progress on the Web App, resulting in [three new releases](https://github.com/direct-framework/direct-webapp/releases) that now support [v2.0.0 of the Framework](https://github.com/direct-framework/digital-research-competencies-framework/releases/tag/v2.0.0). With that project complete, development would otherwise fall back to community volunteers.
 
 This project will secure dedicated professional time from the Imperial RSE Team to develop the Web App, adding to the existing volunteer effort. The focus will be on adding features for:
 
