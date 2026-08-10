@@ -13,7 +13,7 @@ sidebar:
 
 ## What is DIRECT?
 
-The [DIRECT framework](https://directframework.com/) is a framework of skills and competencies for dRTPs  which helps to classify and describe the wide range of technical and non-technical skills used across digital research roles. These roles include researchers, research software engineers (RSEs), data specialists, group leads, principal investigators (PIs), archivists, bioinformaticians, and many more. Using DIRECT provides a shared language for recognising expertise, planning training, and mapping career pathways supporting individuals in charting their professional growth while helping organisations to build stronger, more inclusive teams. 
+The [DIRECT framework](https://directframework.com/) is a framework of skills and competencies for dRTPs  which helps to classify and describe the wide range of technical and non-technical skills used across digital research roles. These roles include researchers, research software engineers (RSEs), data specialists, group leads, principal investigators (PIs), archivists, bioinformaticians, and many more. Using DIRECT provides a shared language for recognising expertise, planning training, and mapping career pathways supporting individuals in charting their professional growth while helping organisations to build stronger, more inclusive teams. 
 
 ## Updating the DIRECT Web App
 
