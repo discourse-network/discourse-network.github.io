@@ -3,7 +3,8 @@ title: "DIRECT Leadership Retreat Shapes the Future of Digital Research Competen
 summary-image: "/assets/images/direct-leadership-retreat.jpeg"
 summary-image-desc: "DisCouRSE Network+ Logo"  # Used for alt tag on the image; important for accessibility
 categories:
-  - direct-leadership-retreat
+  - direct
+  - event report
 ---
 
 DisCouRSE shares updates from the DIRECT Leadership Retreat, held on **6–7 July 2026** at the Alan Turing Building in Manchester.
