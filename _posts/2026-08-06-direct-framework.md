@@ -8,8 +8,10 @@ categories:
 sidebar:
     - title: "Author"
       text: "Adrian D'Alessandro, Imperial College London"
+      
 ---
 
+Adrian D’Alessandro, Project PI and Senior Research Software Engineer at [Imperial College London](https://www.imperial.ac.uk/), shares the progress and impact of his recently completed DisCouRSE-funded project. The project has helped take the DIRECT web app to the next stage, strengthening its infrastructure and supporting the development of DIRECT Framework v2.0.0.
 
 ## What is DIRECT?
 
