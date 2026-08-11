@@ -7,7 +7,6 @@ categories:
   - projects
 ---
 
-## 
 On 30 July, DisCouRSE funded project leads and co-leads came together for an online lightning session to share the progress, outcomes and experiences from [their projects](https://discourse-network.github.io/projects/) with the wider cohort.
 The session also welcomed projects funded through [round 2](https://discourse-network.github.io/funding/round-2), allowing both new and existing project teams to connect and learn from each other.
 
