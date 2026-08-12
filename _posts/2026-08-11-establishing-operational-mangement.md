@@ -1,6 +1,6 @@
 ---
 title: "Establishing an operational management community of practice for dRTP leaders: Insights and Outcomes!"
-summary-image: "/assets/images/Phil-Bradbury.jpg" 
+summary-image: "/assets/images/Phil-Bradbury.jpg"
 summary-image-desc: "DisCouRSE Network+ Logo"  # Used for alt tag on the image; important for accessibility
 categories:
   - projects
