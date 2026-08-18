@@ -1,5 +1,5 @@
 ---
-title: "RSE Leaders and Aspiring Leaders Meeting RSECon26"
+title: "RSE Leaders and Aspiring Leaders Meeting"
 date: 2026-09-08
 location: The University of Sheffield (in-person) & online
 layout: event
