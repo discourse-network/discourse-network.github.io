@@ -1,6 +1,6 @@
 ---
 title: "DIRECT Framework Development: End-of Project Highlights!"
-summary-image: "/assets/images/DisCouRSE-Logo-Dark.svg"
+summary-image: "/assets/images/Adrian-D'Alessandro.jpeg"
 summary-image-desc: "DisCouRSE Network+ Logo"  # Used for alt tag on the image; important for accessibility
 categories:
   - projects
