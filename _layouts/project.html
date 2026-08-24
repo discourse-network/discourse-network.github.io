@@ -23,6 +23,15 @@ layout: default
       {% endfor %}
       </ul>
     {% endif %}
+    
+    {% if page.team-members %}
+      <p><strong>Team members:</strong></p>
+      <ul>
+      {% for person in page.team-members %}
+        <li>{{ person.name }}, {{ person.org }}</li>
+      {% endfor %}
+      </ul>
+    {% endif %}
 
     {% if page.web-page %}
         <p class="page__date"><strong><i class="fas fa-fw fa-laptop" aria-hidden="true"></i></strong>
