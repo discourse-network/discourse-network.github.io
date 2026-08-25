@@ -6,7 +6,7 @@ layout: project
 lead: Sara Salgueiro Torres
 lead-org: Francis Crick Institute
 co-leads:
-  - name: Georgia Whitton
+  - name: Rebecca walker
     org: Francis Crick Institute
   - name: Ananya Bhalla
     org: Francis Crick Institute/King's College London
