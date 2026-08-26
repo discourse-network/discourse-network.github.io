@@ -15,7 +15,7 @@ co-leads:
 #web-page: optional URL
 ---
 
-This project will deliver the [Crick Data Challenge 2026](https://www.crick.ac.uk/research/innovation-and-business/entrepreneurship-and-training/crick-innovation-challenge), a four-day hackathon-style event designed to support dRTP collaboration in biomedical research.
+This project will deliver the [Crick Data Challenge 2026](https://crickdatachallenge.github.io/website/), a four-day hackathon-style event designed to support dRTP collaboration in biomedical research.
 
 Modern biomedical research runs on increasingly complex datasets, yet the people who generate it and those who analyse it rarely get the chance to work side by side. Collaboration is often siloed – not only between experimental and computational fields, but among digital Research Technical Professionals (dRTPs), who have few opportunities to work across specialisms or research fields outside their day-to-day roles. Now in its ninth edition, this is a four-day hackathon-style event that directly addresses this. Crick scientists submit real, unsolved research problems. Interdisciplinary teams of data scientists across all experience levels – from bioinformaticians to image analysts and software engineers – tackle them together, supported by mentors and onboarding workshops in open, reproducible science.
 
