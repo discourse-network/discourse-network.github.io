@@ -24,6 +24,6 @@ The resources cover four key themes:
 
 - Technical Staff as Partners – resources to strengthen collaboration between technical professionals and academic colleagues.
 
-The Technical Careers Resource Hub is free to access and download, with no registration required, making these resources available to technical professionals and organisations across the sector.
+The Technical Careers Resource Hub is free to access and download, with no registration required, making these resources available to technical professionals and organisations across the sector. 
 
-27 Institutions. 8 Projects. 1 Hub. [Explore the Technical Careers Resource Hub](https://itss.org.uk/technical-careers-resource-hub/?utm_source=chatgpt.com)
+[Explore the Technical Careers Resource Hub](https://itss.org.uk/technical-careers-resource-hub/?utm_source=chatgpt.com)
