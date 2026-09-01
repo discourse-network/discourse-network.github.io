@@ -1,6 +1,6 @@
 ---
 title: "New Technical Careers Resource Hub launched"
-summary-image: "/assets/images/DisCouRSE-Logo-Dark.svg"
+summary-image: "/assets/images/ITSS-logo.jpg"
 summary-image-desc: "DisCouRSE Network+ Logo"  # Used for alt tag on the image; important for accessibility
 categories:
   - technical-careers
