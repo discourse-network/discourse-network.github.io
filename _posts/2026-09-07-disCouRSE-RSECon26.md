@@ -1,6 +1,6 @@
 ---
 title: "DisCouRSE at RSECon26"
-summary-image: "/assets/images/DisCouRSE-Logo-Dark.svg"
+summary-image: "/assets/images/RSE-26.png"
 summary-image-desc: "DisCouRSE Network+ Logo"  # Used for alt tag on the image; important for accessibility
 categories:
   - events
