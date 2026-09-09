@@ -13,7 +13,7 @@ summary: >
 
 _Building Good Practice for Digital Research Collaboration_
 
-As research becomes more digital, how are PRISMs and dRTPs learning to work together? Whether it's AI, large-scale data analysis, research software, digital collections, advanced computing, or new forms of digital methodology, more projects than ever are drawing on the expertise of Digital Research Technical Professionals (dRTPs) and depend on close collaboration between those dRTPs and Professional Research Investment and Strategy Managers (PRISMs)
+As research becomes more digital, how are [PRISMs](https://www.pris-managers.ac.uk/aboutprism) and dRTPs learning to work together? Whether it's AI, large-scale data analysis, research software, digital collections, advanced computing, or new forms of digital methodology, more projects than ever are drawing on the expertise of Digital Research Technical Professionals (dRTPs) and depend on close collaboration between those dRTPs and Professional Research Investment and Strategy Managers (PRISMs)
 
 As these collaborations become more common, many PRISMs and dRTPs are finding themselves navigating new ways of working together, which bring challenges alongside exciting opportunities for research. E.g.: How early should technical teams be involved in a project? What's the best way to scope work and manage expectations? How can projects plan realistically for costs, timelines, and technical input? And, perhaps most fundamentally, how do you even find the right person to talk to when every institution structures its digital research teams differently?
 
