@@ -5,9 +5,6 @@ location: The University of Sheffield (in-person) & online
 layout: event
 web-page: https://rsecon26.society-rse.org/satellite-events/rse-leaders/
 summary: >
-summary: >
-  https://rsecon26.society-rse.org/satellite-events/rse-leaders/
-summary: >
     Join us to network, celebrate successes, and explore challenges across institutions.
     
 ---
