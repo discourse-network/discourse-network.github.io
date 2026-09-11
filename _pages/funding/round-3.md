@@ -199,9 +199,11 @@ The DisCouRSE Management Board will perform an initial review of the application
 
 Applications that are within remit will then be reviewed by an expert review panel convened especially for the call, composed of a mix of members of the Network team and volunteers from a range of dRTP roles, to ensure fairness and balance. Panellists will be required to abide by the [Nolan Principles](https://www.gov.uk/government/publications/the-7-principles-of-public-life). Conflicts of interest will be declared and managed to ensure reviewers are not involved in the scoring or discussion of proposals with which they have a conflict.
 
-Each proposal will be independently scored by 3 members of the panel against the criteria given in the submission form (the bullet point lists labelled “**What the assessors are looking for in your response**”). Panel discussion will then determine a consensus score for each proposal and hence which are considered fundable, and produce brief feedback for applicants.
+Each proposal will be independently scored by 3 members of the panel against the criteria given in the submission form (the bullet point lists labelled “**What the assessors are looking for in your response**”). The scores for each criterion are added to give an overall pre-score, with the Vision scores weighted double. Panel discussion will then determine a consensus score for each proposal and hence which are considered fundable, and produce brief feedback for applicants.
 
-TODO: Describe how our 'strong encouragement' will influence scoring. E.g. proposals not in a focus area can't score more than 'partially met' for vision? Vision score is then double-weighted?
+We [strongly encourage particular kinds of proposal above](#what-were-looking-for).
+These focus areas are taken into account when scoring the Vision section of proposals.
+Submissions outside a focus area are still permitted, but will not score higher than 'partially met' for fit to the remit of the call, and will therefore be less competitive.
 
 Any proposal which does not achieve at least an average score of 'partially met' on each criterion may be rejected as unfundable, regardless of its overall score.
 
