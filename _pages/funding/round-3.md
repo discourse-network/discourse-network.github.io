@@ -9,7 +9,7 @@ sidebar:
     text: "[Answers to common questions](/funding/round-3/faq) are available and will be added to over time."
   - title: Guidance for applicants
     text: Tips and explanations about [navigating institutional processes](/funding/guide)
-  # - title: "Q&A Webinar"
+  # - title: "Q&A Webinar" (TODO)
     # text: ":calendar: Thurs 7<sup>th</sup> May 2026, 10:00 GMT<br>[Slides](https://liveuclac-my.sharepoint.com/:b:/g/personal/cceacoo_ucl_ac_uk/IQA1KvMf3FeTTJswK0Ph0bj1ARxZ89Ntwt5k6_0y6Km4RUc?e=c2zecO) and [recording](https://liveuclac-my.sharepoint.com/:v:/g/personal/cceacoo_ucl_ac_uk/IQC5eRdxw9qESpfonHRg3l2RAbYRt8iD720ma0UKPbNXg4g?e=IZtbZf) available"
   # - title: Apply now
     # text: |
@@ -20,7 +20,7 @@ toc_sticky: true
 
 The second round of the DisCouRSE Network's Flexible Funding scheme is about to open, and closes at **16:00 GMT on 11<sup>th</sup> December 2026**.
 
-<!-- [Submit your application](https://discourse.grantplatform.com){:.btn .btn--primary} -->
+<!-- [Submit your application](https://discourse.grantplatform.com){:.btn .btn--primary} (TODO) -->
 
 # Key Dates
 
@@ -49,9 +49,21 @@ This third call has **two strands**:
 1. **Pilot projects** in any area relevant to DisCouRSE’s aims. This category is focused on enabling and exploring new ideas, so we are particularly seeking applications from organisations that have not yet received DisCouRSE funding.
 2. **Growth projects** building on **previous DisCouRSE funding** or **existing community initiatives**, particularly in one of the focus areas set out below.
 
-TODO: Update the below with our focus areas for this round.
+With pilot projects we are looking for novel ideas from the community, and hence welcome a wide range of proposal topics or approaches, provided they are relevant to DisCouRSE's overall aims. We especially want to expand the DisCouRSE network beyond our current contacts, so proposals from new individuals, organisations, or communities will be prioritised in our [review process](#how-we-will-assess-your-application).
 
-Strands 1 and 2 invite a wide range of proposals relevant to DisCouRSE’s aims, with the intent to be open to ideas from the community. The following examples are therefore merely illustrative. Proposals might seek to generalise or adapt existing training material such that it could form part of our planned DisCouRSE “dRTP Leadership Training Programme”. Proposals to develop new material should clearly evidence how it is differentiated from existing offerings and why it is needed. Pilot projects under this call could focus on data collection and analysis to evidence an unmet need, for instance, or bring together existing training providers to do joint activities and produce a common catalogue of available leadership and management training for dRTPs. Applications could propose to deliver existing courses for a cohort of (aspiring) dRTP leaders, run workshops to improve [the DIRECT competencies framework](https://directframework.com/) and its utility for community members, or further develop the associated tooling. Pump-priming projects could seek to expand career opportunities for senior dRTPs within an institution or network, or work on a business case to senior management to do so. Pathfinder projects could create, test, or disseminate innovative leadership practices using appropriate inclusive approaches such as hackathons, unconferences, quick prototyping, participatory design, or open feedback.
+For growth projects we **strongly encourage** projects in one of the following areas, with such proposals prioritised for funding:
+
+1. working to implement dRTP career pathways in groups or organisations where they are limited or non-existent (linking to the work of other [DRI projects](https://www.cake.ac.uk/landscape/skills) such as [SCALE-UP](https://www.cake.ac.uk/landscape-skills-careers/scale-up/) or [TSN](https://itss.org.uk/tsn/) in this area could be beneficial),
+2. community building among leaders in under-represented (within the DisCouRSE Network) professions,
+3. environmental dRTP leadership,
+4. expanding the use and broader uptake of the [DIRECT web app](https://directframework.com/),
+5. developing or delivering dRTP leadership training.
+
+Any project proposing to create or deliver training **must**:
+
+1. include a [sustainability plan](#longer-projects-and-sustainability-plans),
+2. align to [DIRECT](https://directframework.com/) in respect of learning outcomes, and
+3. work with the [dRTP Skills Landscape Coordination Group](https://zenodo.org/records/21496700) to ensure complementarity with existing initiatives. Contact [Adrian Harwood](mailto:adrian.harwood@manchester.ac.uk) to discuss your project before submission.
 
 ## General principles
 
@@ -66,12 +78,22 @@ You must adhere to [UKRI open research policy](https://www.ukri.org/manage-your-
 - We anticipate funding:
     - **up to 4 pilot projects**, each with a budget of **up to £15k at 100% full economic cost** (fEC) level; and
     - at least **3 growth projects**, each with a maximum budget of **£50k at 100% fEC**.
+- Projects are encouraged to ask for less than the maximum budget if they do not need it to deliver their goals, so that we can fund more projects. We will ask for revised budgets if costs are not well justified.
 - Except where noted below, applicants will be awarded 80% of the full cost, and the institution receiving the award is responsible for the remaining 20%.
     - Note that estates costs and indirects associated with staff posts **are eligible and encouraged** to include in the budget except as described below.
     - When invoices are submitted they should be for 80% of the full cost and a statement should also be submitted showing the full cost.
 - Projects should start between 01/03/2027 and 01/05/2027.
 - Pilot projects must be at most 1 year in duration.
-- Growth projects can run until the end of September 2028, but if the duration is over 1 year, there must be a long-term sustainability plan with the expectation of tapering support from DisCouRSE as other funding sources kick in after the first year.
+- Growth projects can run until the end of September 2028
+
+## Longer projects and sustainability plans
+
+Growth projects seeking to run for over 1 year, or projects developing or delivering leadership training, must include a long-term sustainability plan in their application.
+This does not need to be detailed, but it must give some indication of how the project's activity could be continued beyond the end of DisCouRSE funding.
+
+Where a project seeks DisCouRSE funding for more than 1 year, this is intended to be on a tapering basis, whereby DisCouRSE provides full funding for the first year of activity, but there is a plan to seek partial funding from other sources thereafter which can take over fully when DisCouRSE finishes (September 2028). The aim is to avoid a cliff edge scenario whereby funding and activity stop completely when DisCouRSE support is withdrawn.
+
+Note that a guarantee of other funding **is not required** to receive funding from DisCouRSE in this round. However you must include a realistic plan for how you will seek funding within your proposal.
 
 ## What costs are eligible
 
