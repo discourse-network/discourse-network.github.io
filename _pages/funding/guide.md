@@ -17,7 +17,7 @@ Every institution has internal processes for developing, costing and approving g
 
 These people will help you put together the costings, make sure the correct funding scheme is used, and will help to arrange the necessary approvals. If you are the lead applicant, you will need to receive costings from any collaborators or partner organisations.
 
-# Understanding Costing Tools
+# Understanding costing tools
 
 Most institutions use internal costing systems, such as WorkTribe or PURE, to prepare funding applications. These tools calculate:
 
@@ -60,7 +60,7 @@ For applicants, the most important questions are:
 
 Research support and finance teams can explain how these arrangements work within your organisation.
 
-# Supporting Applications from RTPs
+# Supporting applications from RTPs
 
 Funding opportunities have traditionally been associated with academic staff, but many funders increasingly recognise the value of applications led by research-enabling, technical and professional services colleagues. This is especially true for DisCouRSE!
 
@@ -68,7 +68,7 @@ As mentioned above, in 2023 UKRI changed the roles/responsibilities section, exp
 
 For example, RTP roles such as a research software engineer, data scientist, project manager or other technical professional making a direct contribution to the delivery of research should generally be costed in a way that reflects their research role, rather than being treated simply as administrative support. Incorrect classification can result in an inaccurate representation of project resources and may affect the level of cost recovery available to the organisation.
 
-# Internal Approval and Sign-Off
+# Internal approval and sign-off
 
 Most institutions require formal approval before submission. It is important that internal approval is received to avoid any delays if the grant is successful. Internal approvals can take longer than expected, particularly where commitments of institutional resources or matched funding are required.
 

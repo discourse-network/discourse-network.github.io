@@ -9,7 +9,7 @@ sidebar:
   - title: Round 2
     text: Our [second funding round](/funding/round-2) closed in June 2026. Explore the [funded projects](/projects).
   - title: Round 3
-    text: Our [second funding round](/funding/round-3) is open for applications from 21 September until 11 December 2026.
+    text: Our [third funding round](/funding/round-3) is open for applications from 21 September until 11 December 2026.
   - title: Guidance for applicants
     text: Tips and explanations about [navigating institutional processes](/funding/guide)
   - title: Volunteer to review
