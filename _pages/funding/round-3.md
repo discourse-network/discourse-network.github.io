@@ -7,6 +7,8 @@ sidebar:
     text: "<ul><li>Call opens 21 September 2026.</li><li>Submission deadline Friday 11 December 2026 at 16:00 GMT.</li></ul>"
   - title: FAQs
     text: "[Answers to common questions](/funding/round-3/faq) are available and will be added to over time."
+  - title: Guidance for applicants
+    text: Tips and explanations about [navigating institutional processes](/funding/guide)
   # - title: "Q&A Webinar"
     # text: ":calendar: Thurs 7<sup>th</sup> May 2026, 10:00 GMT<br>[Slides](https://liveuclac-my.sharepoint.com/:b:/g/personal/cceacoo_ucl_ac_uk/IQA1KvMf3FeTTJswK0Ph0bj1ARxZ89Ntwt5k6_0y6Km4RUc?e=c2zecO) and [recording](https://liveuclac-my.sharepoint.com/:v:/g/personal/cceacoo_ucl_ac_uk/IQC5eRdxw9qESpfonHRg3l2RAbYRt8iD720ma0UKPbNXg4g?e=IZtbZf) available"
   # - title: Apply now
@@ -153,6 +155,15 @@ The project lead is responsible for completing the application process but we ex
 
 The submission platform also allows you to download a copy of your submitted application, or withdraw it by choosing the “Delete” action.
 More [guidance on using the platform in general is available from GoodGrants](https://help.goodgrants.com/hc/en-gb/articles/4405817472271-Ultimate-guide-for-applicants).
+
+## Help in applying
+
+Many dRTPs have not been accustomed to leading research grants, and their organisation's processes may not be set up to make it easy for them.
+Part of the motivation for the DisCouRSE flexible fund is to change this situation!
+We have prepared some [guidance for applicants](/funding/guide) on typical issues to watch out for, and what some of the terminology you may encounter means.
+
+We are also launching a mentoring scheme with round 3 whereby the DisCouRSE management team or previous applicants can provide direct assistance.
+If this is of interest to you then [get in touch](mailto:arc.discourse@ucl.ac.uk).
 
 # How we will assess your application
 

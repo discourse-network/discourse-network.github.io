@@ -10,6 +10,8 @@ sidebar:
     text: Our [second funding round](/funding/round-2) closed in June 2026. Explore the [funded projects](/projects).
   - title: Round 3
     text: Our [second funding round](/funding/round-3) is open for applications from 21 September until 11 December 2026.
+  - title: Guidance for applicants
+    text: Tips and explanations about [navigating institutional processes](/funding/guide)
   - title: Volunteer to review
     text: Fill in your details at <https://forms.office.com/e/KB10mVSAZZ>
 ---
@@ -30,3 +32,12 @@ We always welcome volunteers to review applications in our funding rounds, givin
 2. The [second round](/funding/round-2) closed at **16:00 BST, 5<sup>th</sup> June 2026**.
 3. The [third round](/funding/round-3) will open on 21<sup>st</sup> September 2026, with a closing date of **16:00 GMT, 11<sup>th</sup> December 2026**.
 4. The fourth round is expected in **spring 2027**.
+
+## Help in applying
+
+Many dRTPs have not been accustomed to leading research grants, and their organisation's processes may not be set up to make it easy for them.
+Part of the motivation for the DisCouRSE flexible fund is to change this situation!
+We have prepared some [guidance for applicants](/funding/guide) on typical issues to watch out for, and what some of the terminology you may encounter means.
+
+We are also launching a mentoring scheme with round 3 whereby the DisCouRSE management team or previous applicants can provide direct assistance.
+If this is of interest to you then [get in touch](mailto:arc.discourse@ucl.ac.uk).
