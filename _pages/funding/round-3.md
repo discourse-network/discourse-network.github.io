@@ -53,7 +53,7 @@ With pilot projects we are looking for novel ideas from the community, and hence
 
 For growth projects we **strongly encourage** projects in one of the following areas, with such proposals prioritised for funding:
 
-1. working to implement dRTP career pathways in groups or organisations where they are limited or non-existent (linking to the work of other [DRI projects](https://www.cake.ac.uk/landscape/skills) such as [SCALE-UP](https://www.cake.ac.uk/landscape-skills-careers/scale-up/) or [TSN](https://itss.org.uk/tsn/) in this area could be beneficial),
+1. working to implement dRTP career pathways in groups or organisations where they are limited or non-existent (linking to the work of other [DRI projects](https://www.cake.ac.uk/landscape/skills) such as [SCALE-UP](https://www.cake.ac.uk/landscape-skills-careers/scale-up/) or [TSN](https://itss.org.uk/tsn/) in this area could be beneficial) and building up an evidence bank for others to leverage,
 2. community building among leaders in under-represented (within the DisCouRSE Network) professions,
 3. environmental dRTP leadership,
 4. expanding the use and broader uptake of the [DIRECT web app](https://directframework.com/),
