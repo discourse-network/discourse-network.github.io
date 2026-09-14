@@ -18,7 +18,7 @@ toc: true
 toc_sticky: true
 ---
 
-The second round of the DisCouRSE Network's Flexible Funding scheme is about to open, and closes at **16:00 GMT on 11<sup>th</sup> December 2026**.
+The third round of the DisCouRSE Network's Flexible Funding scheme is about to open, and closes at **16:00 GMT on 11<sup>th</sup> December 2026**.
 
 <!-- [Submit your application](https://discourse.grantplatform.com){:.btn .btn--primary} (TODO) -->
 
