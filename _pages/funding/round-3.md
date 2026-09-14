@@ -93,7 +93,7 @@ This does not need to be detailed, but it must give some indication of how the p
 
 Where a project seeks DisCouRSE funding for more than 1 year, this is intended to be on a tapering basis, whereby DisCouRSE provides full funding for the first year of activity, but there is a plan to seek partial funding from other sources thereafter which can take over fully when DisCouRSE finishes (September 2028). The aim is to avoid a cliff edge scenario whereby funding and activity stop completely when DisCouRSE support is withdrawn.
 
-Note that a guarantee of other funding **is not required** to receive funding from DisCouRSE in this round. However you must include a realistic plan for how you will seek funding within your proposal.
+Note that a guarantee of other funding **is not required** to receive funding from DisCouRSE in this round. However you must include a realistic plan for how you will seek funding within your proposal (e.g. projections of training activities at a fee, internal support, external schemes to target).
 
 ## What costs are eligible
 
