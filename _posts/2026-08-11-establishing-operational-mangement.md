@@ -33,4 +33,9 @@ Over the course of the 5 month project, a Community of Practice for dRTP Resourc
 
 "Without the project funding we wouldn’t have been able to dedicate the time required to go down the path of Open Sourcing the code for CapX, or to be able to initiate working with colleagues in other institutions to get the Community of Practice off the ground. Ultimately we’ve put in far more hours than we got funding for, but it certainly helped offset the associated staff costs and also helped focus our efforts.”  
 
+## How to get involved
+
+If you manage, lead, coordinate or support a digital research technical group, we would like to hear from you, especially if you are not an RSE group! The community is open to people working across the wider dRTP landscape who want to share practice, explore common challenges, contribute ideas, or adopt outputs developed through the project. You can find out more about dRTP COMPASS, follow the project’s progress and access emerging resources via the [community website](https://uomresearchit.github.io/DRTP-Op-Man-CoP-Website/).
+Whether you want to contribute to the development of CapX, compare operational models, test emerging resources, or simply connect with others facing similar questions, dRTP COMPASS is an opportunity to shape something useful for the sector. We hope you will join us. For more information, contact Phil Bradbury Phil.Bradbury@manchester.ac.uk or Adrian Harwood adrian.harwood@manchester.ac.uk at the University of Manchester.
+
 **Phil Bradbury, Project PI, Research Software Engineer**
