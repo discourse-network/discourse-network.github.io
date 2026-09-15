@@ -19,4 +19,4 @@ The project aims to:
 - Create scalable, reusable training resources for UK HE and FE institutions
 
 
-Overall, the project will strengthen the role of librarians as digital research data champions, support career development in data-driven education, improve access to UKDS data and resources for students and staff, and contribute to a more data-literate academic community.
+Overall, the project will strengthen the role of librarians as digital research data champions, support career development in data-driven education, improve access to UKDS data and resources for students and staff, and contribute to a more data-literate academic community. Visit the Train to Transform [project website](https://ukdataservice.ac.uk/about/research-and-development/traintotransform/).
