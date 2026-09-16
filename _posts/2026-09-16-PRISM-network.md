@@ -1,6 +1,6 @@
 ---
 title: "DisCouRSE supports PRISM Network Conference 2026"
-summary-image: "/assets/images/PRISM-network.png"
+summary-image: "/assets/images/PRISM-network.png" 
 summary-image-desc: "DisCouRSE Network+ Logo"  # Used for alt tag on the image; important for accessibility
 categories:
   - events
