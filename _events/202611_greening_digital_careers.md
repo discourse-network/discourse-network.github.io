@@ -1,6 +1,6 @@
 ---
 
-title: "Defining Leadership in Environmental Sustainability in dRTP Roles"
+title: "Defining Leadership in Environmental Sustainability in Digital Research"
 date: 2026-11-17
 location: Bayes Centre, University of Edinburgh
 layout: event
