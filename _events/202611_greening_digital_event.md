@@ -32,5 +32,4 @@ Data submitted through the registration form will be stored on **UCL SharePoint*
 
 [Register for the focus group](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwpofFxJMT1lCmEeJoickqdhUMFlFNktPUk00WVVHQkVXT1o1Tlk4SVBVWiQlQCN0PWcu).
 
-## Learn more about the [DisCouRSE network](https://discourse-network.github.io/).
 
