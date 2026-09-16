@@ -9,7 +9,7 @@ summary: >
 
 ---
 
-The **DisCouRSE Focus Group: Defining Leadership in Environmental Sustainability in dRTP Roles** will bring together researchers, digital Research Technical Professional leaders, educators, and sustainability experts to explore how **digital Research Technical Professionals (dRTPs)** can influence and accelerate environmental sustainability across digital research.
+This Focus Group will bring together researchers, digital Research Technical Professional leaders, educators, and sustainability experts to explore how digital Research Technical Professionals (dRTPs) can be supported to influence and accelerate environmental sustainability across digital research.
 
 Supported by the **DisCouRSE network**, the focus group will explore the activities, responsibilities, and roles through which dRTPs can become sustainability leaders in their field.
 
@@ -22,9 +22,11 @@ The workshop will focus on:
 
 The focus group will bring together perspectives from across research, technical leadership, education, and sustainability to explore the opportunities and challenges involved in making environmental sustainability part of digital research practice.
 
-The event is supported by **DisCouRSE**, a network focused on developing and supporting the digital Research Technical Professional community.
+The focus group will take place:
 
-The focus group will take place **in person at the Bayes Centre, University of Edinburgh**, in the **Ground Floor Meeting Room**. The event will run from **9.30 am to 4.00 pm on Tuesday 17 November 2026**. There will be **no hybrid or online attendance option**.
+- **Where:** Bayes Centre, University of Edinburgh — Ground Floor Meeting Room
+- **When:** Tuesday 17 November 2026, **9.30 am (coffee) 10 am –4.00 pm**
+- **Format:** **In person only** — there will be no hybrid or online attendance option
 
 Places are limited to **40 attendees**. If demand exceeds capacity, applicants will be selected to ensure a range of roles, institutions, and career stages are represented.
 
