@@ -95,6 +95,28 @@ Where a project seeks DisCouRSE funding for more than 1 year, this is intended t
 
 Note that a guarantee of other funding **is not required** to receive funding from DisCouRSE in this round. However you must include a realistic plan for how you will seek funding within your proposal (e.g. projections of training activities at a fee, internal support, external schemes to target).
 
+# Who can apply
+
+Standard [UKRI eligibility rules apply](https://www.ukri.org/councils/stfc/guidance-for-applicants/check-if-youre-eligible-for-funding/eligibility-of-applicants/), except that project leads and co-leads **do not need to be academic members of staff**. Your application must be led by an employed member of staff in a [UK-based organisation](https://www.ukri.org/apply-for-funding/before-you-apply/find-out-if-you-can-apply-for-funding). Eligible organisations include, but **are not limited to**:
+
+1. UK higher education institutions;
+2. research council institutes;
+3. UKRI-approved independent research organisations;
+4. public sector research establishments;
+5. NHS bodies with research capacity.
+
+In addition, projects **must be dRTP-led**. For a non-exhaustive list of dRTP roles, see <https://discourse-network.github.io/who>. Projects that cross profession or discipline, or are led by an aspiring leader with a more experienced mentor, are particularly welcomed.
+
+You may not submit more than one application to this call as project lead.
+
+# Costing principles
+
+UK research organisations will be funded at 80% of the full economic cost (fEC). This includes Directly Allocated and Indirect costs.
+
+On a single application, the combined costs of all collaborating organisations from UK business, third sector, government organisations and any international partners must not exceed 50% of the total fEC of the grant application (at 100% fEC). In addition, no more than 75% of the number of leads and co-leads can be from such organisations.
+
+It is the responsibility of the project lead to ensure that all collaborators are from an organisation eligible to receive, and with appropriate systems in place to manage, the funding provided.
+
 ## What costs are eligible
 
 We will fund:
@@ -111,28 +133,6 @@ We will not fund:
 - studentship costs
 - facilities costs
 - laptops and similar standard IT equipment
-
-# Who can apply
-
-Standard [UKRI eligibility rules apply](https://www.ukri.org/councils/stfc/guidance-for-applicants/check-if-youre-eligible-for-funding/eligibility-of-applicants/), except that project leads and co-leads **do not need to be academic members of staff**. Your application must be led by an employed member of staff in a [UK-based organisation](https://www.ukri.org/apply-for-funding/before-you-apply/find-out-if-you-can-apply-for-funding). Eligible organisations include, but **are not limited to**:
-
-1. UK higher education institutions;
-2. research council institutes;
-3. UKRI-approved independent research organisations;
-4. public sector research establishments;
-5. NHS bodies with research capacity.
-
-In addition, projects **must be dRTP-led**. For a non-exhaustive list of dRTP roles, see <https://discourse-network.github.io/who>. Projects that cross profession or discipline, or are led by an aspiring leader with a more experienced mentor, are particularly welcomed.
-
-You may not submit more than one application to this call as project lead.
-
-## Costing principles
-
-UK research organisations will be funded at 80% of the full economic cost (fEC). This includes Directly Allocated and Indirect costs.
-
-On a single application, the combined costs of all collaborating organisations from UK business, third sector, government organisations and any international partners must not exceed 50% of the total fEC of the grant application (at 100% fEC). In addition, no more than 75% of the number of leads and co-leads can be from such organisations.
-
-It is the responsibility of the project lead to ensure that all collaborators are from an organisation eligible to receive, and with appropriate systems in place to manage, the funding provided.
 
 ## Business, third sector or government body collaborations
 
