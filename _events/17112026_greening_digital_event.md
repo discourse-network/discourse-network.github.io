@@ -6,7 +6,6 @@ location: Bayes Centre, University of Edinburgh
 layout: event
 web-page: https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwpofFxJMT1lCmEeJoickqdhUMFlFNktPUk00WVVHQkVXT1o1Tlk4SVBVWiQlQCN0PWcu
 summary: >
-A focus group exploring how digital Research Technical Professionals (dRTPs) can influence and accelerate environmental sustainability across digital research, and how sustainability leadership can be defined within dRTP roles.
 
 ---
 
