@@ -35,4 +35,6 @@ By supporting the PRISM Network Conference, DisCouRSE is helping create opportun
 
 The conference is open to all, with PRISM Network members receiving priority for in-person attendance.
 
-[Register for the PRISM Network Conference 2026](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwpofFxJMT1lCmEeJoickqdhUOVZPOFNUSUczUzBPWDQxVVQ0SERWSDZYQSQlQCN0PWcu)
+## Find out more
+
+For more information about the conference, including the full programme, registration details and practical information for attendees, check out the event on our [Events page](https://discourse-network.github.io/events/202611-prism-drtp-focus-group/).
