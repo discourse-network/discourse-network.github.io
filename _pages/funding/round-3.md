@@ -69,6 +69,9 @@ Any project proposing to create or deliver training **must**:
 
 Proposals must demonstrate how the relevant dRTP community will be involved in their activities and a range of participation ensured, meeting EDI requirements. To meet our community building aims and avoid insularity, joint submissions are strongly encouraged. When building on or contributing to existing initiatives, prior engagement must be demonstrated. The involvement of expertise in co-production approaches is advised where appropriate.
 
+We do not require formal letters of support from project partners or community initiatives you are engaging with.
+However funding may be withdrawn if we discover false claims of support or engagement within your proposal.
+
 You must adhere to [UKRI open research policy](https://www.ukri.org/manage-your-award/publishing-your-research-findings/making-your-research-publications-open-access/) and [UKRI responsible innovation policies and guidance](https://www.ukri.org/about-us/policies-standards-and-data/good-research-resource-hub/responsible-innovation/). Projects will be expected to commit to open-source, open-data and open-innovation guidelines, and make all project outputs available to the dRTP community. If you require any constraints on this, you must justify why these are appropriate and beneficial for the community.
 
 [UKRI’s environmental sustainability strategy](https://www.ukri.org/publications/ukri-environmental-sustainability-strategy/) underpins our ambition to actively lead environmental sustainability as part of leadership development in dRTP roles, and we expect you to embed careful consideration of environmental sustainability in your project as appropriate. Your work may be informed by the [GreenDiSC](https://www.software.ac.uk/GreenDiSC), [GreenAlgorithms](https://www.green-algorithms.org/), and [NetDRIVE](https://eng.ox.ac.uk/netdrive/) initiatives.
