@@ -1,6 +1,6 @@
 ---
 
-title: "DisCouRSE Focus Group: Defining Leadership in Environmental Sustainability in dRTP Roles"
+title: "Defining Leadership in Environmental Sustainability in dRTP Roles"
 date: 2026-11-17
 location: Bayes Centre, University of Edinburgh
 layout: event
