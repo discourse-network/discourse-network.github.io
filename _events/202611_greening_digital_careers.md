@@ -1,6 +1,6 @@
 ---
 
-title: "Defining "Green" Leadership in Digital Research"
+title: "Defining \"Green\" Leadership in Digital Research"
 date: 2026-11-17
 location: Bayes Centre, University of Edinburgh
 layout: event
