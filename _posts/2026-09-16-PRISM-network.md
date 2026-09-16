@@ -27,8 +27,6 @@ Organised by the King's Digital Lab, the PRISM–digital Research Technical Prof
 
 The workshop will use practical cases and facilitated exercises to help participants develop approaches that can be applied to live research projects. It is aimed at PRISMs who already work with digital research specialist teams, or who are looking to develop their experience in this area.
 
-[Find out more about the PRISM–dRTP Focus Group](https://www.pris-managers.ac.uk/prism-network-conference-2026)
-
 ## Supporting the digital research community
 
 By supporting the PRISM Network Conference, DisCouRSE is helping create opportunities for research professionals to build digital skills, exchange knowledge and strengthen connections across the research community.
