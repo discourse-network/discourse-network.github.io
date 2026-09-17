@@ -25,7 +25,7 @@ DisCouRSE is also supporting activity around the conference through a satellite 
 
 Organised by the King's Digital Lab, the PRISM–digital Research Technical Professional (dRTP) Focus Group is an advanced practitioner workshop exploring the interface between PRISMs and digital research technical professionals.
 
-The workshop will use practical cases and facilitated exercises to help participants develop approaches that can be applied to live research projects. It is aimed at PRISMs who already work with digital research specialist teams, or who are looking to develop their experience in this area.
+The workshop will use practical cases and facilitated exercises to help participants develop approaches that can be applied to live research projects. It is aimed at PRISMs who already work with digital research specialist teams, or who are looking to develop their experience in this area. For more information about the satellite event visit our [Events page](https://discourse-network.github.io/events/202611-prism-drtp-focus-group/).
 
 ## Supporting the digital research community
 
