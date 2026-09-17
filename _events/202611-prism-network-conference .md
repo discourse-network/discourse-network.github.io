@@ -4,7 +4,7 @@ date: 2026-11-25
 location: The Great Hall, King's College London 
 # location-link: https://www.kcl.ac.uk/visit/strand-building
 layout: event
-web-page: https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwpofFxJMT1lCmEeJoickqdhUOVZPOFNUSUczUzBPWDQxVVQ0SERWSDZYQSQlQCN0PWcu
+web-page: https://www.eventbrite.co.uk/e/prism-network-conference-2026-digital-prisms-digital-research-tickets-2000379599230?aff=oddtdtcreator&_gl=1*txlydh*_up*MQ..*_ga*MjU1NjU5MjM4LjE3ODkwMzA0NTk.*_ga_TQVES5V6SH*czE3ODkwMzA0NTgkbzEkZzEkdDE3ODkwMzA0NjYkajUyJGwwJGgw
 summary: 
    As research is becoming more digital, how are the skills and knowledge expected of PRISMs changing? The 4th PRISM Network conference focuses on upskilling members to be ready for managing research investments with a strong digital component.
 ---
