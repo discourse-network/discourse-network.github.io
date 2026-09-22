@@ -6,7 +6,6 @@ categories:
   - flexible fund
 ---
 
------
 **Submissions close at 16:00 GMT on Friday 11th December 2026** for our latest call, which allows longer and larger projects than before.
 [Full details](https://discourse-network.github.io/funding/round-3), and more background below.
 
