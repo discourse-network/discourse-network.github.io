@@ -9,7 +9,7 @@ categories:
 **Submissions close at 16:00 GMT on Friday 11th December 2026** for our latest call, which allows longer and larger projects than before.
 [Full details can be found here](https://discourse-network.github.io/funding/round-3), with a summary and some background below.
 
-We are also inviting individuals to apply for our **free leadership programme** - visit _link TBC_ for more about this. It has an earlier deadline of **8th November**.
+We are also inviting individuals to apply for our **free leadership programme** - visit [our news article](/news/2026/09/23/discourse-launches-free-leadership-programme-drtp/) for more about this. It has an earlier deadline of **8th November**.
 
 The DisCouRSE Network+ project aims to encourage and support the development of leaders of all kinds across all **digital Research Technical Professional (dRTP) roles**, primarily within the UK, resulting in an empowered and connected community equipped to shape the future of digital research. We have a twin focus on **leadership training** and **dRTP career pathways** – preparing the next generation of leaders and ensuring roles exist for them to lead within.
 
