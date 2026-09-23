@@ -62,4 +62,7 @@ If you are looking to develop your leadership skills, take the next step in your
 **Applications close at midnight on 8 November 2026.**
 
 [Apply for the leadership programme](https://discourse.grantplatform.com/)
-```
+
+## Questions?
+
+Contact [DisCouRSE co-lead Adrian Harwood](mailto:adrian.harwood@manchester.ac.uk).
