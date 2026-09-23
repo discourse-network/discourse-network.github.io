@@ -64,7 +64,7 @@ If you are looking to develop your leadership skills, take the next step in your
 
 **Applications close at midnight on 8 November 2026.**
 
-[Apply for the leadership programme](https://discourse.grantplatform.com/)
+[Apply for the leadership programme](https://discourse.grantplatform.com/){:.btn .btn--primary}
 
 ## Questions?
 
