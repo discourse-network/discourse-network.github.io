@@ -7,7 +7,7 @@ categories:
 ---
 
 **Submissions close at 16:00 GMT on Friday 11th December 2026** for our latest call, which allows longer and larger projects than before.
-[Full details can be found here](https://discourse-network.github.io/funding/round-3), with a summary and some background below.
+[Full details can be found here](/funding/round-3), with a summary and some background below.
 
 We are also inviting individuals to apply for our **free leadership programme** - visit [our news article](/news/2026/09/23/discourse-launches-free-leadership-programme-drtp/) for more about this. It has an earlier deadline of **8th November**.
 
