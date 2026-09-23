@@ -23,7 +23,7 @@ Applicants will be notified whether they have a place by 1st December 2026.
 
 Applicants will use a **single application form** and will be matched to the programme that best suits their experience and development needs.
 
-## Aspiring Leaders
+### Aspiring Leaders
 
 A foundational programme designed for dRTPs who are preparing to take their first leadership role or want to strengthen their leadership foundations.
 
