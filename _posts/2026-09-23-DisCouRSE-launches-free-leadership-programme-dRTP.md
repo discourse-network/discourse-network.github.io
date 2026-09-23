@@ -10,7 +10,7 @@ categories:
 ---
 DisCouRSE is offering **32 fully funded places** across two complementary leadership development programmes for digital Research Technical Professionals (dRTPs), taking place in the **first half of 2027**.
 
-Whether you are already leading people, services or communities, or preparing to take your first leadership step, these programmes will provide an opportunity to develop practical leadership skills, apply learning to real workplace challenges and build a supportive peer network.
+Whether you are already leading people, services or communities, or preparing to take your first leadership step, these programmes will provide an opportunity to develop practical leadership skills, apply learning to real workplace challenges, and build a supportive peer network.
 
 **Applications are open now and close at midnight on 8 November 2026.**
 
