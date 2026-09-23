@@ -25,7 +25,7 @@ This third call has **two strands**:
     4. expanding the use and broader uptake of the [DIRECT web app](https://directframework.com/),
     5. developing or delivering dRTP leadership training.
 
-For this round we analysed round 1 & 2 projects to see what we want to build on and where key gaps are, and we will prioritise funding work in these areas. For example, we [recently presented interim results from our interviews with dRTP group leaders on career pathways](https://zenodo.org/records/22274120) and would be keen to see other groups follow the lead of [Christine's round 1 project](https://discourse-network.github.io/projects/1-35-promotion-pathways/) trying to extend the career ladder within their organisation. This will help us build a larger evidence bank for others to leverage.
+For this round we analysed round 1 & 2 projects to see what we want to build on and where key gaps are, and we will prioritise funding work in these areas. For example, we [recently presented interim results from our interviews with dRTP group leaders on career pathways](https://zenodo.org/records/22274120) and would be keen to see other groups follow the lead of [Christine's round 1 project](/projects/1-35-promotion-pathways/) trying to extend the career ladder within their organisation. This will help us build a larger evidence bank for others to leverage.
 
 Several round 1 and 2 projects have looked to use or extend the DIRECT competencies framework in different ways, and we also funded [further development of the DIRECT web app](https://discourse-network.github.io/projects/2-51-DIRECT-web-development/). Round 3 seeks to continue this work, particularly embedding the framework as a valuable tool in career development for dRTPs.
 
