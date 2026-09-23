@@ -7,7 +7,7 @@ categories:
   - projects
 ---
 
-
+---
 DisCouRSE is offering **32 fully funded places** across two complementary leadership development programmes for digital Research Technical Professionals (dRTPs), taking place in the **first half of 2027**.
 
 Whether you are already leading people, services or communities, or preparing to take your first leadership step, these programmes will provide an opportunity to develop practical leadership skills, apply learning to real workplace challenges and build a supportive peer network.
@@ -20,7 +20,7 @@ Whether you are already leading people, services or communities, or preparing to
 
 Applicants will use a **single application form** and will be matched to the programme that best suits their experience and development needs.
 
-### Aspiring Leaders
+## Aspiring Leaders
 
 A foundational programme designed for dRTPs who are preparing to take their first leadership role or want to strengthen their leadership foundations.
 
@@ -31,7 +31,7 @@ The programme will focus on areas including:
 - Communication
 - Influence
 
-### Established Leaders
+## Established Leaders
 
 A strategic, action-learning programme for dRTPs who are already leading teams, services or communities.
 
