@@ -7,7 +7,6 @@ categories:
   - projects
 ---
 
-# Free leadership development for digital Research Technical Professionals
 
 DisCouRSE is offering **32 fully funded places** across two complementary leadership development programmes for digital Research Technical Professionals (dRTPs), taking place in the **first half of 2027**.
 
