@@ -7,7 +7,7 @@ categories:
 ---
 
 **Submissions close at 16:00 GMT on Friday 11th December 2026** for our latest call, which allows longer and larger projects than before.
-[Full details](https://discourse-network.github.io/funding/round-3), and more background below.
+[Full details can be found here](https://discourse-network.github.io/funding/round-3), with a summary and some background below.
 
 We are also inviting individuals to apply for our **free leadership programme** - visit _link TBC_ for more about this. It has an earlier deadline of **8th November**.
 
