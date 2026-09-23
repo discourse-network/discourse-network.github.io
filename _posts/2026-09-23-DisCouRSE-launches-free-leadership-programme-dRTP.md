@@ -49,6 +49,8 @@ The programmes will be delivered in partnership with two experienced organisatio
 
 There will be **32 fully funded places** available in the initial run across the two programmes, and **travel bursaries are available** to support participation.
 
+Certificates and digital badges will be issued to successful applicants who complete a programme in its entirety.
+
 ## Who can apply?
 
 The programmes are aimed at **digital Research Technical Professionals (dRTPs)** at different stages of their leadership journey.
