@@ -27,7 +27,7 @@ This third call has **two strands**:
 
 For this round we analysed round 1 & 2 projects to see what we want to build on and where key gaps are, and we will prioritise funding work in these areas. For example, we [recently presented interim results from our interviews with dRTP group leaders on career pathways](https://zenodo.org/records/22274120) and would be keen to see other groups follow the lead of [Christine's round 1 project](/projects/1-35-promotion-pathways/) trying to extend the career ladder within their organisation. This will help us build a larger evidence bank for others to leverage.
 
-Several round 1 and 2 projects have looked to use or extend the DIRECT competencies framework in different ways, and we also funded [further development of the DIRECT web app](https://discourse-network.github.io/projects/2-51-DIRECT-web-development/). Round 3 seeks to continue this work, particularly embedding the framework as a valuable tool in career development for dRTPs.
+Several round 1 and 2 projects have looked to use or extend the DIRECT competencies framework in different ways, and we also funded [further development of the DIRECT web app](/projects/2-51-DIRECT-web-development/). Round 3 seeks to continue this work, particularly embedding the framework as a valuable tool in career development for dRTPs.
 
 Digital RTPs have pioneered topics in [green computing](https://www.software.ac.uk/news/new-guide-introduction-green-computing), introducing schemes such as [Green DiSC](https://www.software.ac.uk/GreenDiSC) and related training. Round 3 encourages applicants to reflect on where we should be looking next to extend environmental leadership, in concert with projects like [NetDRIVE](https://uknetdrive.org/).
 
