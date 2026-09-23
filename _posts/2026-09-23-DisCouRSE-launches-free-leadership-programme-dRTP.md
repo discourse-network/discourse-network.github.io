@@ -3,8 +3,9 @@ title: "DisCouRSE launches free leadership programme for dRTPs"
 summary-image: "/assets/images/DisCouRSE-Logo-Dark.svg"
 summary-image-desc: "DisCouRSE Network+ Logo"  # Used for alt tag on the image; important for accessibility
 categories:
-  - flexible fund
-  - projects
+  - leadership development programme
+  - direct
+  - training
 ---
 
 ---
