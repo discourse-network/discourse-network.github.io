@@ -15,7 +15,9 @@ Whether you are already leading people, services or communities, or preparing to
 
 **Applications are open now and close at midnight on 8 November 2026.**
 
-[Apply now](https://discourse.grantplatform.com/)
+[Apply now](https://discourse.grantplatform.com/){:.btn .btn--primary}
+
+Applicants will be notified whether they have a place by 1st December 2026.
 
 ## Two leadership programmes
 
