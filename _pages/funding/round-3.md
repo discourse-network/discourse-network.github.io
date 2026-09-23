@@ -11,16 +11,16 @@ sidebar:
     text: Tips and explanations about [navigating institutional processes](/funding/guide)
   # - title: "Q&A Webinar" (TODO)
     # text: ":calendar: Thurs 7<sup>th</sup> May 2026, 10:00 GMT<br>[Slides](https://liveuclac-my.sharepoint.com/:b:/g/personal/cceacoo_ucl_ac_uk/IQA1KvMf3FeTTJswK0Ph0bj1ARxZ89Ntwt5k6_0y6Km4RUc?e=c2zecO) and [recording](https://liveuclac-my.sharepoint.com/:v:/g/personal/cceacoo_ucl_ac_uk/IQC5eRdxw9qESpfonHRg3l2RAbYRt8iD720ma0UKPbNXg4g?e=IZtbZf) available"
-  # - title: Apply now
-    # text: |
-      # [Submit your application](https://discourse.grantplatform.com){:.btn .btn--primary}
+  - title: Apply now
+    text: |
+      [Submit your application](https://discourse.grantplatform.com){:.btn .btn--primary}
 toc: true
 toc_sticky: true
 ---
 
-The third round of the DisCouRSE Network's Flexible Funding scheme is about to open, and closes at **16:00 GMT on 11<sup>th</sup> December 2026**.
+The third round of the DisCouRSE Network's Flexible Funding scheme is now open, and closes at **16:00 GMT on 11<sup>th</sup> December 2026**.
 
-<!-- [Submit your application](https://discourse.grantplatform.com){:.btn .btn--primary} (TODO) -->
+[Submit your application](https://discourse.grantplatform.com){:.btn .btn--primary}
 
 # Key Dates
 
