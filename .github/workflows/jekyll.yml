@@ -90,6 +90,7 @@ jobs:
             --exclude '^https://adriennemareebrown.net/book/emergent-strategy'
             --exclude '^https://www.linkedin.com/in/louisemsaul339824/'
             --exclude '^https://www.businessballs.com/'
+            --exclude '^https://www.ariel-datachallenge.space/exohack-london/'
           fail: true
           jobSummary: true
           format: markdown
