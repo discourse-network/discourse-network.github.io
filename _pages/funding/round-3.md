@@ -27,8 +27,8 @@ The third round of the DisCouRSE Network's Flexible Funding scheme is now open, 
 | Date | Event |
 | --- | --- |
 | Monday 21<sup>st</sup> September 2026 | Call formally opens, submission system live |
-| Thursday 15<sup>th</sup> October 2026,<br> 14:00 BST | [Informative webinar with Q&A - register to attend](https://events.teams.microsoft.com/event/731af7a2-8fbc-44fa-b0cf-ee3e83468310@1faf88fe-a998-4c5b-93c9-210a11d9a5c2?source=copyLinkLegacyShareLinkDialog) |
-| Friday 11<sup>th</sup> December 2026,<br> 16:00 GMT | Submission deadline |
+| Thursday 15<sup>th</sup> October 2026, 14:00 BST | [Informative webinar with Q&A - register to attend](https://events.teams.microsoft.com/event/731af7a2-8fbc-44fa-b0cf-ee3e83468310@1faf88fe-a998-4c5b-93c9-210a11d9a5c2?source=copyLinkLegacyShareLinkDialog) |
+| Friday 11<sup>th</sup> December 2026, 16:00 GMT | Submission deadline |
 | By Friday 22<sup>nd</sup> January 2027 | Decisions notified to applicants |
 | 1<sup>st</sup> March 2027 | Earliest possible project start date |
 | 1<sup>st</sup> May 2027 | Latest possible project start date |
