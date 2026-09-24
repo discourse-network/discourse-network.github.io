@@ -21,7 +21,7 @@ Applicants will be notified whether they have a place by 1st December 2026.
 
 ## Two leadership programmes
 
-Applicants will use a **single application form** and will be matched to the programme that best suits their experience and development needs.
+Applicants use a **single application form** and will be matched to the programme that best suits their experience and development needs.
 
 ### Aspiring Leaders
 
