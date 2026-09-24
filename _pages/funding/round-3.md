@@ -9,8 +9,8 @@ sidebar:
     text: "[Answers to common questions](/funding/round-3/faq) are available and will be added to over time."
   - title: Guidance for applicants
     text: Tips and explanations about [navigating institutional processes](/funding/guide)
-  # - title: "Q&A Webinar" (TODO)
-    # text: ":calendar: Thurs 7<sup>th</sup> May 2026, 10:00 GMT<br>[Slides](https://liveuclac-my.sharepoint.com/:b:/g/personal/cceacoo_ucl_ac_uk/IQA1KvMf3FeTTJswK0Ph0bj1ARxZ89Ntwt5k6_0y6Km4RUc?e=c2zecO) and [recording](https://liveuclac-my.sharepoint.com/:v:/g/personal/cceacoo_ucl_ac_uk/IQC5eRdxw9qESpfonHRg3l2RAbYRt8iD720ma0UKPbNXg4g?e=IZtbZf) available"
+  - title: "Q&A Webinar"
+    text: ":calendar: Thurs 15<sup>th</sup> October 2026, 14:00 BST<br>[Register here to attend](https://events.teams.microsoft.com/event/731af7a2-8fbc-44fa-b0cf-ee3e83468310@1faf88fe-a998-4c5b-93c9-210a11d9a5c2?source=copyLinkLegacyShareLinkDialog)"
   - title: Apply now
     text: |
       [Submit your application](https://discourse.grantplatform.com){:.btn .btn--primary}
@@ -27,8 +27,8 @@ The third round of the DisCouRSE Network's Flexible Funding scheme is now open, 
 | Date | Event |
 | --- | --- |
 | Monday 21<sup>st</sup> September 2026 | Call formally opens, submission system live |
-| TBC | Informative webinar with Q&A |
-| Friday 11<sup>th</sup> December 2026,<br> 16:00 GMT | Submission deadline |
+| Thursday 15<sup>th</sup> October 2026, 14:00 BST | [Informative webinar with Q&A - register to attend](https://events.teams.microsoft.com/event/731af7a2-8fbc-44fa-b0cf-ee3e83468310@1faf88fe-a998-4c5b-93c9-210a11d9a5c2?source=copyLinkLegacyShareLinkDialog) |
+| Friday 11<sup>th</sup> December 2026, 16:00 GMT | Submission deadline |
 | By Friday 22<sup>nd</sup> January 2027 | Decisions notified to applicants |
 | 1<sup>st</sup> March 2027 | Earliest possible project start date |
 | 1<sup>st</sup> May 2027 | Latest possible project start date |
