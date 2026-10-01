@@ -5,11 +5,10 @@ date: 2026-11-17
 location: Bayes Centre, University of Edinburgh
 layout: event
 web-page: https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwpofFxJMT1lCmEeJoickqdhUMFlFNktPUk00WVVHQkVXT1o1Tlk4SVBVWiQlQCN0PWcu
-summary: >
-
+summary: 
+ This Focus Group will bring together researchers, digital Research Technical Professional leaders, educators, and sustainability experts to explore how digital Research Technical Professionals (dRTPs) can be supported to influence and accelerate environmental sustainability across digital research.
 ---
 
-This Focus Group will bring together researchers, digital Research Technical Professional leaders, educators, and sustainability experts to explore how digital Research Technical Professionals (dRTPs) can be supported to influence and accelerate environmental sustainability across digital research.
 
 Supported by the **DisCouRSE network**, the focus group will explore the activities, responsibilities, and roles through which dRTPs can become sustainability leaders in their field.
 
