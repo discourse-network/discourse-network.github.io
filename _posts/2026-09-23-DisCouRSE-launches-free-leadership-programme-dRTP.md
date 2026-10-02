@@ -46,6 +46,8 @@ Both programmes will run over a **six-month period** and include **six modules**
 
 The programmes will combine **in-person and online delivery**, providing opportunities to learn collaboratively while developing connections with other dRTP leaders across the community.
 
+The final timetable is still being agreed with the training providers, but applicants should expect to commit approximately **one day per month on average across the six-month programme**. This includes attendance at workshops plus a small amount of reflective and practical activity between sessions. Some months may require half a day while others may involve a full-day workshop (~6-8 hours).
+
 The syllabus is aligned with management and leadership skills identified in the [DIRECT framework](https://directframework.com/), supporting participants to develop skills that can be applied directly to their professional roles.
 
 The programmes will be delivered in partnership with two experienced organisations: **Advance HE** and **MY Consultants**.
