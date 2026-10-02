@@ -66,7 +66,7 @@ You do not need to decide which programme is right for you before applying. Ever
 
 If you are looking to develop your leadership skills, take the next step in your career or strengthen your ability to lead people, services or communities, this programme offers a fully funded opportunity to learn alongside fellow dRTPs.
 
-**Applications close at midnight on 8 November 2026.**
+**Applications close at 23:55 on 8 November 2026.**
 
 [Apply for the leadership programme](https://discourse.grantplatform.com/){:.btn .btn--primary}
 
