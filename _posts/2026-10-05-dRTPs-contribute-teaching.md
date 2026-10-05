@@ -1,6 +1,6 @@
 ---
 title: "How do dRTPs contribute to the teaching of Digital Research Competencies?"
-summary-image: "/assets/images/DisCouRSE-Logo-Dark.svg"
+summary-image: "/assets/images/mapping-pic.jpeg"
 summary-image-desc: "DisCouRSE Network+ Logo"  # Used for alt tag on the image; important for accessibility
 categories:
   - Digital Research
