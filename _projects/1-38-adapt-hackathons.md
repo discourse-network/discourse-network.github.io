@@ -1,7 +1,7 @@
 ---
 title: "ADAPT: Assessing dRTP Advancement Paths Through Hackathons"
-start-date: 2026-01-01
-date: 2026-03-31
+start-date: 2026-10-01
+date: 2026-12-31
 layout: project
 lead: Arun Nambiyath Govindan
 lead-org: UCL
