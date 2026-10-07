@@ -1,5 +1,5 @@
 ---
-title: "Cohort-Based Leadership Training and Mentoring Opportunities: End-of-Project Outcomes!"
+title: "Cohort-Based Leadership Training and Mentoring Opportunities: End of Project Outcomes!"
 summary-image: "/assets/images/open-leader.jpeg"
 summary-image-desc: "DisCouRSE Network+ Logo"  # Used for alt tag on the image; important for accessibility
 categories:
