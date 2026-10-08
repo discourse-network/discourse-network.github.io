@@ -26,6 +26,11 @@ The focus group will take place:
 - **Where:** Bayes Centre, University of Edinburgh — Ground Floor Meeting Room
 - **When:** Tuesday 17 November 2026, **9.30 am (coffee) 10 am –4.00 pm**
 - **Format:** **In person only** — there will be no hybrid or online attendance option
+- **Speakers**: **[Lisa Otty](https://efi.ed.ac.uk/people/lisa-otty/)** – Edinburgh Futures Institute and **[Scott Davidson](https://edwebprofiles.ed.ac.uk/profile/scott-davidson)** – University of Edinburgh.
+
+
+
+
 
 Places are limited to **40 attendees**. If demand exceeds capacity, applicants will be selected to ensure a range of roles, institutions, and career stages are represented.
 
