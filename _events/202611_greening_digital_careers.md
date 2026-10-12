@@ -29,9 +29,6 @@ The focus group will take place:
 - **Speakers**: **[Lisa Otty](https://efi.ed.ac.uk/people/lisa-otty/)** – Edinburgh Futures Institute and **[Scott Davidson](https://edwebprofiles.ed.ac.uk/profile/scott-davidson)** – University of Edinburgh.
 
 
-
-
-
 Places are limited to **40 attendees**. If demand exceeds capacity, applicants will be selected to ensure a range of roles, institutions, and career stages are represented.
 
 Data submitted through the registration form will be stored on **UCL SharePoint** and used only for the organisation of this event. The data will be removed at the end of the DisCouRSE project.
@@ -39,3 +36,19 @@ Data submitted through the registration form will be stored on **UCL SharePoint*
 [Register for the focus group](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwpofFxJMT1lCmEeJoickqdhUMFlFNktPUk00WVVHQkVXT1o1Tlk4SVBVWiQlQCN0PWcu).
 
 
+
+# Focus Group Draft Agenda
+
+| Time | Activity |
+| :--- | :--- |
+| **09:30** | Coffee |
+| **10:00** | Welcome and Introduction |
+| **10:10 – 10:40** | **Invited Speaker:** Dr Lisa Otty, Head of Data-led Methods, University of Edinburgh |
+| **10:40 – 11:10** | Community Talks |
+| **11:10 – 11:25** | Morning Coffee Break |
+| **11:25 – 12:30** | Breakout Discussions (Part 1) |
+| **12:30 – 13:30** | Lunch |
+| **13:30 – 14:00** | **Invited Speaker:** Scott Davidson, Deputy Director for Social Responsibility and Sustainability and Head of Sustainability, University of Edinburgh |
+| **14:00 – 15:15** | Breakouts (Part 2) |
+| **15:15 – 15:30** | Afternoon Coffee Break |
+| **15:30 – 16:00** | Wrapping up and Close |
