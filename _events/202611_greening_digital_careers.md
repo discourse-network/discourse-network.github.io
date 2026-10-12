@@ -37,7 +37,7 @@ Data submitted through the registration form will be stored on **UCL SharePoint*
 
 
 
-# Focus Group Draft Agenda
+# Draft Agenda
 
 **09:30** : Coffee  
 **10:00** : Welcome and Introduction  
