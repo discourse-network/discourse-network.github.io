@@ -41,12 +41,12 @@ Data submitted through the registration form will be stored on **UCL SharePoint*
 
 **09:30** : Coffee  
 **10:00** : Welcome and Introduction  
-**10:10 – 10:40** : **Invited Speaker:** Dr Lisa Otty, Head of Data-led Methods, University of Edinburgh  
+**10:10 – 10:40** : **Invited Speaker: Dr Lisa Otty**, Head of Data-led Methods, University of Edinburgh  
 **10:40 – 11:10** : Community Talks  
 **11:10 – 11:25** : Morning Coffee Break  
 **11:25 – 12:30** : Breakout Discussions (Part 1)  
 **12:30 – 13:30** : Lunch  
-**13:30 – 14:00** : **Invited Speaker:** Scott Davidson, Deputy Director for Social Responsibility and Sustainability and Head of Sustainability, University of Edinburgh  
+**13:30 – 14:00** : **Invited Speaker: Scott Davidson**, Head of Sustainability, University of Edinburgh  
 **14:00 – 15:15** : Breakouts (Part 2)  
 **15:15 – 15:30** : Afternoon Coffee Break  
 **15:30 – 16:00** : Wrapping up and Close
