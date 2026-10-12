@@ -47,6 +47,7 @@ Data submitted through the registration form will be stored on **UCL SharePoint*
 **11:25 – 12:30** : Breakout Discussions (Part 1)  
 **12:30 – 13:30** : Lunch  
 **13:30 – 14:00** : **Invited Speaker: Scott Davidson**, Head of Sustainability, University of Edinburgh  
-**14:00 – 15:15** : Breakouts (Part 2)  
-**15:15 – 15:30** : Afternoon Coffee Break  
-**15:30 – 16:00** : Wrapping up and Close
+**14:00 – 15:00** : Breakouts (Part 2)  
+**15:00 – 15:15** : Afternoon Coffee Break  
+**15:15 – 16:00** : Plenary Discussion Session
+**16:00** : Close
