@@ -10,7 +10,7 @@ sidebar:
   - title: Guidance for applicants
     text: Tips and explanations about [navigating institutional processes](/funding/guide)
   - title: "Q&A Webinar"
-    text: ":calendar: Thurs 15<sup>th</sup> October 2026, 14:00 BST<br>[Register here to attend](https://events.teams.microsoft.com/event/731af7a2-8fbc-44fa-b0cf-ee3e83468310@1faf88fe-a998-4c5b-93c9-210a11d9a5c2?source=copyLinkLegacyShareLinkDialog)"
+    text: ":calendar: Thurs 15<sup>th</sup> October 2026, 14:00 BST<br>[Slides](https://liveuclac-my.sharepoint.com/:b:/g/personal/cceacoo_ucl_ac_uk/IQDZRxSRuCD2QbT9js6M2P0KAQ-nN5LcFy0AWwNW3xCLc1o?e=ilwSNL) and [a recording](https://liveuclac-my.sharepoint.com/:v:/g/personal/cceacoo_ucl_ac_uk/IQBcTmltwI2mR5Vt9A7E5fuwASFbGGooxt2oEOEALa6THso?e=xs6cmg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) are available."
   - title: Apply now
     text: |
       [Submit your application](https://discourse.grantplatform.com){:.btn .btn--primary}
@@ -27,7 +27,7 @@ The third round of the DisCouRSE Network's Flexible Funding scheme is now open, 
 | Date | Event |
 | --- | --- |
 | Monday 21<sup>st</sup> September 2026 | Call formally opens, submission system live |
-| Thursday 15<sup>th</sup> October 2026, 14:00 BST | [Informative webinar with Q&A - register to attend](https://events.teams.microsoft.com/event/731af7a2-8fbc-44fa-b0cf-ee3e83468310@1faf88fe-a998-4c5b-93c9-210a11d9a5c2?source=copyLinkLegacyShareLinkDialog) |
+| Thursday 15<sup>th</sup> October 2026, 14:00 BST | Informative webinar with Q&A - [slides](https://liveuclac-my.sharepoint.com/:b:/g/personal/cceacoo_ucl_ac_uk/IQDZRxSRuCD2QbT9js6M2P0KAQ-nN5LcFy0AWwNW3xCLc1o?e=ilwSNL) and [recording](https://liveuclac-my.sharepoint.com/:v:/g/personal/cceacoo_ucl_ac_uk/IQBcTmltwI2mR5Vt9A7E5fuwASFbGGooxt2oEOEALa6THso?e=xs6cmg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) now available |
 | Friday 11<sup>th</sup> December 2026, 16:00 GMT | Submission deadline |
 | By Friday 22<sup>nd</sup> January 2027 | Decisions notified to applicants |
 | 1<sup>st</sup> March 2027 | Earliest possible project start date |
