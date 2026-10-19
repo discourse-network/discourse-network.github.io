@@ -47,6 +47,9 @@ How do the panel feel about software focussed projects that target a specific sk
 Can project funding be used to purchase software tools for use in the project?
 : Within reason, yes. We would not fund items that would normally be considered the responsibility of your institution to provide, i.e. that would be part of a well-found lab as UKRI term it. However software or licensing costs specifically for the project can be eligible if appropriately justified. Such costs are funded at 50% FEC.
 
+For pilot projects: can a project combine leadership and career development with a shared data topic (e.g. making research questionnaire data open and reusable)? Or should it focus only on leadership and careers?
+: This probably depends on detail. Technical leadership is within remit so maybe. However a project that only considered leadership in terms of the project lead developing their own skills and career would not be in scope.
+
 
 # Eligibility
 
@@ -89,6 +92,9 @@ Are PhD students eligible to be project leads?
 Are proposals from people/projects that have also received funding from the UKRI DRI programme still eligible to apply?
 : Provided your proposal is not for activities that form a part of your existing project -- implying double funding -- we would encourage you to apply. Our sense is that UKRI are keen for all projects within the DRI programme to collaborate closely.
 
+Is there a list of previously funded Pilot Projects so we can avoid duplication and identify new areas to explore?
+: Yes, you can browse all [ongoing and completed projects](/projects) on our website.
+
 
 # Application Completion
 
@@ -118,3 +124,6 @@ Should reviewers be based in the UK?
 
 What do we do if we've had an idea but can't fit it within the budget ceiling?
 : We are unlikely to raise the ceiling for either strand in our final two rounds, so consider re-scoping your project to begin with what can be delivered within the budget and seek follow-on funding later -- or look for a partner that can also contribute financially.
+
+I'm interested in applying for both the flexible funding and the leadership training. If I get both, would it be possible to adjust the FTE and time period of the flexible funding in order to allow the time required for the leadership training?
+: Yes, we are flexible on timings! Provided your project will still complete within a reasonable time (and certainly within the lifetime of DisCouRSE) and you have a realistic updated project plan, we have approved all such requests so far.
