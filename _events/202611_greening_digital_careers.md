@@ -9,9 +9,8 @@ summary:
  This Focus Group will bring together researchers, digital Research Technical Professional leaders, educators, and sustainability experts to explore how digital Research Technical Professionals (dRTPs) can be supported to influence and accelerate environmental sustainability across digital research.
 ---
 
-## Closing date for travel funds: 26th October
-## Closing date for applications: 28th October
-
+#### Closing date for travel funds: 26th October
+#### Closing date for applications: 28th October
 
 
 Supported by the **DisCouRSE network**, the focus group will explore the activities, responsibilities, and roles through which dRTPs can become sustainability leaders in their field.
