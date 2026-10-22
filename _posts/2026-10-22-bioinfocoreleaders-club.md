@@ -1,6 +1,6 @@
 ---
 title: "BioinfoCoreLeaders Club strengthens national community at Warwick meeting"
-summary-image: "/assets/images/DisCouRSE-Logo-Dark.svg"
+summary-image: "/assets/images/BioinfoCoreLeaders.jpeg"
 summary-image-desc: "DisCouRSE Network+ Logo"  # Used for alt tag on the image; important for accessibility
 categories:
   - Bioinformatics
