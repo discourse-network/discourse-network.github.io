@@ -57,7 +57,8 @@ Data submitted through the registration form will be stored on **UCL SharePoint*
 
 # Bursary Applications
 
-Apply for a travel Bursary [Short Application Form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYUUb2okmvDhIg9cC4oxyZJdUQzc4MFFPV1VLOTJFUElIMkJSM1dKUzlESS4u)
+Apply for a travel bursary via this [short application form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYUUb2okmvDhIg9cC4oxyZJdUQzc4MFFPV1VLOTJFUElIMkJSM1dKUzlESS4u).
 
-To support inclusive participation in the DisCouRSE Focus Group, limited travel bursaries are available for UK-based attendees who would otherwise be unable to join in person. These funds aim to remove financial barriers, ensuring the group reflects a diverse range of voices and career stages. Priority is given to applicants demonstrating financial need, a commitment to active engagement, and/or membership in underrepresented communities within the field. Costs must be in line with the DisCouRSE Expenses policy: https://discourse-network.github.io/expenses-policy. Closing Date: Monday 26th October (5 pm).
-When you submit this form, it will not automatically collect your details like name and email address unless you provide it yourself.
+To support inclusive participation in the DisCouRSE Focus Group, limited travel bursaries are available for UK-based attendees who would otherwise be unable to join in person. These funds aim to remove financial barriers, ensuring the group reflects a diverse range of voices and career stages. Priority is given to applicants demonstrating financial need, a commitment to active engagement, and/or membership in underrepresented communities within the field. Costs must be in line with the [DisCouRSE Expenses policy](https://discourse-network.github.io/expenses-policy).
+
+**Closing Date: Monday 26th October (5 pm).**
