@@ -1,6 +1,6 @@
 ---
-title: "Establishing promotion pathways for Digital Research Technical Professionals (dRTPs): Project outcomes and next steps!"
-summary-image: /assets/images/DisCouRSE-Logo-Dark.svg
+title: "Establishing promotion pathways for Digital Research Technical Professionals (dRTPs): Project outcomes!"
+summary-image: /assets/images/Christine-Stawitz.jpeg
 summary-image-desc: "DisCouRSE Network+ Logo"  # Used for alt tag on the image; important for accessibility
 categories:
   - projects
