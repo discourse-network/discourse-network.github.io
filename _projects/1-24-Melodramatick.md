@@ -1,7 +1,7 @@
 ---
 title: "Developing dRTP Leaders with Melodramatick: Audience Engagement Pilots with Cultural-Sector Partners"
 start-date: 2026-03-01
-date: 2026-11-30
+date: 2027-02-28
 layout: project
 lead: William Haese-Hill
 lead-org: University of Glasgow
