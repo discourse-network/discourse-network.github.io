@@ -1,7 +1,7 @@
 ---
 title: "Application of the DIRECT framework across multi-disciplinary teams"
 start-date: 2026-02-02
-date: 2026-10-30
+date: 2026-12-31
 layout: project
 lead: James Friel
 lead-org: University of Dundee
