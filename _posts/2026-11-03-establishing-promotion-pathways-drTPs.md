@@ -50,6 +50,6 @@ Even though we did not ultimately pitch our improved career framework to IT Lead
 ## Links
 - [2026 Digital Research Infrastructure Retreat](https://n8cir.org.uk/training-and-events/dri-retreat-2026/)
 - [Software Sustainability Institute Collaborations Workshop](https://www.software.ac.uk/workshop/collaborations-workshop-2026-cw26)
-- [poster](https://virtual.oxfordabstracts.com/event/76908/submission/57)
+- [Poster](https://virtual.oxfordabstracts.com/event/76908/submission/57)
 - [DisCouRSE Zenodo community](https://zenodo.org/records/21245281)
 
