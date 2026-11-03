@@ -1,7 +1,7 @@
 ---
 title: "Mapping and evaluating dRTP’s contributions to computing skills pedagogies in HE"
 start-date: 2026-03-01
-date: 2026-10-31
+date: 2027-01-31
 layout: project
 lead: Carlos Cámara-Menoyo
 lead-org: University of Warwick
