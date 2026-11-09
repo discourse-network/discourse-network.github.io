@@ -45,6 +45,11 @@ Data submitted through the registration form will be stored on **UCL SharePoint*
 **10:00** : Welcome and Introduction  
 **10:10 – 10:40** : **Invited Speaker: Dr Lisa Otty**, Head of Data-led Methods, University of Edinburgh  
 **10:40 – 11:10** : Community Talks  
+* **10:40 – 10:45** : Emma Simpson, “A summary of our experience of doing Green DiSC”, University of Manchester  
+* **10:45 – 10:50** : Christine Stawitz, “Embedding sustainable tools and practices within the Baskerville National Compute Resource (NCR) to shape digital research”, University of Birmingham  
+* **10:50 – 10:55** : Emma Horrell, “Using design to make digital greener at the University of Edinburgh”, University of Edinburgh  
+* **10:55 – 11:00** : Christopher Cave-Ayland, “[Introducing Imperial's New Research Sustainability Training, Practical methods and case studies for estimating, measuring, and reducing the carbon footprint of research activities](https://imperialcollegelondon.github.io/digital_research_sustainability_training/)”, Imperial  
+* **11:00 – 11:10** : Q&A and Discussion  
 **11:10 – 11:25** : Morning Coffee Break  
 **11:25 – 12:30** : Breakout Discussions (Part 1)  
 **12:30 – 13:30** : Lunch  
