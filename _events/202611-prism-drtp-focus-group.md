@@ -41,7 +41,7 @@ Note that this event is **in-person only** with no hybrid option. [**Register no
 |---|---|
 | 10:30–11:00 | *Arrival / Tea and coffee* |
 | 11:00–11:05 | **Introductions** – Pamela Mellen (Research Software Lab Manager, King’s Digital Lab, King’s College London) |
-| 11:05–11:20 | **Title TBC** – James Graham (Head of Research Software Engineering, Advanced Research Computing, King’s College London) |
+| 11:05–11:20 | **From "we'll make it work" to a confident "yes"** – James Graham (Head of Research Software Engineering, Advanced Research Computing, King’s College London) |
 | 11:20–12:10 | **Activity 1: Roles and Responsibilities** |
 | 12:10–12:30 | *Break* |
 | 12:30–12:45 | **Beyond governance: building networks for data-intensive research** – Michelle Harrichan (Head of Profession for Research Data Stewardship, Centre for Advanced Research Computing (ARC), University College London) |
