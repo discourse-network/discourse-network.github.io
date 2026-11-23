@@ -32,5 +32,7 @@ The current list of Advisory Board members is:
 - Martyn Guest, Director of ARC, Cardiff
 - Stefania Marcotti, BioImage Analysis Trainer, Francis Crick Institute
 - Stephen Larson, CEO, Metacell
+- Christina Munn, Project Manager, Durham University Space Research Centre
+- Dr Mia Ridge, Digital Curator, Digital Research team, British Library
 
 **Observer:** Charlotte Clarke – NERC UKRI
