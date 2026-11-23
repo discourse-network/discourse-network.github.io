@@ -40,12 +40,13 @@ Note that this event is **in-person only** with no hybrid option. [**Register no
 | Time | Description |
 |---|---|
 | 10:30–11:00 | *Arrival / Tea and coffee* |
-| 11:00–11:05 | **Introductions** – Pamela Mellen (Research Software Lab Manager, King’s Digital Lab, King’s College London) |
-| 11:05–11:20 | **From "we'll make it work" to a confident "yes"** – James Graham (Head of Research Software Engineering, Advanced Research Computing, King’s College London) |
-| 11:20–12:10 | **Activity 1: Roles and Responsibilities** |
-| 12:10–12:30 | *Break* |
-| 12:30–12:45 | **Beyond governance: building networks for data-intensive research** – Michelle Harrichan (Head of Profession for Research Data Stewardship, Centre for Advanced Research Computing (ARC), University College London) |
-| 12:45–13:00 | **Enabling Research: PRISMs and dRTPs at the University of Exeter** – Helen Bell (Head of Research Project Management, Research Services, University of Exeter) |
+| 11:00–11:10 | **Introductions** – Pamela Mellen (Research Software Lab Manager, King’s Digital Lab, King’s College London) |
+| 11:10–11:25 | **From “we’ll make it work” to a confident “yes”** – James Graham (Head of Research Software Engineering, Advanced Research Computing, King’s College London) |
+| 11:25–12:05 | **Activity 1: Roles and Responsibilities** |
+| 12:05–12:25 | *Break* |
+| 12:25–12:40 | **Beyond governance: building networks for data-intensive research** – Michelle Harrichan (Head of Profession for Research Data Stewardship, Centre for Advanced Research Computing (ARC), University College London) |
+| 12:40–12:55 | **Enabling Research: PRISMs and dRTPs at the University of Exeter** – Helen Bell (Head of Research Project Management, Research Services, University of Exeter) |
+| 12:55–13:00 | **DisCouRSE Project Overview** – Arianna Ciula (KDL Director and DisCouRSE Co-Lead) |
 | 13:00–13:30 | **Activity 2: Pain Points** |
 | 13:30–14:30 | *Lunch* |
 | 14:30–14:45 | **Agile Project Management: Help us to Help you!** – Jonny Taylor (Senior Research Software Engineer, Research IT, University of Manchester) |
