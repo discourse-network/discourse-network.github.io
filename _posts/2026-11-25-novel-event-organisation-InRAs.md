@@ -54,8 +54,6 @@ The energy from the participants in both the online and in-person sessions was f
 
 "This project allowed us to move towards addressing a gap in current training for dRTPs. The ability to design productive spaces, bringing together people with varied expertise, is particularly important in dRTP roles. We were able to host a pilot training initiative, named Unorgodox. We plan to move forward with this through a further DisCouRSE funding proposal. Having developed good relationships with the [Digital Research Academy](https://digital-research.academy/) and Heidi Seibold (DRA), who took the online sessions, as well as having the comprehensive shared notes from the training, will help to create a sustainable version of the training in the future."
 
-*(One of the groups discussing their unconference session during the in-person part of the training – the design and creation of a “how to organise an event” zine.)*
-
 ## Links
 
 - [Novel event organisation training material](https://zenodo.org/records/23813575)
