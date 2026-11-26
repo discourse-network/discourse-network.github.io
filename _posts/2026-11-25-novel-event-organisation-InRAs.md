@@ -32,8 +32,6 @@ The training consisted of three activities:
 
 **Two day workshop in September**, held at Warwick, where participants had the chance to share their reflections as well as put some ideas into action through some experimentation.
 
-Those who could not attend the in-person session contributed to the discussion via the collective event consciousness.
-
 ## Project Resources Now Available
 
 The workshops gave participants the opportunity to reflect on their experiences of events, both as organisers and attendees, and to try out some unconventional approaches to event delivery. This was done, as described above, in three distinct parts which informed each other. The ideas and reflections explored in the training were captured in the training materials.
