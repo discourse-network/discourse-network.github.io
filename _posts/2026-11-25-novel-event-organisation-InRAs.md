@@ -1,6 +1,6 @@
 ---
 title: "Novel Event Organisation for Innovation Research Associates (InRAs): Project Outcomes and Resources"
-summary-image: /assets/images/Christine-Stawitz.jpeg
+summary-image: /assets/images/Iain-Souttar.jpg
 summary-image-desc: "DisCouRSE Network+ Logo"  # Used for alt tag on the image; important for accessibility
 categories:
   - projects
