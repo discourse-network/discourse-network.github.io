@@ -11,7 +11,7 @@ sidebar:
       
 ---
 
- Iain Souttar from the University of Warwick shares the outcomes of his DisCouRSE-funded project, which developed training materials to help Innovation Research Associates (InRAs) organise innovative events that encourage knowledge exchange, collaboration and interdisciplinary working.
+ Iain Souttar from the University of Warwick shares the outcomes of his recently completed DisCouRSE-funded project, which explored innovative approaches to event organisation for Innovation Research Associates (InRAs).
 
 ## A New Type of dRTP
 
