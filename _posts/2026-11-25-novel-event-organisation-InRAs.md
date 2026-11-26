@@ -54,5 +54,5 @@ The energy from the participants in both the online and in-person sessions was f
 
 ## Links
 
-- [Novel event organisation training material](https://zenodo.org/records/23813575)
+- [Novel event organisation training material](https://zenodo.org/records/24505025)
 
