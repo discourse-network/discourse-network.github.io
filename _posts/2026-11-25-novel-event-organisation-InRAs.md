@@ -45,8 +45,6 @@ Another highlight was bringing together participants from such varied background
 
 The energy from the participants in both the online and in-person sessions was fantastic. An example of this was the exercise of talking about each person's favourite event, which produced some very evocative and thoughtful descriptions. This created a real collaborative feel, where there was support and encouragement throughout, in turn allowing innovative ideas to be developed during the discussions.
 
-## Quote
-
 **Iain Souttar, Innovation Research Associate (InRA), University of Warwick**
 
 "This project allowed us to move towards addressing a gap in current training for dRTPs. The ability to design productive spaces, bringing together people with varied expertise, is particularly important in dRTP roles. We were able to host a pilot training initiative, named Unorgodox. We plan to move forward with this through a further DisCouRSE funding proposal. Having developed good relationships with the [Digital Research Academy](https://digital-research.academy/) and Heidi Seibold (DRA), who took the online sessions, as well as having the comprehensive shared notes from the training, will help to create a sustainable version of the training in the future."
